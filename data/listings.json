@@ -1,61 +1,5 @@
 [
  {
-  "id": "ka:3323088135",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/wohnungsswap-1-zimmer-40-m-gertrud-von-le-fort-strasse-regensburg/3323088135-203-7654",
-  "title": "Wohnungsswap - 1 Zimmer, 40 m² - Gertrud-von-le-Fort-Straße, Regensburg",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 560,
-  "rent_cold": 440.0,
-  "utilities": 120,
-  "rent_estimated": true,
-  "deposit": null,
-  "area_m2": 40.0,
-  "rooms": 1.0,
-  "address": "Gertrud-von-le-Fort-Straße 9, 93051 Regensburg",
-  "zip_code": "93051",
-  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
-  "lat": 48.9937,
-  "lon": 12.0843,
-  "available_from": null,
-  "available_until": null,
-  "is_swap": false,
-  "description": "# Objektbeschreibung\n\nEs handelt sich hierbei um ein Tauschangebot.\n\nIch biete eine große 1-Raum-Wohnung mit riesigen Garten an, sie befindet sich in unmittelbarer Nähe der Universität - 10 Minuten Fußweg.\nZur Wohnung gehört nicht nur ein Garten , sondern auch ein eigenes großes Kellerabteil sowie ein Tiefgaragenstellplatz.\nDie nächste Einkaufsmöglichkeit ist nur 3 Minuten Fußweg entfernt , 2 Bushaltestellen in direkter Nähe sowie eine Parkanlage für Hunde oder um sich eine kleine Auszeit zu gönnen.\n\nDas Bad ist mit einer Duschwanne ausgestattet und die Einbauküche beinhaltet auch einen kleinen Geschirrspüler.\n\nWichtig\nDiese Wohnung wird derzeit bei Wohnungsswap als Tauschobjekt angeboten, eignet sich also nur für diejenigen, die im Gegenzug eine eigene passende Wohnung für den Tausch haben.\nEs ist kostenlos, ihr Konto zu registrieren und diese bestimme Wohnung oder Hunderte andere Wohnungen bei uns zu finden.\n\nAnbieter-Objekt-ID: 1493554",
-  "features": [],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/310b6e1f-8008-4320-ba8a-88f5e87d967a?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e270639-d184-4054-a0ea-d164a0e3f0a8?rule=$_59.JPG"
-  ],
-  "score": 76,
-  "rating": "Gut",
-  "breakdown": {
-   "location": 18.5,
-   "size": 22.5,
-   "price": 6.2,
-   "parking": 20.0,
-   "extras": 9.0,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Genug Platz für alle Möbel",
-   "Eigener Stellplatz",
-   "Einbauküche",
-   "Keller/Abstellraum"
-  ],
-  "cons": [
-   "Warmmiete geschätzt (nur Kaltmiete angegeben)"
-  ],
-  "distance_km": 2.9,
-  "bike_minutes": 15,
-  "parking": "Eigener Stellplatz",
-  "ai_review": null,
-  "first_seen": "2026-10-07T20:08:00+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
-  "notified_at": null,
-  "active": true,
-  "duplicate_of": null
- },
- {
   "id": "ka:3533152156",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/untermiete-mietwohnung-regensburg/3533152156-203-7656",
@@ -113,7 +57,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -175,7 +119,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T20:08:00+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -238,7 +182,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -300,7 +244,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T20:08:00+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -361,7 +305,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -426,7 +370,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -491,7 +435,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -557,7 +501,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -619,7 +563,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -675,7 +619,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T20:08:00+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -740,7 +684,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -809,7 +753,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-07T20:13:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null

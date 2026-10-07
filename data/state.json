@@ -3,19 +3,23 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-10-07T20:08:00+00:00",
+   "last_success": "2026-10-07T20:13:00+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-10-07T20:08:00+00:00",
+   "last_success": "2026-10-07T20:13:00+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 7
   }
  },
  "rejected": {
+  "ka:3323088135": {
+   "reason": "Tauschwohnung",
+   "seen": "2026-10-07T20:13:00+00:00"
+  },
   "ka:3364361530": {
    "reason": "Tauschwohnung",
    "seen": "2026-10-07T19:47:38+00:00"
