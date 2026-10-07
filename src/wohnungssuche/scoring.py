@@ -94,6 +94,15 @@ PARKING_FACTORS = {
     PARKING_UNKNOWN: 0.0,
 }
 
+# Shared flats. "WG-geeignet" / "für eine WG" describe a whole flat and are not matched.
+WG_PATTERN = re.compile(
+    r"wg-zimmer|zimmer in (?:einer|unserer|der|meiner) (?:netten |schönen |ruhigen )?(?:\d+er[- ]?)?(?:wg|wohngemeinschaft)"
+    r"|\b\d+er[- ]?wg\b|\bwg[- ]?(?:mitbewohner|leben|casting|zimmer)|wohngemeinschaft(?!s?[- ]?(?:geeignet|tauglich))"
+    r"|mitbewohner|küchenmitbenutzung|badmitbenutzung|gemeinschafts(?:küche|bad)|gemeinsame[sn]? (?:küche|bad)"
+    r"|\bin (?:der|unserer|einer) wg\b|\bunsere wg\b",
+    re.IGNORECASE,
+)
+
 SWAP_PATTERN = re.compile(r"tausch|swap", re.IGNORECASE)  # checked on the title only
 
 
@@ -123,7 +132,7 @@ def exclusion_reason(listing: Listing, config: Config, today: date) -> str | Non
         return f"{listing.area_m2:g} m² < {search.min_area_m2:g} m²"
     if listing.is_swap or SWAP_PATTERN.search(listing.title):
         return "Tauschwohnung"
-    if listing.kind == "WG-Zimmer" and not search.include_wg_rooms:
+    if not search.include_wg_rooms and (listing.kind == "WG-Zimmer" or WG_PATTERN.search(_text(listing))):
         return "WG-Zimmer"
     if search.require_parking and PARKING_FACTORS[classify_parking(listing)] == 0:
         return "Kein Parkplatz"

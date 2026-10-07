@@ -134,3 +134,30 @@ def test_require_parking_excludes(config, make_listing):
     strict = replace(config, search=replace(config.search, require_parking=True))
     assert exclusion_reason(make_listing(description="Kein Parkplatz"), strict, TODAY) == "Kein Parkplatz"
     assert exclusion_reason(make_listing(description="Mit Garage"), strict, TODAY) is None
+
+
+@pytest.mark.parametrize(
+    "text",
+    [
+        "Wir suchen eine nette Mitbewohnerin für unsere 3er WG.",
+        "Zimmer in einer 4er-WG, Küche und Bad werden geteilt",
+        "Schönes Zimmer mit Küchenmitbenutzung",
+        "Gemeinschaftsküche im Erdgeschoss",
+        "Du wohnst mit zwei Studenten in einer Wohngemeinschaft.",
+    ],
+)
+def test_hidden_wg_offers_are_excluded(config, make_listing, text):
+    listing = make_listing(title="Schönes Zimmer frei", description=text)
+    assert exclusion_reason(listing, config, TODAY) == "WG-Zimmer"
+
+
+@pytest.mark.parametrize(
+    "text",
+    [
+        "2-Zimmer-Wohnung, auch WG-geeignet.",
+        "Ideal für Singles oder Paare, nicht wohngemeinschaftsgeeignet.",
+        "Eigene Küche und eigenes Bad.",
+    ],
+)
+def test_whole_flats_mentioning_wg_are_kept(config, make_listing, text):
+    assert exclusion_reason(make_listing(description=text), config, TODAY) is None
