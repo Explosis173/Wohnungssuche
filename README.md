@@ -54,9 +54,9 @@ GitHub Actions (3× täglich, kostenlos)
 
 ### Für Astra (am Computer, ca. 5 Minuten)
 
-1. **Branch zu `main` machen**: Zeitpläne laufen nur auf dem Standard-Branch. Unter
-   *Settings → General → Default branch* den Branch `claude/intelligent-galileo-t9xdb6` in `main`
-   umbenennen (Stift-Symbol). Falls `main` schon existiert: den Pull Request mergen.
+1. **Branch umbenennen (optional, aber sauberer)**: Der Code liegt auf dem Standard-Branch
+   `claude/intelligent-galileo-t9xdb6`; die Zeitpläne laufen dort schon. Unter
+   *Settings → General → Default branch* per Stift-Symbol in `main` umbenennen.
 2. **Repo öffentlich machen** (nötig für die kostenlose App-Seite auf GitHub Pages):
    *Settings → General → Danger Zone → Change visibility → Public.*
    Es liegen keine Geheimnisse im Code; der Push-Kanal ist ein Secret.
@@ -72,7 +72,7 @@ GitHub Actions (3× täglich, kostenlos)
 Per Terminal geht das auch (mit `gh`):
 
 ```bash
-gh api -X POST repos/Explosis173/Wohnungssuche/branches/claude/intelligent-galileo-t9xdb6/rename -f new_name=main
+gh api -X POST repos/Explosis173/Wohnungssuche/branches/claude%2Fintelligent-galileo-t9xdb6/rename -f new_name=main
 gh repo edit Explosis173/Wohnungssuche --visibility public --accept-visibility-change-consequences
 gh api -X POST repos/Explosis173/Wohnungssuche/pages -f build_type=workflow
 gh secret set NTFY_TOPIC --repo Explosis173/Wohnungssuche   # Wert eingeben
