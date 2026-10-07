@@ -4,6 +4,7 @@ export interface ScoreBreakdown {
   location: number
   size: number
   price: number
+  parking: number
   extras: number
   penalty: number
   ai?: number
@@ -46,6 +47,7 @@ export interface Listing {
   cons: string[]
   distance_km: number | null
   bike_minutes: number | null
+  parking: string | null
   ai_review: AiReview | null
   first_seen: string
   last_seen: string
@@ -67,7 +69,7 @@ export interface Criteria {
   center_name: string
   center: [number, number]
   furniture: string[]
-  weights: { location: number; size: number; price: number; extras: number }
+  weights: { location: number; size: number; price: number; parking: number; extras: number }
 }
 
 export interface AppData {

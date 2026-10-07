@@ -112,7 +112,7 @@ onMounted(load)
 
     <footer v-if="data" class="footer">
       Bewertung: Lage {{ data.criteria.weights.location }} · Platz {{ data.criteria.weights.size }} · Preis
-      {{ data.criteria.weights.price }} · Ausstattung {{ data.criteria.weights.extras }} Punkte. Möbel:
+      {{ data.criteria.weights.price }} · Parkplatz {{ data.criteria.weights.parking }} · Ausstattung {{ data.criteria.weights.extras }} Punkte. Möbel:
       {{ data.criteria.furniture.join(', ') }}.
     </footer>
   </main>

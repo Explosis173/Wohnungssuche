@@ -134,10 +134,14 @@ def _listing_message(
         facts.append(f"frei ab {_format_date(listing.available_from)}")
     facts.append(SOURCE_LABEL.get(listing.source, listing.source))
     lines.append("🗓 " + " · ".join(facts))
-    if listing.pros:
-        lines.append("👍 " + ", ".join(listing.pros[:4]))
-    if listing.cons:
-        lines.append("⚠️ " + ", ".join(listing.cons[:3]))
+    if listing.parking:
+        lines.append(f"🚗 {listing.parking}")
+    pros = [p for p in listing.pros if p != listing.parking]
+    cons = [c for c in listing.cons if c != listing.parking]
+    if pros:
+        lines.append("👍 " + ", ".join(pros[:4]))
+    if cons:
+        lines.append("⚠️ " + ", ".join(cons[:3]))
     if listing.ai_review and listing.ai_review.get("summary"):
         lines.append("🤖 " + str(listing.ai_review["summary"]))
     if listing.description:

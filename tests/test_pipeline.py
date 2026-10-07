@@ -107,7 +107,7 @@ def test_late_digest_is_sent_immediately(config, make_listing, data_dir):
 def test_instant_push_only_for_top_listings_after_digest(config, make_listing, data_dir):
     store = Store(data_dir)
     store.state.last_digest_date = "2026-10-07"
-    top = make_listing(id="ka:1", rent_warm=420, area_m2=45, rooms=2)
+    top = make_listing(id="ka:1", rent_warm=420, area_m2=45, rooms=2, features=["Garage"])
     meh = make_listing(id="ka:2", lat=49.05, lon=12.14, area_m2=22, rent_warm=590)
     collect(store, [FakeSource(config, [top, meh])], config, AFTERNOON)
     client = RecordingClient()

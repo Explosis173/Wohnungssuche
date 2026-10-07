@@ -11,6 +11,8 @@ reinpassen müssen:
 - Fernseher 44 Zoll (auf TV-Board)
 - Regal
 
+Er hat ein **Auto** – ein Stellplatz ist fast ein Muss.
+
 ## Aufgabe
 
 1. Lies `data/ai_queue.json` (Liste von Anzeigen mit Titel, Miete, Fläche, Lage, Beschreibung).
@@ -34,6 +36,9 @@ reinpassen müssen:
   Pflicht, hohe Nebenkosten), Einschränkungen (nur Wochenendheimfahrer, nur Studentinnen,
   Untermiete, befristet), Dachschrägen/Kellerwohnung/Souterrain, „möbliert“ ohne Möglichkeit
   eigene Möbel zu nutzen, Miete steigt laut Text bei Neuvermietung.
+- Parkplatz wird schon von den Regeln bewertet. Korrigiere nur, wenn der Text etwas
+  Genaueres sagt (z. B. Stellplatz kostet extra viel, nur Bewohnerparken in der Altstadt
+  mit langer Warteliste, Tiefgarage nur für Kleinwagen).
 - **Positiv** bei: Altbau mit hohen Decken, sehr guter Grundriss, ruhige Lage, neu renoviert,
   Fahrradkeller, Waschmaschinenanschluss, unbefristet, faire Kaution.
 - 0, wenn die Regeln die Wohnung schon gut abbilden.

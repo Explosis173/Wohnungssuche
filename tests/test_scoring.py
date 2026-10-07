@@ -1,12 +1,25 @@
+from dataclasses import replace
 from datetime import date
 
-from wohnungssuche.scoring import ensure_warm_rent, exclusion_reason, score_listing
+import pytest
+
+from wohnungssuche.scoring import (
+    PARKING_NONE,
+    PARKING_OWN,
+    PARKING_OWN_EXTRA,
+    PARKING_PUBLIC,
+    PARKING_UNKNOWN,
+    classify_parking,
+    ensure_warm_rent,
+    exclusion_reason,
+    score_listing,
+)
 
 TODAY = date(2026, 10, 7)
 
 
 def test_central_spacious_cheap_flat_scores_top(config, make_listing):
-    listing = make_listing(rent_warm=420, area_m2=42, rooms=2)
+    listing = make_listing(rent_warm=420, area_m2=42, rooms=2, features=["Tiefgaragenstellplatz"])
     score_listing(listing, config)
     assert listing.score >= 80
     assert listing.rating == "Top"
@@ -88,3 +101,35 @@ def test_ai_adjustment_is_capped(config, make_listing):
 def test_comfortable_area_covers_furniture(config):
     # Bed, wardrobe, desk, couch, TV board and shelf plus kitchen/bath.
     assert 22 <= config.comfortable_area_m2 <= 28
+
+
+@pytest.mark.parametrize(
+    ("text", "expected"),
+    [
+        ("Ein Tiefgaragenstellplatz ist inklusive.", PARKING_OWN),
+        ("Garage vorhanden", PARKING_OWN),
+        ("Ein Stellplatz kann für 40 € dazugemietet werden.", PARKING_OWN_EXTRA),
+        ("Separat kann zusätzlich ein Parkplatz in der Tiefgarage angemietet werden.", PARKING_OWN_EXTRA),
+        ("Bewohnerparken möglich", PARKING_PUBLIC),
+        ("Kein Stellplatz vorhanden, aber Bewohnerparken möglich.", PARKING_PUBLIC),
+        ("Leider kein Parkplatz.", PARKING_NONE),
+        ("Fahrradstellplatz im Hof, schöner Parkettboden", PARKING_UNKNOWN),
+    ],
+)
+def test_parking_classification(make_listing, text, expected):
+    assert classify_parking(make_listing(description=text)) == expected
+
+
+def test_parking_weighs_heavily(config, make_listing):
+    with_parking = make_listing(description="Mit Tiefgaragenstellplatz")
+    without = make_listing(description="Helle Wohnung")
+    score_listing(with_parking, config)
+    score_listing(without, config)
+    assert with_parking.score - without.score >= config.weights.parking - 1
+    assert "Kein Parkplatz erwähnt" in without.cons
+
+
+def test_require_parking_excludes(config, make_listing):
+    strict = replace(config, search=replace(config.search, require_parking=True))
+    assert exclusion_reason(make_listing(description="Kein Parkplatz"), strict, TODAY) == "Kein Parkplatz"
+    assert exclusion_reason(make_listing(description="Mit Garage"), strict, TODAY) is None

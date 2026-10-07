@@ -59,6 +59,41 @@ PENALTY_KEYWORDS = (
     _kw(r"ablöse", -1, "Ablöse verlangt"),
 )
 
+# Parking, checked in this order on the text with negations removed.
+NO_PARKING = re.compile(
+    r"kein(?:e[nr]?)? (?:eigene[nr]? )?(?:auto|pkw)?(?:stellpl(?:atz|ätze)|parkpl(?:atz|ätze)|parkmöglichkeit(?:en)?|garage)"
+    r"|ohne (?:stellplatz|parkplatz|garage)|schlechte parkmöglichkeit(?:en)?|parken (?:ist )?(?:schwierig|schlecht|kaum)",
+    re.IGNORECASE,
+)
+OWN_PARKING = re.compile(
+    r"tiefgarage|\bgarage|carport|\bstellpl(?:atz|ätze)|(?:auto|pkw|kfz|außen)stellplatz"
+    r"|eigene[rn]? parkplatz|parkplatz (?:inkl|inklusive|vorhanden|am haus|vor dem haus|im hof|gehört)",
+    re.IGNORECASE,
+)
+PARKING_COSTS_EXTRA = re.compile(
+    r"(?:stellplatz|parkplatz|garage|carport)[^.\n]{0,80}?"
+    r"(?:\d+\s*(?:€|euro)|aufpreis|zusätzlich|extra|zzgl|separat|angemietet|anmiet|dazu ?(?:ge)?miet)"
+    r"|(?:aufpreis|zusätzlich|separat|zzgl)[^.\n]{0,80}?(?:stellplatz|parkplatz|garage|carport)",
+    re.IGNORECASE,
+)
+PUBLIC_PARKING = re.compile(
+    r"bewohnerpark|anwohnerpark|gute parkmöglichkeit|parkmöglichkeit(?:en)? (?:vorhanden|in der nähe|vor dem haus|direkt|ausreichend)"
+    r"|parkpl(?:atz|ätze) (?:in der|auf der|an der) straße|kostenlose[sn]? park|öffentliche parkpl|parkhaus",
+    re.IGNORECASE,
+)
+PARKING_OWN = "Eigener Stellplatz"
+PARKING_OWN_EXTRA = "Stellplatz (gegen Aufpreis)"
+PARKING_PUBLIC = "Parken auf der Straße / Bewohnerparken"
+PARKING_NONE = "Kein Parkplatz"
+PARKING_UNKNOWN = "Kein Parkplatz erwähnt"
+PARKING_FACTORS = {
+    PARKING_OWN: 1.0,
+    PARKING_OWN_EXTRA: 0.85,
+    PARKING_PUBLIC: 0.45,
+    PARKING_NONE: 0.0,
+    PARKING_UNKNOWN: 0.0,
+}
+
 SWAP_PATTERN = re.compile(r"tauschwohnung|wohnungstausch|nur (?:im )?tausch", re.IGNORECASE)
 
 
@@ -90,6 +125,8 @@ def exclusion_reason(listing: Listing, config: Config, today: date) -> str | Non
         return "Tauschwohnung"
     if listing.kind == "WG-Zimmer" and not search.include_wg_rooms:
         return "WG-Zimmer"
+    if search.require_parking and PARKING_FACTORS[classify_parking(listing)] == 0:
+        return "Kein Parkplatz"
     if listing.available_until:
         start = max(today, date.fromisoformat(listing.available_from)) if _is_iso(listing.available_from) else today
         end = date.fromisoformat(listing.available_until)
@@ -108,12 +145,14 @@ def score_listing(listing: Listing, config: Config) -> None:
     location = _location_factor(listing, config, pros, cons)
     size = _size_factor(listing, config, pros, cons)
     price = _price_factor(listing, config, pros, cons)
+    parking = _parking_factor(listing, pros, cons)
     extras, penalty = _keyword_points(listing, pros, cons)
 
     breakdown = {
         "location": round(location * w.location, 1),
         "size": round(size * w.size, 1),
         "price": round(price * w.price, 1),
+        "parking": round(parking * w.parking, 1),
         "extras": round(extras * w.extras, 1),
         "penalty": penalty,
     }
@@ -190,8 +229,29 @@ def _price_factor(listing: Listing, config: Config, pros: list[str], cons: list[
     return 1 - (1 - PRICE_FACTOR_AT_MAX) * (warm - cheap) / (maximum - cheap)
 
 
+def classify_parking(listing: Listing) -> str:
+    text = _text(listing)
+    without_negations = NO_PARKING.sub(" ", text)
+    if OWN_PARKING.search(without_negations):
+        return PARKING_OWN_EXTRA if PARKING_COSTS_EXTRA.search(without_negations) else PARKING_OWN
+    if PUBLIC_PARKING.search(without_negations):
+        return PARKING_PUBLIC
+    return PARKING_NONE if NO_PARKING.search(text) else PARKING_UNKNOWN
+
+
+def _parking_factor(listing: Listing, pros: list[str], cons: list[str]) -> float:
+    listing.parking = classify_parking(listing)
+    factor = PARKING_FACTORS[listing.parking]
+    (pros if factor >= 0.85 else cons).append(listing.parking)
+    return factor
+
+
+def _text(listing: Listing) -> str:
+    return " ".join([listing.title, listing.description, " ".join(listing.features)])
+
+
 def _keyword_points(listing: Listing, pros: list[str], cons: list[str]) -> tuple[float, float]:
-    text = " ".join([listing.title, listing.description, " ".join(listing.features)])
+    text = _text(listing)
     bonus = 0.0
     for keyword in BONUS_KEYWORDS:
         if keyword.pattern.search(text):

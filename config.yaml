@@ -8,6 +8,7 @@ search:
   min_area_m2: 20               # darunter passen deine Möbel nicht rein → wird ignoriert
   min_rental_months: 6          # kürzere Zwischenmieten werden ignoriert
   include_wg_rooms: false       # WG-Zimmer mitsuchen?
+  require_parking: false        # true = Wohnungen ohne Parkplatz komplett ausblenden
   utilities_per_m2_estimate: 3.0  # Nebenkosten-Schätzung (€/m²), falls nur Kaltmiete bekannt
 
 location:
@@ -27,10 +28,13 @@ furniture:
   - { name: "Regal",             width: 0.8, depth: 0.4 }
 
 # Gewichtung der Bewertung (Summe = 100)
+# Parkplatz: eigener Stellplatz/Garage = volle Punkte, gegen Aufpreis = 85 %,
+# Bewohnerparken/Straße = 45 %, nichts erwähnt oder „kein Parkplatz“ = 0
 weights:
-  location: 35
-  size: 30
-  price: 25
+  location: 30
+  size: 25
+  price: 15
+  parking: 20
   extras: 10
 
 notifications:

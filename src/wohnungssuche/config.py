@@ -33,6 +33,7 @@ class SearchSettings:
     min_area_m2: float = 20
     min_rental_months: int = 6
     include_wg_rooms: bool = False
+    require_parking: bool = False
     utilities_per_m2_estimate: float = 3.0
 
 
@@ -47,9 +48,10 @@ class LocationSettings:
 
 @dataclass(frozen=True)
 class Weights:
-    location: float = 35
-    size: float = 30
-    price: float = 25
+    location: float = 30
+    size: float = 25
+    price: float = 15
+    parking: float = 20
     extras: float = 10
 
 

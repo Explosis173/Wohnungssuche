@@ -14,6 +14,7 @@ const bars = computed(() => {
     { label: 'Lage', value: b.location, max: w.location },
     { label: 'Platz für deine Möbel', value: b.size, max: w.size },
     { label: 'Preis', value: b.price, max: w.price },
+    { label: 'Parkplatz', value: b.parking ?? 0, max: w.parking },
     { label: 'Ausstattung', value: b.extras, max: w.extras },
   ]
 })
@@ -104,6 +105,7 @@ onBeforeUnmount(() => {
           </p>
         </div>
         <p class="space">🛋️ {{ spaceVerdict }}</p>
+        <p v-if="listing.parking" class="space">🚗 {{ listing.parking }}</p>
 
         <ul class="chips">
           <li v-for="pro in listing.pros" :key="pro" class="chip pro">👍 {{ pro }}</li>

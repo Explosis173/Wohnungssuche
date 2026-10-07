@@ -45,6 +45,7 @@ class Listing:
     cons: list[str] = field(default_factory=list)
     distance_km: float | None = None
     bike_minutes: int | None = None
+    parking: str | None = None          # see scoring.PARKING_*
 
     # Optional AI review (via Claude subscription)
     ai_review: dict[str, Any] | None = None

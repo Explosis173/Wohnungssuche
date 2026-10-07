@@ -21,9 +21,10 @@ API- oder Token-Kosten an.
 
 | Kriterium | Punkte | Wie |
 |---|---|---|
-| Lage | 35 | Entfernung zum Neupfarrplatz: bis 1 km volle Punkte, ab 6 km 0 |
-| Platz für deine Möbel | 30 | Bett 160×200, Schrank, Schreibtisch, 2er-Couch, TV-Board, Regal brauchen inkl. Küche/Bad ca. **24 m²**; darunter wird es eng, ab ~44 m² volle Punkte, +Bonus für separates Schlafzimmer |
-| Preis | 25 | bis 420 € warm volle Punkte, bei 600 € noch ¼ |
+| Lage | 30 | Entfernung zum Neupfarrplatz: bis 1 km volle Punkte, ab 6 km 0 |
+| Platz für deine Möbel | 25 | Bett 160×200, Schrank, Schreibtisch, 2er-Couch, TV-Board, Regal brauchen inkl. Küche/Bad ca. **24 m²**; darunter wird es eng, ab ~44 m² volle Punkte, +Bonus für separates Schlafzimmer |
+| Preis | 15 | bis 420 € warm volle Punkte, bei 600 € noch ¼ |
+| Parkplatz | 20 | eigener Stellplatz/Garage/Tiefgarage = 20, gegen Aufpreis = 17, Bewohnerparken/Straße = 9, nichts erwähnt oder „kein Parkplatz“ = 0 (mit `require_parking: true` in `config.yaml` fliegen solche Wohnungen ganz raus) |
 | Ausstattung | 10 | Einbauküche, Balkon, Keller, Waschmaschine, Fahrradkeller, unbefristet |
 | Abzüge | – | möbliert (deine Möbel passen dann nicht rein), Untermiete, befristet, „nur Wochenendheimfahrer“, eingeschränkter Mieterkreis, Ablöse, keine Fotos |
 | KI (optional) | ±10 | Claude liest den Anzeigentext: Grundriss, Dachschrägen, Betrugsverdacht, versteckte Kosten |
