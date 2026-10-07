@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"
+
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install ".[dev]"
+      - run: python -m pytest -q
+
+  web:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - working-directory: web
+        run: |
+          npm ci
+          echo '{"generated_at":"2026-01-01T00:00:00+00:00","criteria":{"max_warm_rent":600,"min_area_m2":20,"comfortable_area_m2":24,"center_name":"Altstadt","center":[49.0187,12.0966],"furniture":[],"weights":{"location":35,"size":30,"price":25,"extras":10}},"sources":{},"listings":[]}' > public/data.json
+          npm run build

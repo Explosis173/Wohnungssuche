@@ -1,0 +1,49 @@
+# ─────────────────────────────────────────────────────────────
+#  Wohnungssuche Regensburg – alle Suchkriterien an einem Ort.
+#  Änderungen hier wirken ab dem nächsten automatischen Lauf.
+# ─────────────────────────────────────────────────────────────
+
+search:
+  max_warm_rent: 600            # € pro Monat inkl. Nebenkosten (harte Grenze)
+  min_area_m2: 20               # darunter passen deine Möbel nicht rein → wird ignoriert
+  min_rental_months: 6          # kürzere Zwischenmieten werden ignoriert
+  include_wg_rooms: false       # WG-Zimmer mitsuchen?
+  utilities_per_m2_estimate: 3.0  # Nebenkosten-Schätzung (€/m²), falls nur Kaltmiete bekannt
+
+location:
+  center_name: Altstadt (Neupfarrplatz)
+  center_lat: 49.0187
+  center_lon: 12.0966
+  ideal_km: 1.0                 # bis hier volle Punkte für Lage
+  max_km: 6.0                   # ab hier 0 Punkte für Lage
+
+# Deine Möbel (Breite × Tiefe in Metern) → daraus wird die nötige Wohnfläche berechnet
+furniture:
+  - { name: "Bett 160×200",      width: 1.6, depth: 2.0 }
+  - { name: "Kleiderschrank",    width: 1.0, depth: 0.6 }
+  - { name: "Schreibtisch",      width: 1.4, depth: 0.7 }
+  - { name: "2er-Couch",         width: 1.5, depth: 0.85 }
+  - { name: "TV-Board (44 Zoll)", width: 1.2, depth: 0.4 }
+  - { name: "Regal",             width: 0.8, depth: 0.4 }
+
+# Gewichtung der Bewertung (Summe = 100)
+weights:
+  location: 35
+  size: 30
+  price: 25
+  extras: 10
+
+notifications:
+  timezone: Europe/Berlin
+  digest_hour: 8                # tägliche Zusammenfassung um 8:00
+  max_listings_per_digest: 10
+  instant_push_min_score: 80    # Top-Wohnungen sofort pushen (nicht erst am nächsten Morgen). 0 = aus
+  send_empty_digest: true       # auch melden, wenn es nichts Neues gibt
+
+sources:
+  wg_gesucht:
+    enabled: true
+  kleinanzeigen:
+    enabled: true
+    pages: 2
+  max_detail_fetches_per_source: 30   # Schutz vor Rate-Limits

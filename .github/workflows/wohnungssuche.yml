@@ -1,0 +1,116 @@
+name: Wohnungssuche
+
+on:
+  schedule:
+    # Zeiten in UTC. Der Morgenlauf ist um 06:17 (Sommerzeit) bzw. 05:17 (Winterzeit);
+    # die Zusammenfassung wird bei ntfy für genau 08:00 eingeplant.
+    - cron: "17 4 * * *"
+    - cron: "17 10 * * *"
+    - cron: "17 16 * * *"
+  workflow_dispatch:
+    inputs:
+      test_push:
+        description: "Nur eine Testnachricht aufs Handy schicken"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: wohnungssuche
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
+      HAS_CLAUDE: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+      TEST_ONLY: ${{ inputs.test_push == true }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installieren
+        run: pip install .
+
+      - name: Testnachricht
+        if: env.TEST_ONLY == 'true'
+        run: python -m wohnungssuche test-push
+
+      - name: Wohnungen suchen und bewerten
+        if: env.TEST_ONLY != 'true'
+        run: python -m wohnungssuche collect
+
+      - name: Liste für KI-Bewertung
+        if: env.TEST_ONLY != 'true' && env.HAS_CLAUDE == 'true'
+        run: python -m wohnungssuche ai-queue
+
+      - name: KI-Bewertung (läuft über dein Claude-Abo)
+        if: env.TEST_ONLY != 'true' && env.HAS_CLAUDE == 'true' && hashFiles('data/ai_queue.json') != ''
+        continue-on-error: true
+        timeout-minutes: 15
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          prompt: "Lies prompts/ki-bewertung.md und führe die Anweisungen darin aus."
+          claude_args: '--allowedTools "Read,Write" --max-turns 15'
+
+      - name: Push-Benachrichtigungen
+        if: env.TEST_ONLY != 'true'
+        run: python -m wohnungssuche notify
+
+      - name: Daten speichern
+        if: env.TEST_ONLY != 'true'
+        run: |
+          git config user.name "wohnungssuche-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Daten aktualisiert ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: App-Daten exportieren
+        if: env.TEST_ONLY != 'true'
+        run: python -m wohnungssuche export
+
+      - uses: actions/setup-node@v5
+        if: env.TEST_ONLY != 'true'
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: App bauen
+        if: env.TEST_ONLY != 'true'
+        working-directory: web
+        run: |
+          npm ci
+          npm run build
+
+      - uses: actions/upload-pages-artifact@v4
+        if: env.TEST_ONLY != 'true'
+        with:
+          path: web/dist
+
+  deploy:
+    needs: search
+    if: inputs.test_push != true
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
