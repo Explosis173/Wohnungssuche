@@ -41,7 +41,7 @@ jobs:
           cache: pip
 
       - name: Installieren
-        run: pip install .
+        run: pip install -e .
 
       - name: Testnachricht
         if: env.TEST_ONLY == 'true'
