@@ -29,8 +29,15 @@ def collect(store: Store, sources: list[Source], config: Config, now: datetime) 
     for source in sources:
         new_listings.extend(_collect_source(store, source, config, now))
 
-    for listing in store.listings.values():
-        score_listing(listing, config)  # re-score so config changes apply to everything
+    # Re-check everything so rule and config changes also apply to stored listings.
+    stamp = now.isoformat(timespec="seconds")
+    for listing_id, listing in list(store.listings.items()):
+        score_listing(listing, config)
+        reason = exclusion_reason(listing, config, now.date())
+        if reason:
+            del store.listings[listing_id]
+            new_listings = [l for l in new_listings if l.id != listing_id]
+            _reject(store, listing_id, reason, stamp)
     _mark_duplicates(store, new_listings)
     _forget_old(store, now)
     return new_listings

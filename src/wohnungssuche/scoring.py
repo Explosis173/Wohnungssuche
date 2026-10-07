@@ -94,7 +94,7 @@ PARKING_FACTORS = {
     PARKING_UNKNOWN: 0.0,
 }
 
-SWAP_PATTERN = re.compile(r"tauschwohnung|wohnungstausch|nur (?:im )?tausch", re.IGNORECASE)
+SWAP_PATTERN = re.compile(r"tausch|swap", re.IGNORECASE)  # checked on the title only
 
 
 def ensure_warm_rent(listing: Listing, config: Config) -> None:

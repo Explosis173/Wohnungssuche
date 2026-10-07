@@ -79,6 +79,7 @@ def test_exclusions(config, make_listing):
     assert "Warmmiete" in exclusion_reason(make_listing(rent_warm=640), config, TODAY)
     assert "m²" in exclusion_reason(make_listing(area_m2=15), config, TODAY)
     assert exclusion_reason(make_listing(title="Tauschwohnung Altstadt"), config, TODAY) == "Tauschwohnung"
+    assert exclusion_reason(make_listing(title="Wohnungsswap - 1 Zimmer, 40 m²"), config, TODAY) == "Tauschwohnung"
     assert exclusion_reason(make_listing(kind="WG-Zimmer"), config, TODAY) == "WG-Zimmer"
 
 

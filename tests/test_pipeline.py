@@ -151,3 +151,12 @@ def test_ntfy_payload():
     assert payload["delay"] == str(int(when.timestamp()))
     assert payload["attach"] == "https://img/1.jpg"
     assert payload["actions"][0] == {"action": "view", "label": "Öffnen", "url": "https://x", "clear": False}
+
+
+def test_rule_changes_remove_already_stored_listings(config, make_listing, data_dir):
+    store = Store(data_dir)
+    collect(store, [FakeSource(config, [make_listing(id="ka:1")])], config, MORNING)
+    store.listings["ka:1"].title = "Wohnungsswap Altstadt"
+    collect(store, [FakeSource(config, [])], config, MORNING + timedelta(hours=6))
+    assert "ka:1" not in store.listings
+    assert store.state.rejected["ka:1"]["reason"] == "Tauschwohnung"
