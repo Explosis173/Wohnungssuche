@@ -1,5 +1,67 @@
 [
  {
+  "id": "ka:3534976451",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zi-wohnung-in-regensburg/3534976451-203-7658",
+  "title": "1-Zi.-Wohnung in Regensburg",
+  "kind": "Wohnung",
+  "rent_warm": 419,
+  "rent_cold": 320.0,
+  "utilities": 99,
+  "rent_estimated": true,
+  "deposit": null,
+  "area_m2": 33.0,
+  "rooms": 2.0,
+  "address": "93049 Regensburg",
+  "zip_code": "93049",
+  "district": "Westenviertel / Prüfening / Königswiesen",
+  "lat": 49.02028778795145,
+  "lon": 12.054816947474263,
+  "available_from": "Oktober 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "günstige 1-Zim.-Whg für Mieter der in der Pflege oder im mediz Bereich arbeitet. Beschreibung wird noch ergänzt. Der Hausbesitzer möchte niemand, der die Miete vom Jobcenter bezahlt bekommt. Bitte deshalb beschreiben, wer Ihr Arbeitgeber ist und wieviel Personen einziehen, denn erwünscht ist 1 Mieter",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Einbauküche",
+   "Altbau",
+   "Garage/Stellplatz",
+   "Garten/-mitnutzung"
+  ],
+  "images": [],
+  "score": 77,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 17.7,
+   "size": 20.6,
+   "price": 15.0,
+   "parking": 20.0,
+   "extras": 8.0,
+   "penalty": -4.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Separates Schlafzimmer",
+   "Günstig",
+   "Eigener Stellplatz",
+   "Einbauküche"
+  ],
+  "cons": [
+   "Warmmiete geschätzt (nur Kaltmiete angegeben)",
+   "Möbliert – deine eigenen Möbel müssten woanders hin",
+   "Keine Fotos"
+  ],
+  "distance_km": 3.1,
+  "bike_minutes": 16,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-10-08T21:21:58+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "ka:3533152156",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/untermiete-mietwohnung-regensburg/3533152156-203-7656",
@@ -57,7 +119,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -125,7 +187,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -312,7 +374,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -435,7 +497,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -501,7 +563,74 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3534988934",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zim-app-27-qm-neuwertig-rbgg-sued-uninaehe-f-studenten/3534988934-203-7656",
+  "title": "1 Zim App 27 qm neuwertig Rbgg Süd, Uninähe, f. Studenten",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 540.0,
+  "rent_cold": 420.0,
+  "utilities": 60.0,
+  "rent_estimated": false,
+  "deposit": 900.0,
+  "area_m2": 27.0,
+  "rooms": 1.0,
+  "address": "Hanslbergweg 12 d, 93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 48.977006200000005,
+  "lon": 12.0925905,
+  "available_from": null,
+  "available_until": null,
+  "is_swap": false,
+  "description": "1 Zim App . ca. 27 qm sehr hell Küche, Dusche, WC, Sat TV, Laminat, 1. Stock, neuwertig, in privatem Studentenwohnheim Ausschließlich für Studenten oder Azubis, kostenlose Parkplätze vorhanden, Lademöglichkeit f. E Autos ( 2 x 11 KW ) Waschmaschinen und Trockner im Haus, absolut ruhige Lage in Rgbg Leoprechting, 2 km zur UNI, 7 Gehminuten zum Bus Nr 3, Sehr ruhige Lage mit vielen Freizeitmöglichkeiten. Frei zum 1. 11. 2026",
+  "features": [
+   "Einbauküche",
+   "Neubau",
+   "Garage/Stellplatz",
+   "Haustiere erlaubt"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/103a5d0d-ada7-4cd3-96c0-9abae395e4fb?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54744c48-945a-4b13-b9c0-e709c9a4b771?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/4788e669-95b2-49f4-9f1c-d42688a40aa2?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d52a5eab-0a01-47e8-ad71-8d1eaca57b68?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b0a457e-1c3d-4432-ab93-61edaba34020?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12142ad4-83c5-4499-a322-f95d69e75433?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfc3fc1f-cb7b-44cd-83f7-783a3b816cfd?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aaaadbb7-987c-4066-9cc5-c4bc30af183f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9dfa51df-581c-41bd-8570-294d8e1c7438?rule=$_59.JPG"
+  ],
+  "score": 59,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 8.1,
+   "size": 14.4,
+   "price": 7.5,
+   "parking": 20.0,
+   "extras": 9.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Eigener Stellplatz",
+   "Einbauküche",
+   "Waschmaschine möglich"
+  ],
+  "cons": [
+   "4.6 km bis zur Altstadt"
+  ],
+  "distance_km": 4.6,
+  "bike_minutes": 24,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-10-08T21:21:58+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -631,7 +760,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -697,7 +826,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -763,7 +892,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -825,7 +954,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -946,7 +1075,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1014,7 +1143,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -1083,7 +1212,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
