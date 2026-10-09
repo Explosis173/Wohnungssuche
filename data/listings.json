@@ -1,5 +1,77 @@
 [
  {
+  "id": "wg:14223435",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/wohnungen-in-Regensburg-Innenstadt.14223435.html",
+  "title": "Möblierte Wohnung zur Miete",
+  "kind": "Wohnung",
+  "rent_warm": 590.0,
+  "rent_cold": 500.0,
+  "utilities": 90.0,
+  "rent_estimated": false,
+  "deposit": 1000.0,
+  "area_m2": 30.0,
+  "rooms": 2.0,
+  "address": "Prinzenweg 6 93047 Regensburg Innenstadt",
+  "zip_code": "93047",
+  "district": "Innenstadt",
+  "lat": 49.017815,
+  "lon": 12.105063,
+  "available_from": "2026-10-09",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Das Gebäude wurde komplett modernisiert und erst kürzlich fertiggestellt – Sie beziehen eine Wohnung im Neuzustand mit zeitgemäßer Ausstattung.\nAlles inklusive – einfach einziehen und wohlfühlen\nUnsere Apartments sind komplett ausgestattet – Sie müssen lediglich Ihre persönlichen Dinge mitbringen. Vom ersten Tag an ist alles vorhanden, was Sie für einen komfortablen Aufenthalt benötigen.\nZur Ausstattung gehören unter anderem:\n- Vollständige Möblierung\n- Komplett ausgestattete Küche\n- Geschirr, Besteck, Töpfe und Pfannen\n- Gläser, Tassen und sämtliche Küchenutensilien\n- Toaster, Wasserkocher und Kaffeemaschine\n- Kühlschrank und Kochfeld\n- Waschmaschine\n- Bettwäsche und Handtücher\n- SmartTV\n- Bereits eingerichtetes und bezahltes MagentaTV für Internetfernsehen\n- WLAN/Highspeed-Internet\n- Strom, Wasser und Heizung\nKeine versteckten Kosten\nDer Mietpreis ist eine echte All-Inclusive-Miete. Sämtliche Nebenkosten und Leistungen sind bereits enthalten. Es gibt keine Nebenkostenabrechnung und keine zusätzlichen Kosten. Auch WLAN, Smart-TV und das bereits freigeschaltete MagentaTV sind im Mietpreis enthalten. Sie müssen sich weder um Verträge noch um Anschlüsse kümmern – einfach einziehen und wohnen.",
+  "features": [
+   "Ab dem 1. Mai 2014 ist die neue Energieeinsparverordnung (EnEV 2014) rechtswirksam. Immobilieninserate müssen seitdem zusätzliche Angaben zu energetischen Eigenschaften enthalten. Liegt noch kein Energieausweis vor, entfällt die Pflicht. Für denkmalgeschützte Häuser und Gebäude mit weniger als 50 Quadratmetern Nutzfläche ist kein Energieausweis nötig. Erdwärme",
+   "Neubau",
+   "EG",
+   "möbliert",
+   "Badewanne, Dusche, Gäste WC",
+   "Kabel",
+   "Parkett",
+   "eigener Parkplatz",
+   "Waschmaschine , Spülmaschine, Balkon"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2026/40/4c503ffa49510eb50e33f476ed4efac347ed365c94117224a37821a9c70397e3_49c99da4_73ac_438e_bd23_b1a30b078c45.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/cb4ab877dc1dd02002f2568b522dbb33937121ca217694cc1943adf8fcfd0edd_c27c45f3_4c38_44a1_b7c1_c0db7ab2141d.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/0accaf5f0c4f2cdd2656647870c53e50ee333c48e9d73ad07563c0334f2f11f1_4d05b4e2_ee42_48b9_95db_bda3eaf1a545.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/3450777c0a34e3c384bc162aa07d2774b5a73286db1e397e2c48b78816c87eae_9a9438f4_a625_4ff4_8319_a2b4e5f6dc6c.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/bfa9819b51776cce335be78d6f9d7147ec00b49a3d85815b65e9480051b35d86_229c4508_bc3b_410a_b5e4_1efbd46bf583.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/9907f7bbed690e5d0b9ed8000ff1d318c13cf74cec5d6d2124064d2d7ccd74d8_6108f0a4_1de6_4262_9866_860a1ef92677.large.jpg"
+  ],
+  "score": 79,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 30.0,
+   "size": 18.8,
+   "price": 4.4,
+   "parking": 20.0,
+   "extras": 9.0,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Genug Platz für alle Möbel",
+   "Separates Schlafzimmer",
+   "Eigener Stellplatz",
+   "Balkon/Terrasse",
+   "Waschmaschine möglich"
+  ],
+  "cons": [
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 0.6,
+  "bike_minutes": 3,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-10-09T20:57:54+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "ka:3534976451",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/1-zi-wohnung-in-regensburg/3534976451-203-7658",
@@ -56,7 +128,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -119,7 +191,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -187,7 +259,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -374,7 +446,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -436,7 +508,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T20:08:00+00:00",
-  "last_seen": "2026-10-07T20:18:12+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -630,7 +702,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -760,7 +832,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -826,7 +898,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -892,7 +964,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -954,7 +1026,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1010,7 +1082,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T20:08:00+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -1075,7 +1147,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1143,7 +1215,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1212,7 +1284,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-09T16:59:35+00:00",
+  "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
