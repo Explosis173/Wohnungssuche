@@ -3,13 +3,13 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-10-09T11:19:31+00:00",
+   "last_success": "2026-10-09T16:59:35+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-10-09T11:19:31+00:00",
+   "last_success": "2026-10-09T16:59:35+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 10
@@ -199,6 +199,10 @@
   "ka:3535412178": {
    "reason": "Warmmiete 700 € > 600 €",
    "seen": "2026-10-09T11:19:31+00:00"
+  },
+  "ka:3535840476": {
+   "reason": "19 m²",
+   "seen": "2026-10-09T16:59:35+00:00"
   },
   "wg:10785009": {
    "reason": "18 m²",
