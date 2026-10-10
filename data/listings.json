@@ -66,7 +66,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-09T20:57:54+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-10T10:37:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -128,7 +128,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -191,7 +191,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -259,7 +259,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -327,68 +327,6 @@
   "duplicate_of": null
  },
  {
-  "id": "ka:3501562028",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-mit-balkon/3501562028-203-7656",
-  "title": "1 Zimmer Wohnung mit Balkon",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 520.0,
-  "rent_cold": 520.0,
-  "utilities": 120.0,
-  "rent_estimated": false,
-  "deposit": null,
-  "area_m2": 35.0,
-  "rooms": 1.0,
-  "address": "Guerickestraße 5, 93053 Regensburg",
-  "zip_code": "93053",
-  "district": "Galgenberg / Kasernenviertel / Uni",
-  "lat": 49.01150131225586,
-  "lon": 12.112092018127441,
-  "available_from": "Oktober 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Ich habe mein Studium abgeschlossen und gebe meine schöne, gepflegte Wohnung ab 01.10.2026 in neue Hände!\n\nDie Kaltmiete beträgt 400€\nDie Nebenkosten betragen 120€.\n\nBei Interesse gerne melden!",
-  "features": [
-   "Balkon",
-   "Einbauküche",
-   "Badewanne"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da6cb7c9-6267-49ef-bd5a-76b577ca00d7?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd70387f-5f78-4b96-bae2-fd028ec44312?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd03ac1b-9a2e-4f75-930d-0d6d73667267?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7df7711d-0b97-4959-8a0e-3d7f7fadad42?rule=$_59.JPG"
-  ],
-  "score": 66,
-  "rating": "Gut",
-  "breakdown": {
-   "location": 27.7,
-   "size": 19.4,
-   "price": 8.7,
-   "parking": 0.0,
-   "extras": 10,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Sehr zentral",
-   "Genug Platz für alle Möbel",
-   "Einbauküche",
-   "Balkon/Terrasse"
-  ],
-  "cons": [
-   "Kein Parkplatz erwähnt"
-  ],
-  "distance_km": 1.4,
-  "bike_minutes": 7,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-07T20:08:00+00:00",
-  "last_seen": "2026-10-08T11:22:05+00:00",
-  "notified_at": "2026-10-08T11:22:18+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
   "id": "ka:3532716008",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-in-1-zimmer-wohnung-30qm-regensburg-steinweg/3532716008-203-7657",
@@ -446,7 +384,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -702,73 +640,8 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3527780440",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zim-app-27-qm-neuwertig-rgbg-sued-uninaehe-f-studenten/3527780440-203-7656",
-  "title": "1 Zim. App. 27 qm neuwertig, Rgbg Süd, Uninähe, f. Studenten",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 540.0,
-  "rent_cold": 420.0,
-  "utilities": null,
-  "rent_estimated": false,
-  "deposit": 900.0,
-  "area_m2": 26.0,
-  "rooms": 1.0,
-  "address": "Hanslbergweg 12d, 93053 Regensburg",
-  "zip_code": "93053",
-  "district": "Galgenberg / Kasernenviertel / Uni",
-  "lat": 48.97700620000001,
-  "lon": 12.0925905,
-  "available_from": "November 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Ausschließlich an Studenten mit Immatrikulationsbescheinigung oder Auszubildende!\n\nTop 1 Zimmer Appartement, ca 27 qm, sehr hell, Küche, Dusche, Waschbecken, WC, Sat TV, Laminat, 1. Stock, neuwertig, in privatem Studentenwohnheim, kostenlose Parkplätze vorhanden inkl. Lademöglichkeit für E-Autos (2 x 11KW), Waschmaschinen und Trockner im Haus, absolut ruhige Lage, 2 km zur Uni, 7 Gehminuten zum Bus Linie 3. Das Studentenheim befindet sich in Regensburg-Leoprechting.\n\nSehr ruhige Lage am südlichen Stadtrand von Regensburg mit vielen Freizeitmöglichkeiten.",
-  "features": [
-   "Einbauküche",
-   "Garage/Stellplatz",
-   "Garten/-mitnutzung"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2f70a34-8f4d-488e-80cd-0ea485a853be?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/53946e0d-b242-4b39-b719-b99b093c7903?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d43ac13-fb65-46a1-b987-99b2832275a7?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac9dbbf0-466f-460c-8514-0011c167a3c4?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d7d7925-162f-42e8-a9af-136e18f1f67a?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78cbacc3-e9b1-49ef-8c6e-f4ba9aa7e39b?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad464b4c-ad83-4a04-ab40-44142e3fc97a?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b75e55f-beed-4140-b730-3dca133f8f33?rule=$_59.JPG"
-  ],
-  "score": 58,
-  "rating": "Okay",
-  "breakdown": {
-   "location": 8.1,
-   "size": 13.8,
-   "price": 7.5,
-   "parking": 20.0,
-   "extras": 9.0,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Eigener Stellplatz",
-   "Einbauküche",
-   "Waschmaschine möglich"
-  ],
-  "cons": [
-   "4.6 km bis zur Altstadt"
-  ],
-  "distance_km": 4.6,
-  "bike_minutes": 24,
-  "parking": "Eigener Stellplatz",
-  "ai_review": null,
-  "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-08T11:22:05+00:00",
-  "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -832,7 +705,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -898,7 +771,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -964,7 +837,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -1026,7 +899,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1147,7 +1020,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1215,7 +1088,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1284,9 +1157,136 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T10:36:23+00:00",
+  "last_seen": "2026-10-10T15:52:12+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3501562028",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-mit-balkon/3501562028-203-7656",
+  "title": "1 Zimmer Wohnung mit Balkon",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 520.0,
+  "rent_cold": 520.0,
+  "utilities": 120.0,
+  "rent_estimated": false,
+  "deposit": null,
+  "area_m2": 35.0,
+  "rooms": 1.0,
+  "address": "Guerickestraße 5, 93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 49.01150131225586,
+  "lon": 12.112092018127441,
+  "available_from": "Oktober 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Ich habe mein Studium abgeschlossen und gebe meine schöne, gepflegte Wohnung ab 01.10.2026 in neue Hände!\n\nDie Kaltmiete beträgt 400€\nDie Nebenkosten betragen 120€.\n\nBei Interesse gerne melden!",
+  "features": [
+   "Balkon",
+   "Einbauküche",
+   "Badewanne"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da6cb7c9-6267-49ef-bd5a-76b577ca00d7?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd70387f-5f78-4b96-bae2-fd028ec44312?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd03ac1b-9a2e-4f75-930d-0d6d73667267?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7df7711d-0b97-4959-8a0e-3d7f7fadad42?rule=$_59.JPG"
+  ],
+  "score": 66,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 27.7,
+   "size": 19.4,
+   "price": 8.7,
+   "parking": 0.0,
+   "extras": 10,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Genug Platz für alle Möbel",
+   "Einbauküche",
+   "Balkon/Terrasse"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 1.4,
+  "bike_minutes": 7,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-07T20:08:00+00:00",
+  "last_seen": "2026-10-08T11:22:05+00:00",
+  "notified_at": "2026-10-08T11:22:18+00:00",
+  "active": false,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3527780440",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zim-app-27-qm-neuwertig-rgbg-sued-uninaehe-f-studenten/3527780440-203-7656",
+  "title": "1 Zim. App. 27 qm neuwertig, Rgbg Süd, Uninähe, f. Studenten",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 540.0,
+  "rent_cold": 420.0,
+  "utilities": null,
+  "rent_estimated": false,
+  "deposit": 900.0,
+  "area_m2": 26.0,
+  "rooms": 1.0,
+  "address": "Hanslbergweg 12d, 93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 48.97700620000001,
+  "lon": 12.0925905,
+  "available_from": "November 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Ausschließlich an Studenten mit Immatrikulationsbescheinigung oder Auszubildende!\n\nTop 1 Zimmer Appartement, ca 27 qm, sehr hell, Küche, Dusche, Waschbecken, WC, Sat TV, Laminat, 1. Stock, neuwertig, in privatem Studentenwohnheim, kostenlose Parkplätze vorhanden inkl. Lademöglichkeit für E-Autos (2 x 11KW), Waschmaschinen und Trockner im Haus, absolut ruhige Lage, 2 km zur Uni, 7 Gehminuten zum Bus Linie 3. Das Studentenheim befindet sich in Regensburg-Leoprechting.\n\nSehr ruhige Lage am südlichen Stadtrand von Regensburg mit vielen Freizeitmöglichkeiten.",
+  "features": [
+   "Einbauküche",
+   "Garage/Stellplatz",
+   "Garten/-mitnutzung"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2f70a34-8f4d-488e-80cd-0ea485a853be?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/53946e0d-b242-4b39-b719-b99b093c7903?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d43ac13-fb65-46a1-b987-99b2832275a7?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac9dbbf0-466f-460c-8514-0011c167a3c4?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d7d7925-162f-42e8-a9af-136e18f1f67a?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78cbacc3-e9b1-49ef-8c6e-f4ba9aa7e39b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad464b4c-ad83-4a04-ab40-44142e3fc97a?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b75e55f-beed-4140-b730-3dca133f8f33?rule=$_59.JPG"
+  ],
+  "score": 58,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 8.1,
+   "size": 13.8,
+   "price": 7.5,
+   "parking": 20.0,
+   "extras": 9.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Eigener Stellplatz",
+   "Einbauküche",
+   "Waschmaschine möglich"
+  ],
+  "cons": [
+   "4.6 km bis zur Altstadt"
+  ],
+  "distance_km": 4.6,
+  "bike_minutes": 24,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-10-07T19:47:38+00:00",
+  "last_seen": "2026-10-08T11:22:05+00:00",
+  "notified_at": "2026-10-07T19:49:13+00:00",
+  "active": false,
   "duplicate_of": null
  }
 ]
