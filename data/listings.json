@@ -66,7 +66,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-09T20:57:54+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-10T10:37:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -191,7 +191,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -259,7 +259,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -322,8 +322,64 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3538023426",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/suche-1-zimmer-wohnung/3538023426-203-7658",
+  "title": "Suche 1 Zimmer Wohnung",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 520.0,
+  "rent_cold": 530.0,
+  "utilities": null,
+  "rent_estimated": false,
+  "deposit": null,
+  "area_m2": 30.0,
+  "rooms": 1.0,
+  "address": "Roter-Brach-Weg 50, 93049 Regensburg",
+  "zip_code": "93049",
+  "district": "Westenviertel / Prüfening / Königswiesen",
+  "lat": 49.0173454284668,
+  "lon": 12.041461944580078,
+  "available_from": "Oktober 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Monteur sucht 1-Zimmer-Wohnung in Regensburg oder Landkreis\nIch bin auf der Suche nach einer 1-Zimmer-Wohnung im Raum Regensburg oder im Landkreis, idealerweise mit einem Parkplatz.\nIch bin seit 2019 bei der LEONHARD WEISS GmbH als Monteur im Baugewerbe unbefristet angestellt und verfüge über ein monatliches Nettoeinkommen von ca. 3.700 €.\nIch bin Nichtraucher, habe keine Haustiere und suche eine Wohnung zur langfristigen Anmietung.\nÜber passende Wohnungsangebote und Rückmeldungen würde ich mich sehr freuen.\nTelefon: 0176 70908406",
+  "features": [
+   "Garage/Stellplatz"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af893ac6-2bac-4731-b9d9-3ba1f794e90a?rule=$_59.JPG"
+  ],
+  "score": 63,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 11.9,
+   "size": 16.2,
+   "price": 8.7,
+   "parking": 20.0,
+   "extras": 6.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Eigener Stellplatz",
+   "Unbefristet"
+  ],
+  "cons": [
+   "4.0 km bis zur Altstadt"
+  ],
+  "distance_km": 4.0,
+  "bike_minutes": 21,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-10-11T16:19:21+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -390,6 +446,76 @@
   "duplicate_of": null
  },
  {
+  "id": "wg:14229214",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Reinhausen.14229214.html",
+  "title": "Modernisierte 1-Zimmer-Wohnung mit Balkon in Regensburg - ab 01.12.2026 verfügbar",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 560.0,
+  "rent_cold": 430.0,
+  "utilities": 130.0,
+  "rent_estimated": false,
+  "deposit": 1290.0,
+  "area_m2": 28.0,
+  "rooms": 1.0,
+  "address": "Isarstraße 68 93057 Regensburg Reinhausen",
+  "zip_code": "93057",
+  "district": "Reinhausen",
+  "lat": 49.03365,
+  "lon": 12.122978,
+  "available_from": "2026-12-01",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Dieses modernisierte 1-Zimmer-Apartment bietet auf 28 m2 eine funktionale und gemütliche Wohnfläche. Die Wohnung verfügt über eine Einbauküche, ein Badezimmer mit Badewanne und Dusche sowie einen eigenen Balkon. Ein Aufzug im Gebäude und ein zugehöriger Kellerraum sorgen für zusätzlichen Komfort.\nDie Wohnung wird als Nichtraucherwohnung angeboten und eignet sich ideal für eine Einzelperson.\nEinige Möbel können bei Interesse gegen eine zusätzliche Zahlung vom derzeitigen Mieter übernommen werden. Dazu gehören ein:\n- Schlafsofa,\n- TV-Board,\n- IKEA-kommode\n- Bürostuhl.\nDie Preise für die Möbel können persönlich besprochen werden.\nDie Wohnung ist ab dem 1. Dezember 2026 verfügbar. Eine Anmeldung ist möglich.\nSchreib mir über WhatsApp!\n(siehe Kontaktinformationen)\n\nDie Wohnung befindet sich in der Isarstraße im Regensburger Stadtteil Reinhausen (93057). Die Umgebung bietet eine gute Kombination aus Einkaufsmöglichkeiten, Freizeitangeboten und Verkehrsanbindung.\nIn der Nähe befinden sich zahlreiche Einkaufsmöglichkeiten und Einrichtungen des täglichen Bedarfs, darunter Kaufland, Netto, dm und das Alex-Center. Auch das Fitnessstudio FitX sowie verschiedene Imbisse und Take-away-Restaurants sind schnell erreichbar. Der Gewerbepark Regensburg bietet weitere Einkaufs- und Freizeitmöglichkeiten.\nDie Anbindung an den öffentlichen Nahverkehr ermöglicht eine bequeme Verbindung in die Regensburger Innenstadt. Grünflächen und Parks in der Umgebung bieten zusätzliche Möglichkeiten zur Erholung.",
+  "features": [
+   "Barrierefrei",
+   "Mehrfamilienhaus",
+   "4. OG",
+   "teilmöbliert",
+   "Badewanne",
+   "Fliesen, Fußbodenheizung",
+   "gute Parkmöglichkeiten",
+   "3 Minuten zu Fuß entfernt",
+   "Balkon, Keller, Aufzug"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2026/40/db1897a422dbebecc7e69055890863fadb2eecc77de81bf785bc759c42f299ec_01.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/e16cca7b621d285abb8779239e8e67425d72b252e7869b15bfc6ed58f520f5c5_02.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/d4c35dc3dd8a14b3536ac1f7242ac306f5c54b769f21e9c5e9a9d5fef78ea4ee_03.large.png",
+   "https://img.wg-gesucht.de/media/up/2026/40/784bd0f3e036a2f02aa62516568ce28c88188f77f98e5edd458f9391832989dd_06.large.png",
+   "https://img.wg-gesucht.de/media/up/2026/40/23389ef5151f318e0207e879f33bc9f38564a09351bbe7d1be579c8e34e17c01_05.large.png",
+   "https://img.wg-gesucht.de/media/up/2026/40/458acf1af1de8e5c2b66d79a133400d8ce96a050ef99b027dc176c0598ca38c1_07.large.png",
+   "https://img.wg-gesucht.de/media/up/2026/40/8168eb002de97a54e663533b3e7c35d46e4e25a9bb27249d5dcd25a4db8c4a34_09.large.png"
+  ],
+  "score": 61,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 20.7,
+   "size": 15.0,
+   "price": 6.2,
+   "parking": 9.0,
+   "extras": 10,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Einbauküche",
+   "Balkon/Terrasse",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "Parken auf der Straße / Bewohnerparken"
+  ],
+  "distance_km": 2.5,
+  "bike_minutes": 13,
+  "parking": "Parken auf der Straße / Bewohnerparken",
+  "ai_review": null,
+  "first_seen": "2026-10-11T16:19:21+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "ka:3534988934",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/1-zim-app-27-qm-neuwertig-rbgg-sued-uninaehe-f-studenten/3534988934-203-7656",
@@ -451,7 +577,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -516,7 +642,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -582,7 +708,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -648,7 +774,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -710,7 +836,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -899,8 +1025,141 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3537864724",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-in-leipzig-moeckern-zu-vermieten/3537864724-203-7656",
+  "title": "1- Zimmer Wohnung in Leipzig Möckern zu vermieten",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 500.0,
+  "rent_cold": 350.0,
+  "utilities": 70.0,
+  "rent_estimated": false,
+  "deposit": 700.0,
+  "area_m2": 33.0,
+  "rooms": 1.0,
+  "address": "93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 48.98120817455849,
+  "lon": 12.107801419130173,
+  "available_from": "Oktober 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Schöne 1-Zimmer-Wohnung in ruhiger Lage in Leipzig-Möckern zu vermieten. Die Wohnung befindet sich im EG-Hochparterre und verfügt über ca. 33 m² Wohnfläche. Sie liegt verkehrsgünstig mit guter Anbindung an den ÖPNV, die Haltestelle der Straßenbahnlinien 10 und 11 ist nur 230m entfernt. Einkaufsmöglichkeiten/Supermärkte sind ca. 1km entfernt.\n\nZur Wohnung gehören ein kleiner Flur, ein Wohn-/Schlafzimmer, eine separate Küche (mit Einbau- Küchenzeile) sowie ein großes Bad mit WC und Badewanne. Ebenso gehört ein Lagerraum im Keller zur Wohnung.\n\nDas Objekt befindet sich in einem gepflegten Altbauensemble, das 1996 generalsaniert wurde. Im Juli 2026 wurde die Wohnung zuletzt renoviert.",
+  "features": [
+   "Einbauküche",
+   "Badewanne",
+   "Altbau",
+   "Keller"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/7302d436-0f2f-4fcf-9c39-8978b4b7b213?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e66caaa8-7a5f-4be2-a5ca-618bc10c577d?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36517351-5cd3-4d22-b8a8-2f04709d5c93?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0c98b9cd-25d7-4daf-8155-534099486268?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c8b35d4a-0577-4a91-b414-9d041040d256?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c4083c8-c4b0-4524-91aa-3173c290109b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae83a2cd-e695-4906-91fd-f65052ed803b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09155487-f1af-4558-a53c-ce1d7247b983?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1d3594b-3284-4261-b624-7014438abe44?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2fe99837-d8e9-4fd5-9849-f13e4a1596b2?rule=$_59.JPG"
+  ],
+  "score": 48,
+  "rating": "Mäßig",
+  "breakdown": {
+   "location": 10.5,
+   "size": 18.1,
+   "price": 10.0,
+   "parking": 0.0,
+   "extras": 9.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Einbauküche",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "4.2 km bis zur Altstadt",
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 4.2,
+  "bike_minutes": 22,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-11T16:19:21+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3538001483",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/liebevoll-renovierte-1-zimmerwohnung-im-regensburger-sued-osten/3538001483-203-7656",
+  "title": "Liebevoll renovierte 1-Zimmerwohnung im Regensburger Süd-Osten",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 490.0,
+  "rent_cold": 390.0,
+  "utilities": 100.0,
+  "rent_estimated": false,
+  "deposit": 780.0,
+  "area_m2": 22.0,
+  "rooms": 1.0,
+  "address": "Landshuter Straße 105D, 93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 49.00274169999999,
+  "lon": 12.1262307,
+  "available_from": "Oktober 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Bei Interesse melden Sie sich bitte telefonisch unter 0171 2456366.\n\nDie Wohnung ist ein liebevoll renoviertes 1-Zimmer-Apartment im 2. Obergeschoss mit Aufzug und einer Pantry-Einbauküche.\nZur Wohnung gehören außerdem ein Kellerabteil und ein Fahrradkeller.\nDas Kasernenviertel in Regensburg bietet eine gute Anbindung an die Buslinien 10 und 11 sowie Einkaufsmöglichkeiten und eine schnelle Erreichbarkeit von Universität und Hochschule.",
+  "features": [
+   "Einbauküche",
+   "Aufzug",
+   "Keller"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36ad8149-85bc-4287-82c2-6b0efa45f95b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06f84f2e-b49f-44c6-a7c0-df62a994c71a?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41b2b95d-0e5f-4a92-b726-f88ce58f4fc6?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e02fd32e-be7c-4cd5-8498-f9c82ec2e131?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a9edbb1-3ff5-431b-b005-f12b578f41c5?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/9497d147-55cd-4912-a1f4-7bbeb916e572?rule=$_59.JPG"
+  ],
+  "score": 46,
+  "rating": "Mäßig",
+  "breakdown": {
+   "location": 19.2,
+   "size": 6.2,
+   "price": 10.6,
+   "parking": 0.0,
+   "extras": 10,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Einbauküche",
+   "Keller/Abstellraum",
+   "Fahrradstellplatz"
+  ],
+  "cons": [
+   "Eng – deine Möbel passen nur knapp",
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 2.8,
+  "bike_minutes": 15,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-11T16:19:21+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -968,7 +1227,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1036,7 +1295,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-11T10:49:18+00:00",
-  "last_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T16:19:21+00:00",
   "notified_at": "2026-10-11T10:49:29+00:00",
   "active": true,
   "duplicate_of": null
