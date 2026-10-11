@@ -1,18 +1,18 @@
 {
- "last_digest_date": "2026-10-10",
+ "last_digest_date": "2026-10-11",
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-10-10T20:07:00+00:00",
+   "last_success": "2026-10-11T10:49:18+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-10-10T20:07:00+00:00",
+   "last_success": "2026-10-11T10:49:18+00:00",
    "last_error": null,
    "consecutive_failures": 0,
-   "last_count": 11
+   "last_count": 12
   }
  },
  "rejected": {
@@ -224,6 +224,14 @@
    "reason": "Warmmiete 650 € > 600 €",
    "seen": "2026-10-10T20:07:00+00:00"
   },
+  "ka:3537128178": {
+   "reason": "Warmmiete 820 € > 600 €",
+   "seen": "2026-10-11T10:49:18+00:00"
+  },
+  "ka:3537297606": {
+   "reason": "WG-Zimmer",
+   "seen": "2026-10-11T10:49:18+00:00"
+  },
   "wg:10785009": {
    "reason": "18 m²",
    "seen": "2026-10-07T19:47:38+00:00"
@@ -251,6 +259,10 @@
   "wg:14222415": {
    "reason": "WG-Zimmer",
    "seen": "2026-10-09T11:19:31+00:00"
+  },
+  "wg:14228850": {
+   "reason": "17 m²",
+   "seen": "2026-10-11T10:49:18+00:00"
   },
   "wg:9549304": {
    "reason": "WG-Zimmer",

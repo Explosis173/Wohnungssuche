@@ -66,7 +66,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-09T20:57:54+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-10T10:37:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -191,7 +191,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -259,7 +259,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -322,7 +322,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -390,133 +390,6 @@
   "duplicate_of": null
  },
  {
-  "id": "ka:3522895276",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/keller-appartement/3522895276-203-7655",
-  "title": "Keller Appartement",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 480.0,
-  "rent_cold": 350.0,
-  "utilities": 80.0,
-  "rent_estimated": false,
-  "deposit": 1050.0,
-  "area_m2": 25.0,
-  "rooms": 1.0,
-  "address": "Moosweg 2, 93055 Regensburg",
-  "zip_code": "93055",
-  "district": "Ostenviertel / Burgweinting / Schwabelweis",
-  "lat": 48.9856841,
-  "lon": 12.1389042,
-  "available_from": "Oktober 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Ruhiges frisch saniertes Keller Appartement in verkehrsberuhigter Straße. Sehr gute Bus und Bahn Anbindung. Einkaufsmöglichkeiten 5 Gehminuten entfernt. Es handelt sich um eine 1 Zimmer Wohnung daher bitte keine Anfragen für mehr als eine Person…",
-  "features": [
-   "Einbauküche",
-   "Garage/Stellplatz"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ef4623a-b6d1-4eb9-b739-3ece7558934b?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d200eb3-a6f5-4d02-83cf-2a248e84d680?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1500ebf1-546e-412a-8f8d-ed9a175eabc8?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d990e80a-38b4-4006-beb6-f0e5215d6389?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56b18ddc-6a21-4947-bfd6-dcb4bd926072?rule=$_59.JPG"
-  ],
-  "score": 60,
-  "rating": "Okay",
-  "breakdown": {
-   "location": 7.2,
-   "size": 13.1,
-   "price": 11.2,
-   "parking": 20.0,
-   "extras": 9.0,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Eigener Stellplatz",
-   "Einbauküche",
-   "Keller/Abstellraum"
-  ],
-  "cons": [
-   "4.8 km bis zur Altstadt"
-  ],
-  "distance_km": 4.8,
-  "bike_minutes": 25,
-  "parking": "Eigener Stellplatz",
-  "ai_review": null,
-  "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-08T21:21:58+00:00",
-  "notified_at": "2026-10-07T19:49:13+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3534685551",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-regensburg-zwischen-kh-st-josef-uniklinikum/3534685551-203-7656",
-  "title": "2-Zimmer-Wohnung Regensburg zwischen KH St. Josef + Uniklinikum",
-  "kind": "Wohnung",
-  "rent_warm": 590.0,
-  "rent_cold": 430.0,
-  "utilities": 160.0,
-  "rent_estimated": false,
-  "deposit": 1290.0,
-  "area_m2": 36.0,
-  "rooms": 2.0,
-  "address": "93053 Regensburg",
-  "zip_code": "93053",
-  "district": "Galgenberg / Kasernenviertel / Uni",
-  "lat": 49.00859003554109,
-  "lon": 12.118134574276986,
-  "available_from": "November 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Die schöne sehr gepflegte 2-Zimmer-Mietwohnung in Regensburg von privat zu vermieten. Sie verfügt über eine Einbauküche sowie einen Gemeinschaftskeller. Die Wohnung ist frei ab 01.11.2026. Rauchen und Haustiere sind nicht erlaubt. Warmmiete € 590,00, Kaution € 1.290,00.",
-  "features": [
-   "Einbauküche"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/2420d2ad-b99e-432c-b67a-f6180b6e2a79?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/edacb007-94c9-4034-9956-bf6c24f1f677?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43393900-ecfb-4806-b11d-553337bb56b7?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4ed19a9-114a-4fa5-9b15-16d93f586784?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58d45d86-836c-4514-8a4b-a83ba5469cc0?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/002a4fab-62d0-453e-aa73-a8b0945fd23d?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f959bbe-5dd3-4f48-91df-91416ecfbe5e?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45183d3e-b6df-4b90-b477-40c639a3f0a8?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/8093368c-3a31-4473-ba85-5b676a1b3d6c?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bf6ad4f6-0932-4536-860e-93c56f0d9a72?rule=$_59.JPG"
-  ],
-  "score": 60,
-  "rating": "Okay",
-  "breakdown": {
-   "location": 24.4,
-   "size": 22.5,
-   "price": 4.4,
-   "parking": 0.0,
-   "extras": 9.0,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Genug Platz für alle Möbel",
-   "Separates Schlafzimmer",
-   "Einbauküche",
-   "Keller/Abstellraum"
-  ],
-  "cons": [
-   "Kein Parkplatz erwähnt"
-  ],
-  "distance_km": 1.9,
-  "bike_minutes": 10,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-08T21:21:58+00:00",
-  "notified_at": "2026-10-09T11:19:46+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
   "id": "ka:3534988934",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/1-zim-app-27-qm-neuwertig-rbgg-sued-uninaehe-f-studenten/3534988934-203-7656",
@@ -578,7 +451,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -643,7 +516,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -709,7 +582,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -775,7 +648,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -837,7 +710,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -958,7 +831,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1026,7 +899,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1095,8 +968,76 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3537138149",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-apartment-zwischenmiete-nur-fuer-frauen/3537138149-203-7654",
+  "title": "Möbliertes Apartment Zwischenmiete nur für Frauen",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 570.0,
+  "rent_cold": 570.0,
+  "utilities": null,
+  "rent_estimated": false,
+  "deposit": 1100.0,
+  "area_m2": 20.0,
+  "rooms": 1.0,
+  "address": "93051 Regensburg",
+  "zip_code": "93051",
+  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
+  "lat": 49.003777028038726,
+  "lon": 12.079295440276647,
+  "available_from": "November 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Möbliertes Apartment zur Zwischenmiete in Regensburg – nur für Frauen – 570 € warm\nIch suche eine zuverlässige Nichtraucherin für mein gepflegtes, ca. 20 m² Apartment mit eigenem Bad und Küchenzeile. Kein Balkon. Im Gebäude gibt es 2 Aufzüge und einen gemeinschaftlichen Waschraum.\nZeitraum: 01.11.2026–31.03.2027, Verlängerung um etwa 1-2 Monat nach Absprache möglich.\nLage: Hauptbahnhof und Universität sind jeweils innerhalb von 10 Minuten mit dem Bus erreichbar. REWE, Netto und eine Bäckerei sind etwa fünf Gehminuten entfernt.\nAusstattung: Bett mit Matratze, Ablagetisch, Schreibtisch mit Bürostuhl, Bücherregal, Kleiderschrank, Schuhschrank, Kommode, Geschirrschrank, Esstisch mit Stühlen sowie eine Mikrowelle mit Grillfunktion.\nWarmmiete: 570 € monatlich, inklusive Möblierung, Internet, Strom, Wasser und Heizung.\nKaution: 1.100 €\nDie Untervermietung wurde vom Vermieter bereits genehmigt.\nBei Interesse bitte eine Vorstellung, den gewünschten Mietzeitraum und den Grund für die Suche nach einer vorübergehenden Unterkunft angeben.\nBitte haben Sie Verständnis, dass ich nicht alle Nachrichten beantworten kann!",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Einbauküche",
+   "Aufzug"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09e4ad84-9d59-4ffd-9351-0c9d7c5b68cf?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db3f2731-5859-43cb-82af-c8fa35d7548b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ed6b4fe-41fd-4a1b-aea6-6ed2c9d0cd08?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb76a646-67d4-483e-9c83-6798696f2908?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbc7d56d-0b93-4bb9-805e-c4547ebd50e6?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/eda32782-fd84-4675-ad02-25257d460312?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03d4b9ae-0921-4270-a9f2-bb01c482b82d?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/5478ecad-ee3d-4eed-bc54-7883d81505f7?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d75da0c2-e44b-4076-8191-6f726d35ccfc?rule=$_59.JPG"
+  ],
+  "score": 30,
+  "rating": "Mäßig",
+  "breakdown": {
+   "location": 23.5,
+   "size": 0.0,
+   "price": 5.6,
+   "parking": 0.0,
+   "extras": 10,
+   "penalty": -9.0
+  },
+  "pros": [
+   "Einbauküche",
+   "Balkon/Terrasse"
+  ],
+  "cons": [
+   "Eng – deine Möbel passen nur knapp",
+   "Kein Parkplatz erwähnt",
+   "Möbliert – deine eigenen Möbel müssten woanders hin",
+   "Mieterkreis eingeschränkt (Text prüfen)"
+  ],
+  "distance_km": 2.1,
+  "bike_minutes": 11,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-11T10:49:18+00:00",
+  "notified_at": "2026-10-11T10:49:29+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -1221,6 +1162,133 @@
   "first_seen": "2026-10-07T20:08:00+00:00",
   "last_seen": "2026-10-08T11:22:05+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
+  "active": false,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3522895276",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/keller-appartement/3522895276-203-7655",
+  "title": "Keller Appartement",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 480.0,
+  "rent_cold": 350.0,
+  "utilities": 80.0,
+  "rent_estimated": false,
+  "deposit": 1050.0,
+  "area_m2": 25.0,
+  "rooms": 1.0,
+  "address": "Moosweg 2, 93055 Regensburg",
+  "zip_code": "93055",
+  "district": "Ostenviertel / Burgweinting / Schwabelweis",
+  "lat": 48.9856841,
+  "lon": 12.1389042,
+  "available_from": "Oktober 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Ruhiges frisch saniertes Keller Appartement in verkehrsberuhigter Straße. Sehr gute Bus und Bahn Anbindung. Einkaufsmöglichkeiten 5 Gehminuten entfernt. Es handelt sich um eine 1 Zimmer Wohnung daher bitte keine Anfragen für mehr als eine Person…",
+  "features": [
+   "Einbauküche",
+   "Garage/Stellplatz"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ef4623a-b6d1-4eb9-b739-3ece7558934b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d200eb3-a6f5-4d02-83cf-2a248e84d680?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1500ebf1-546e-412a-8f8d-ed9a175eabc8?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d990e80a-38b4-4006-beb6-f0e5215d6389?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56b18ddc-6a21-4947-bfd6-dcb4bd926072?rule=$_59.JPG"
+  ],
+  "score": 60,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 7.2,
+   "size": 13.1,
+   "price": 11.2,
+   "parking": 20.0,
+   "extras": 9.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Eigener Stellplatz",
+   "Einbauküche",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "4.8 km bis zur Altstadt"
+  ],
+  "distance_km": 4.8,
+  "bike_minutes": 25,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-10-07T19:47:38+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
+  "notified_at": "2026-10-07T19:49:13+00:00",
+  "active": false,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3534685551",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-regensburg-zwischen-kh-st-josef-uniklinikum/3534685551-203-7656",
+  "title": "2-Zimmer-Wohnung Regensburg zwischen KH St. Josef + Uniklinikum",
+  "kind": "Wohnung",
+  "rent_warm": 590.0,
+  "rent_cold": 430.0,
+  "utilities": 160.0,
+  "rent_estimated": false,
+  "deposit": 1290.0,
+  "area_m2": 36.0,
+  "rooms": 2.0,
+  "address": "93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 49.00859003554109,
+  "lon": 12.118134574276986,
+  "available_from": "November 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Die schöne sehr gepflegte 2-Zimmer-Mietwohnung in Regensburg von privat zu vermieten. Sie verfügt über eine Einbauküche sowie einen Gemeinschaftskeller. Die Wohnung ist frei ab 01.11.2026. Rauchen und Haustiere sind nicht erlaubt. Warmmiete € 590,00, Kaution € 1.290,00.",
+  "features": [
+   "Einbauküche"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/2420d2ad-b99e-432c-b67a-f6180b6e2a79?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/edacb007-94c9-4034-9956-bf6c24f1f677?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43393900-ecfb-4806-b11d-553337bb56b7?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4ed19a9-114a-4fa5-9b15-16d93f586784?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58d45d86-836c-4514-8a4b-a83ba5469cc0?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/002a4fab-62d0-453e-aa73-a8b0945fd23d?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f959bbe-5dd3-4f48-91df-91416ecfbe5e?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45183d3e-b6df-4b90-b477-40c639a3f0a8?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/8093368c-3a31-4473-ba85-5b676a1b3d6c?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bf6ad4f6-0932-4536-860e-93c56f0d9a72?rule=$_59.JPG"
+  ],
+  "score": 60,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 24.4,
+   "size": 22.5,
+   "price": 4.4,
+   "parking": 0.0,
+   "extras": 9.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Separates Schlafzimmer",
+   "Einbauküche",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 1.9,
+  "bike_minutes": 10,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-08T17:23:59+00:00",
+  "last_seen": "2026-10-08T21:21:58+00:00",
+  "notified_at": "2026-10-09T11:19:46+00:00",
   "active": false,
   "duplicate_of": null
  },
