@@ -72,68 +72,6 @@
   "duplicate_of": null
  },
  {
-  "id": "ka:3534976451",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zi-wohnung-in-regensburg/3534976451-203-7658",
-  "title": "1-Zi.-Wohnung in Regensburg",
-  "kind": "Wohnung",
-  "rent_warm": 419,
-  "rent_cold": 320.0,
-  "utilities": 99,
-  "rent_estimated": true,
-  "deposit": null,
-  "area_m2": 33.0,
-  "rooms": 2.0,
-  "address": "93049 Regensburg",
-  "zip_code": "93049",
-  "district": "Westenviertel / Prüfening / Königswiesen",
-  "lat": 49.02028778795145,
-  "lon": 12.054816947474263,
-  "available_from": "Oktober 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "günstige 1-Zim.-Whg für Mieter der in der Pflege oder im mediz Bereich arbeitet. Beschreibung wird noch ergänzt. Der Hausbesitzer möchte niemand, der die Miete vom Jobcenter bezahlt bekommt. Bitte deshalb beschreiben, wer Ihr Arbeitgeber ist und wieviel Personen einziehen, denn erwünscht ist 1 Mieter",
-  "features": [
-   "Möbliert/Teilmöbliert",
-   "Einbauküche",
-   "Altbau",
-   "Garage/Stellplatz",
-   "Garten/-mitnutzung"
-  ],
-  "images": [],
-  "score": 77,
-  "rating": "Gut",
-  "breakdown": {
-   "location": 17.7,
-   "size": 20.6,
-   "price": 15.0,
-   "parking": 20.0,
-   "extras": 8.0,
-   "penalty": -4.0
-  },
-  "pros": [
-   "Genug Platz für alle Möbel",
-   "Separates Schlafzimmer",
-   "Günstig",
-   "Eigener Stellplatz",
-   "Einbauküche"
-  ],
-  "cons": [
-   "Warmmiete geschätzt (nur Kaltmiete angegeben)",
-   "Möbliert – deine eigenen Möbel müssten woanders hin",
-   "Keine Fotos"
-  ],
-  "distance_km": 3.1,
-  "bike_minutes": 16,
-  "parking": "Eigener Stellplatz",
-  "ai_review": null,
-  "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-10T20:07:00+00:00",
-  "notified_at": "2026-10-09T11:19:46+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
   "id": "ka:3533152156",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/untermiete-mietwohnung-regensburg/3533152156-203-7656",
@@ -191,7 +129,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -259,7 +197,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -322,7 +260,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -378,7 +316,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -449,7 +387,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -519,7 +457,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -586,7 +524,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -651,7 +589,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -726,7 +664,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -792,7 +730,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -858,7 +796,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -920,7 +858,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1053,7 +991,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1186,7 +1124,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -1255,7 +1193,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1332,7 +1270,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -1400,9 +1338,71 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-11T10:49:18+00:00",
-  "last_seen": "2026-10-12T19:48:03+00:00",
+  "last_seen": "2026-10-12T23:02:08+00:00",
   "notified_at": "2026-10-11T10:49:29+00:00",
   "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3534976451",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zi-wohnung-in-regensburg/3534976451-203-7658",
+  "title": "1-Zi.-Wohnung in Regensburg",
+  "kind": "Wohnung",
+  "rent_warm": 419,
+  "rent_cold": 320.0,
+  "utilities": 99,
+  "rent_estimated": true,
+  "deposit": null,
+  "area_m2": 33.0,
+  "rooms": 2.0,
+  "address": "93049 Regensburg",
+  "zip_code": "93049",
+  "district": "Westenviertel / Prüfening / Königswiesen",
+  "lat": 49.02028778795145,
+  "lon": 12.054816947474263,
+  "available_from": "Oktober 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "günstige 1-Zim.-Whg für Mieter der in der Pflege oder im mediz Bereich arbeitet. Beschreibung wird noch ergänzt. Der Hausbesitzer möchte niemand, der die Miete vom Jobcenter bezahlt bekommt. Bitte deshalb beschreiben, wer Ihr Arbeitgeber ist und wieviel Personen einziehen, denn erwünscht ist 1 Mieter",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Einbauküche",
+   "Altbau",
+   "Garage/Stellplatz",
+   "Garten/-mitnutzung"
+  ],
+  "images": [],
+  "score": 77,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 17.7,
+   "size": 20.6,
+   "price": 15.0,
+   "parking": 20.0,
+   "extras": 8.0,
+   "penalty": -4.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Separates Schlafzimmer",
+   "Günstig",
+   "Eigener Stellplatz",
+   "Einbauküche"
+  ],
+  "cons": [
+   "Warmmiete geschätzt (nur Kaltmiete angegeben)",
+   "Möbliert – deine eigenen Möbel müssten woanders hin",
+   "Keine Fotos"
+  ],
+  "distance_km": 3.1,
+  "bike_minutes": 16,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-10-08T21:21:58+00:00",
+  "last_seen": "2026-10-10T20:07:00+00:00",
+  "notified_at": "2026-10-09T11:19:46+00:00",
+  "active": false,
   "duplicate_of": null
  },
  {
