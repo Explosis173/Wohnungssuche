@@ -129,7 +129,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -197,8 +197,82 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "wg:14236683",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/wohnungen-in-Regensburg-Kasernenviertel.14236683.html",
+  "title": "Moderne und voll möblierte Wohnung zu vermieten",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 520.0,
+  "rent_cold": 350.0,
+  "utilities": 170.0,
+  "rent_estimated": false,
+  "deposit": 500.0,
+  "area_m2": 46.0,
+  "rooms": 1.0,
+  "address": "Benzstraße 6 93053 Regensburg Kasernenviertel",
+  "zip_code": "93053",
+  "district": "Kasernenviertel",
+  "lat": 48.997994,
+  "lon": 12.128137,
+  "available_from": "2026-10-16",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Genießen Sie komfortables Wohnen in dieser schönen, modernen Wohnung mit einem geräumigen Schlafzimmer, einem stilvollen Wohnzimmer und einer voll ausgestatteten Küche mit Edelstahlgeräten. Die Wohnung besticht durch ein elegantes Interieur, große Fenster für viel Tageslicht und eine warme, einladende Atmosphäre. Ideal für Singles oder Paare, die ein komfortables und praktisches Zuhause suchen.\n\nDie Wohnung befindet sich in einer ruhigen und dennoch zentralen Lage im Südosten Regensburgs. Geschäfte und Einrichtungen des täglichen Bedarfs sind bequem zu erreichen, und die Autobahnen A3 und A93 bieten eine hervorragende Verkehrsanbindung. Eine Bushaltestelle direkt vor dem Gebäude ermöglicht eine schnelle Anbindung an den öffentlichen Nahverkehr; Stadtzentrum und Universität sind nur wenige Minuten entfernt.",
+  "features": [
+   "Ab dem 1. Mai 2014 ist die neue Energieeinsparverordnung (EnEV 2014) rechtswirksam. Immobilieninserate müssen seitdem zusätzliche Angaben zu energetischen Eigenschaften enthalten. Liegt noch kein Energieausweis vor, entfällt die Pflicht. Für denkmalgeschützte Häuser und Gebäude mit weniger als 50 Quadratmetern Nutzfläche ist kein Energieausweis nötig. Bedarfsausweis, Gas, Energieeffizienzklasse A+",
+   "sanierter Altbau",
+   "2. OG",
+   "möbliert",
+   "Eigene Küche",
+   "Badewanne",
+   "Kabel, Satellit",
+   "Ökostrom",
+   "Gasheizung",
+   "Bewohnerparken",
+   "3 Minuten zu Fuß entfernt",
+   "Waschmaschine , Balkon, Keller"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2026/41/25530df2dd2725a32b6755eccdae53a4abe5936fb56cc81d313b6a2fcf5ce167_179187545612894671065612829728.large.JPEG",
+   "https://img.wg-gesucht.de/media/up/2026/41/9595eb9448470e899ac71020fc38524888efe155ba021ca123771459a1eea107_179187545617294671065617225131.large.JPEG",
+   "https://img.wg-gesucht.de/media/up/2026/41/dc715fff19c7feccea3dfe5e03fec4f305dc8a7bd3daa3dfbcaac67b9471b780_179187545621794671065621716051.large.JPEG",
+   "https://img.wg-gesucht.de/media/up/2026/41/e405707d554d84451a67a9d136bec9b47f08d48d0b14bd0d9010d32ae414376e_179187545625694671065625663483.large.JPEG",
+   "https://img.wg-gesucht.de/media/up/2026/41/011ca1ebc2d01dc0af6e5c8e7438e9fb31bbbff24994fa9a02097a7f4387c6c6_179187545629394671065629325563.large.JPEG"
+  ],
+  "score": 66,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 16.5,
+   "size": 25.0,
+   "price": 8.7,
+   "parking": 9.0,
+   "extras": 10,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Einbauküche",
+   "Balkon/Terrasse",
+   "Keller/Abstellraum",
+   "Waschmaschine möglich"
+  ],
+  "cons": [
+   "Parken auf der Straße / Bewohnerparken",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 3.3,
+  "bike_minutes": 17,
+  "parking": "Parken auf der Straße / Bewohnerparken",
+  "ai_review": null,
+  "first_seen": "2026-10-13T11:47:26+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
+  "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -260,7 +334,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -316,7 +390,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -388,7 +462,7 @@
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
   "last_seen": "2026-10-12T23:02:08+00:00",
-  "notified_at": null,
+  "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -457,7 +531,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -524,7 +598,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -589,7 +663,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -664,8 +738,8 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
-  "notified_at": null,
+  "last_seen": "2026-10-13T11:47:26+00:00",
+  "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -730,7 +804,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -796,7 +870,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -858,7 +932,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -923,7 +997,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T11:59:27+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -991,7 +1065,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1124,7 +1198,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -1193,7 +1267,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1270,8 +1344,8 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
-  "notified_at": null,
+  "last_seen": "2026-10-13T11:47:26+00:00",
+  "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -1338,7 +1412,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-11T10:49:18+00:00",
-  "last_seen": "2026-10-12T23:02:08+00:00",
+  "last_seen": "2026-10-13T11:47:26+00:00",
   "notified_at": "2026-10-11T10:49:29+00:00",
   "active": true,
   "duplicate_of": null
