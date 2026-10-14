@@ -1,5 +1,81 @@
 [
  {
+  "id": "wg:13703740",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/wohnungen-in-Regensburg-Reinhausen.13703740.html",
+  "title": "1 Zimmer in einer 3-Zimmer-WG ab 01.08.2026 verfügbar, möbliert",
+  "kind": "Wohnung",
+  "rent_warm": 367.0,
+  "rent_cold": 317.0,
+  "utilities": 50.0,
+  "rent_estimated": false,
+  "deposit": 960.0,
+  "area_m2": 65.0,
+  "rooms": 3.0,
+  "address": "Brandlberger Straße 84 93057 Regensburg Reinhausen",
+  "zip_code": "93057",
+  "district": "Reinhausen",
+  "lat": 49.034775,
+  "lon": 12.117989,
+  "available_from": "2026-09-06",
+  "available_until": null,
+  "is_swap": false,
+  "description": "65 m2 große 3-Zimmer-Wohnung (WG) mit Balkon im 2. Obergeschoss ohne Aufzug\nEin Schlafzimmer verfügbar, mit großem Doppelbett, Schreibtisch und Regalen.\nAusgestattete Küche mit großem Kühl-/Gefrierschrank, Backofen, Geschirrspüler und Herd. Geschirr inklusive.\nBadezimmer mit Dusche und WC, separater Abstellraum, Waschmaschine und beheiztem Handtuchhalter (an die Zentralheizung angeschlossen, nicht elektrisch).\nPrivater Keller im Untergeschoss (-1).\nDer Bus fährt tagsüber alle 10 Minuten direkt vor der Tür (zur vollen Stunde, z. B. 7:00, 7:10, usw.).\nDie Universität ist maximal 30 Minuten mit dem Bus oder 10–20 Minuten mit dem Auto entfernt (je nach Verkehrslage).\nDas Stadtzentrum erreichen Sie in 10–15 Minuten mit dem Bus.\nDas große Kaufland-Einkaufszentrum ist 600 Meter entfernt, das Donau-Einkaufszentrum 5 Minuten mit dem Bus.\nParkplätze sind vor dem Gebäude und gelegentlich auch in der angrenzenden Straße ausreichend vorhanden. Selbst mit drei gleichzeitig geparkten Autos gab es in einem Jahr nie Probleme.\nDie Gesamtmiete beträgt 1145 €/Monat (sofern der Vermieter die Miete nicht neu festsetzt), davon 995 € Kaltmiete und 150 € für Wasser, Warmwasser und Heizung; Strom (ca. 75 €/Monat) und Internet sind nicht inbegriffen.\nEin Hausmeister ist bei Problemen jederzeit vor Ort.\n\nDie Linie 1 Richtung Prüfening über den Hauptbahnhof fährt alle 10 Minuten.\nDie Linien 4 und 5 sowie die Fernbusse (34, 75, 77) sind 2 Gehminuten entfernt (Haltestelle Schulzentrum Isarstraße).\nDie Linien 3 und 9 sowie die Fernbusse (28, 35, 41, 42, 43) sind 5 Gehminuten entfernt (Haltestelle Nordgaustraße).\nDas Alex Center (Kaufland) ist 5 Gehminuten entfernt, und das DEZ erreichen Sie in 20 Minuten zu Fuß oder mit dem Bus; die Linie 1 hält dort.\n\nBitte senden Sie eine Nachricht an WG-Gesucht oder via WhatsApp an +33-6-80-76-81-19.\nBitte keine Anrufe.\nVorzugsweise für Studenten, da es ideal ist.\nDie Fotos kommen aus ein Video, deswegen sind sie ein bisschen unscharf. Das Video schicke ich gerne.\nRuhige Gegend.\nDie Wohnung wird derzeit von einem französischen Masterstudenten im ersten Studienjahr bewohnt, der Deutsch, Englisch und Bulgarisch spricht.\nTolles Eiscafé gegenüber, Fahrschulen im Stockwerk darunter und in der Nähe, Fitnessstudio und Bowlingbahn in der Nähe.\nEntschuldigung, wenn ich ein bisschen Zeit um zu antworten bis Sonntag, ich habe viel zu tun wegen der Uni.",
+  "features": [
+   "WG geeignet",
+   "Mehrfamilienhaus",
+   "2. OG",
+   "möbliert",
+   "Eigene Küche",
+   "Dusche",
+   "Parkett, Fliesen",
+   "gute Parkmöglichkeiten",
+   "1 Minute zu Fuß entfernt",
+   "Waschmaschine , Spülmaschine, Balkon, Keller, Fahrradkeller"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2026/26/7058643c94547362ec798d019862bb00d2211f0a66e7f22049cf9c0b4ea421a2_Capture_d__cran_2026_07_01_192851.large.png",
+   "https://img.wg-gesucht.de/media/up/2026/26/bc70147e1b870215d79fd0fbf578cc8d27536806b371dcdcf07e2902d27172fa_Capture_d__cran_2026_07_01_192826.large.png",
+   "https://img.wg-gesucht.de/media/up/2026/26/1465d916a9e1abc779e1152b9806ae0c26f407f99a79d4fa8344089110f7de29_Capture_d__cran_2026_07_01_192810.large.png",
+   "https://img.wg-gesucht.de/media/up/2026/26/15f39c4d912ea51dfc438e65c3f91b1bbad5f68fa4284cf8fa8a15df6a897103_Capture_d__cran_2026_07_01_192747.large.png",
+   "https://img.wg-gesucht.de/media/up/2026/26/3dd793662a668031b7697696a7855db70a9dcdd962893dded031e7e39c45fdd4_Capture_d__cran_2026_07_01_192728.large.png",
+   "https://img.wg-gesucht.de/media/up/2026/26/9c0981ecdc3264f89bc5af9dc3ca39daeee8b4d04388a0617d03b3fd5549e479_Capture_d__cran_2026_07_01_192651.large.png"
+  ],
+  "score": 78,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 21.8,
+   "size": 25.0,
+   "price": 15.0,
+   "parking": 9.0,
+   "extras": 10,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Separates Schlafzimmer",
+   "Günstig",
+   "Einbauküche",
+   "Balkon/Terrasse",
+   "Keller/Abstellraum",
+   "Waschmaschine möglich",
+   "Fahrradstellplatz"
+  ],
+  "cons": [
+   "Parken auf der Straße / Bewohnerparken",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 2.4,
+  "bike_minutes": 12,
+  "parking": "Parken auf der Straße / Bewohnerparken",
+  "ai_review": null,
+  "first_seen": "2026-10-14T20:14:00+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "ka:3533152156",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/untermiete-mietwohnung-regensburg/3533152156-203-7656",
@@ -57,7 +133,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -125,7 +201,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -262,7 +338,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -318,7 +394,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -395,6 +471,57 @@
   "duplicate_of": null
  },
  {
+  "id": "ka:3541150626",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/appartement/3541150626-203-7655",
+  "title": "Appartement",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 445.0,
+  "rent_cold": 370.0,
+  "utilities": 25.0,
+  "rent_estimated": false,
+  "deposit": 740.0,
+  "area_m2": 28.0,
+  "rooms": 1.0,
+  "address": "93055 Regensburg",
+  "zip_code": "93055",
+  "district": "Ostenviertel / Burgweinting / Schwabelweis",
+  "lat": 49.0157520969471,
+  "lon": 12.106982607629195,
+  "available_from": "November 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Appartement, 1 Zimmer, Bad , Küche\nNähe Domspatzengymnasium",
+  "features": [],
+  "images": [],
+  "score": 62,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 30.0,
+   "size": 15.0,
+   "price": 13.4,
+   "parking": 0.0,
+   "extras": 5.0,
+   "penalty": -1.0
+  },
+  "pros": [
+   "Sehr zentral"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt",
+   "Keine Fotos"
+  ],
+  "distance_km": 0.8,
+  "bike_minutes": 4,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-14T20:14:00+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "ka:3540880711",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-in-der-regensburger-innenstadt/3540880711-203-7659",
@@ -452,7 +579,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T15:07:53+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -522,7 +649,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -589,7 +716,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -654,7 +781,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -729,7 +856,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -788,7 +915,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T21:19:00+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -913,7 +1040,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -979,7 +1106,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -1041,7 +1168,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1174,7 +1301,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1237,7 +1364,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1299,7 +1426,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1432,7 +1559,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1509,7 +1636,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T20:14:00+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
