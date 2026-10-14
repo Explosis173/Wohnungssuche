@@ -57,7 +57,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -125,7 +125,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -262,7 +262,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -318,7 +318,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -395,6 +395,69 @@
   "duplicate_of": null
  },
  {
+  "id": "ka:3540880711",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-in-der-regensburger-innenstadt/3540880711-203-7659",
+  "title": "1-Zimmer Wohnung in der Regensburger Innenstadt",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 588.0,
+  "rent_cold": 588.0,
+  "utilities": 100.0,
+  "rent_estimated": false,
+  "deposit": null,
+  "area_m2": 34.0,
+  "rooms": 1.0,
+  "address": "93047 Regensburg",
+  "zip_code": "93047",
+  "district": "Innenstadt / Altstadt",
+  "lat": 49.01789201875334,
+  "lon": 12.092415264114784,
+  "available_from": "November 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Ich suche zum 15.11.26 einen Nachmieter für meine 1 Zimmer Wohnung in der Schäffnerstraße.\nDie Küche muss für 300€ abgelöst werden. Beide Kühlschranke inklusive.\nDas Sofa und der Esstisch mit 2 Sitzbänken können ebenfalls abgelöst werden.\nDas Sofa verfügt über Stauraum im Inneren und wird von uns natürlich noch gründlich gereinigt.\nKeine Haustiere erlaubt.",
+  "features": [
+   "Einbauküche"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44b39f10-4f09-45d2-b4e2-ebd5230a5f5c?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d390d82-de82-4767-85bf-b28c0117d8ef?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c99ba759-4eab-4f34-a5bd-ee0959e1c8b2?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/9917c2c0-4b8c-4815-bfce-66481a5cfe7f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/605168a0-7184-4fac-adc9-2f740d4c4ebd?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/aff76acb-b471-4f64-a8da-2d095b9a95cb?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77a4e828-b073-4660-9d9b-08dfdf502398?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66deb7c4-c7d4-4a42-8744-6511c3b91808?rule=$_59.JPG"
+  ],
+  "score": 61,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 30.0,
+   "size": 18.8,
+   "price": 4.5,
+   "parking": 0.0,
+   "extras": 8.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Genug Platz für alle Möbel",
+   "Einbauküche"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 0.3,
+  "bike_minutes": 2,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-14T15:07:53+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "wg:14229214",
   "source": "wg-gesucht",
   "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Reinhausen.14229214.html",
@@ -459,7 +522,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -526,7 +589,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -591,7 +654,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -666,7 +729,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -725,7 +788,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T21:19:00+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -850,7 +913,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -916,7 +979,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -978,7 +1041,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1111,7 +1174,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1174,7 +1237,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1236,7 +1299,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1369,7 +1432,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1446,7 +1509,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-14T09:30:49+00:00",
+  "last_seen": "2026-10-14T15:07:53+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
