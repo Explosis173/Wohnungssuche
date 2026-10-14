@@ -1,18 +1,18 @@
 {
- "last_digest_date": "2026-10-13",
+ "last_digest_date": "2026-10-14",
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-10-13T21:19:00+00:00",
+   "last_success": "2026-10-14T09:30:49+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-10-13T21:19:00+00:00",
+   "last_success": "2026-10-14T09:30:49+00:00",
    "last_error": null,
    "consecutive_failures": 0,
-   "last_count": 16
+   "last_count": 13
   }
  },
  "rejected": {
@@ -127,6 +127,10 @@
   "ka:3514186163": {
    "reason": "Tauschwohnung",
    "seen": "2026-10-12T11:59:27+00:00"
+  },
+  "ka:3515762541": {
+   "reason": "Warmmiete 653 € > 600 €",
+   "seen": "2026-10-14T09:30:49+00:00"
   },
   "ka:3516155782": {
    "reason": "WG-Zimmer",
@@ -255,6 +259,10 @@
   "ka:3539564864": {
    "reason": "WG-Zimmer",
    "seen": "2026-10-13T11:47:26+00:00"
+  },
+  "ka:3540349803": {
+   "reason": "13 m²",
+   "seen": "2026-10-14T09:30:49+00:00"
   },
   "wg:10785009": {
    "reason": "18 m²",
