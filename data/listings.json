@@ -133,7 +133,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-15T15:00:38+00:00",
+  "last_seen": "2026-10-15T19:54:51+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -201,7 +201,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-15T15:00:38+00:00",
+  "last_seen": "2026-10-15T19:54:51+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -320,7 +320,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-15T15:00:38+00:00",
+  "last_seen": "2026-10-15T19:54:51+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -371,7 +371,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-15T15:00:38+00:00",
+  "last_seen": "2026-10-15T19:54:51+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -571,7 +571,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-15T15:00:38+00:00",
+  "last_seen": "2026-10-15T19:54:51+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -636,7 +636,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-15T15:00:38+00:00",
+  "last_seen": "2026-10-15T19:54:51+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -895,7 +895,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-15T15:00:38+00:00",
+  "last_seen": "2026-10-15T19:54:51+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -961,7 +961,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-15T15:00:38+00:00",
+  "last_seen": "2026-10-15T19:54:51+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -1154,7 +1154,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-15T15:00:38+00:00",
+  "last_seen": "2026-10-15T19:54:51+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1216,72 +1216,8 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-15T15:00:38+00:00",
+  "last_seen": "2026-10-15T19:54:51+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3538001483",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/liebevoll-renovierte-1-zimmerwohnung-im-regensburger-sued-osten/3538001483-203-7656",
-  "title": "Liebevoll renovierte 1-Zimmerwohnung im Regensburger Süd-Osten",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 490.0,
-  "rent_cold": 390.0,
-  "utilities": 100.0,
-  "rent_estimated": false,
-  "deposit": 780.0,
-  "area_m2": 22.0,
-  "rooms": 1.0,
-  "address": "Landshuter Straße 105D, 93053 Regensburg",
-  "zip_code": "93053",
-  "district": "Galgenberg / Kasernenviertel / Uni",
-  "lat": 49.00274169999999,
-  "lon": 12.1262307,
-  "available_from": "Oktober 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Bei Interesse melden Sie sich bitte telefonisch unter 0171 2456366.\n\nDie Wohnung ist ein liebevoll renoviertes 1-Zimmer-Apartment im 2. Obergeschoss mit Aufzug und einer Pantry-Einbauküche.\nZur Wohnung gehören außerdem ein Kellerabteil und ein Fahrradkeller.\nDas Kasernenviertel in Regensburg bietet eine gute Anbindung an die Buslinien 10 und 11 sowie Einkaufsmöglichkeiten und eine schnelle Erreichbarkeit von Universität und Hochschule.",
-  "features": [
-   "Einbauküche",
-   "Aufzug",
-   "Keller"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36ad8149-85bc-4287-82c2-6b0efa45f95b?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06f84f2e-b49f-44c6-a7c0-df62a994c71a?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41b2b95d-0e5f-4a92-b726-f88ce58f4fc6?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e02fd32e-be7c-4cd5-8498-f9c82ec2e131?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a9edbb1-3ff5-431b-b005-f12b578f41c5?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/9497d147-55cd-4912-a1f4-7bbeb916e572?rule=$_59.JPG"
-  ],
-  "score": 46,
-  "rating": "Mäßig",
-  "breakdown": {
-   "location": 19.2,
-   "size": 6.2,
-   "price": 10.6,
-   "parking": 0.0,
-   "extras": 10,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Einbauküche",
-   "Keller/Abstellraum",
-   "Fahrradstellplatz"
-  ],
-  "cons": [
-   "Eng – deine Möbel passen nur knapp",
-   "Kein Parkplatz erwähnt"
-  ],
-  "distance_km": 2.8,
-  "bike_minutes": 15,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-13T17:35:40+00:00",
-  "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -2342,6 +2278,70 @@
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
   "last_seen": "2026-10-11T20:20:58+00:00",
+  "notified_at": "2026-10-12T11:59:41+00:00",
+  "active": false,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3538001483",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/liebevoll-renovierte-1-zimmerwohnung-im-regensburger-sued-osten/3538001483-203-7656",
+  "title": "Liebevoll renovierte 1-Zimmerwohnung im Regensburger Süd-Osten",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 490.0,
+  "rent_cold": 390.0,
+  "utilities": 100.0,
+  "rent_estimated": false,
+  "deposit": 780.0,
+  "area_m2": 22.0,
+  "rooms": 1.0,
+  "address": "Landshuter Straße 105D, 93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 49.00274169999999,
+  "lon": 12.1262307,
+  "available_from": "Oktober 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Bei Interesse melden Sie sich bitte telefonisch unter 0171 2456366.\n\nDie Wohnung ist ein liebevoll renoviertes 1-Zimmer-Apartment im 2. Obergeschoss mit Aufzug und einer Pantry-Einbauküche.\nZur Wohnung gehören außerdem ein Kellerabteil und ein Fahrradkeller.\nDas Kasernenviertel in Regensburg bietet eine gute Anbindung an die Buslinien 10 und 11 sowie Einkaufsmöglichkeiten und eine schnelle Erreichbarkeit von Universität und Hochschule.",
+  "features": [
+   "Einbauküche",
+   "Aufzug",
+   "Keller"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36ad8149-85bc-4287-82c2-6b0efa45f95b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06f84f2e-b49f-44c6-a7c0-df62a994c71a?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41b2b95d-0e5f-4a92-b726-f88ce58f4fc6?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e02fd32e-be7c-4cd5-8498-f9c82ec2e131?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a9edbb1-3ff5-431b-b005-f12b578f41c5?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/9497d147-55cd-4912-a1f4-7bbeb916e572?rule=$_59.JPG"
+  ],
+  "score": 46,
+  "rating": "Mäßig",
+  "breakdown": {
+   "location": 19.2,
+   "size": 6.2,
+   "price": 10.6,
+   "parking": 0.0,
+   "extras": 10,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Einbauküche",
+   "Keller/Abstellraum",
+   "Fahrradstellplatz"
+  ],
+  "cons": [
+   "Eng – deine Möbel passen nur knapp",
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 2.8,
+  "bike_minutes": 15,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-11T16:19:21+00:00",
+  "last_seen": "2026-10-13T17:35:40+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": false,
   "duplicate_of": null
