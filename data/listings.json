@@ -76,6 +76,67 @@
   "duplicate_of": null
  },
  {
+  "id": "ka:3526952442",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/ruhige-gemuetliche-1-zkb-wohnung-moebliert-ab-sofort/3526952442-203-7655",
+  "title": "ruhige gemütliche 1-ZKB Wohnung möbliert ab sofort",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 586,
+  "rent_cold": 490.0,
+  "utilities": 96,
+  "rent_estimated": true,
+  "deposit": 1500.0,
+  "area_m2": 32.0,
+  "rooms": 1.0,
+  "address": "93055 Regensburg",
+  "zip_code": "93055",
+  "district": "Ostenviertel / Burgweinting / Schwabelweis",
+  "lat": 49.0156698687025,
+  "lon": 12.116175103613703,
+  "available_from": null,
+  "available_until": null,
+  "is_swap": false,
+  "description": "möblierte gemütliche Wohnung in angenehm ruhiger Gegend und dennoch zentral gelegen. Nette Hausgemeinschaft. Busverbindungen optimal, alle 10 min. Platz für Fahrrad und KFZ vorhanden.\nAb sofort frei\nMietdauer flexibel\nKaution 1500,-\nMan kann bei Bedarf auch den Wohnraum in 2 Bereiche aufteilen: Küche und Essbereich\nsowie Schlaf- bzw Wohnraum.\nHell und sauber\nDer Ausblick idyllisch. Stadtnah und doch ruhig. Parkplatz ist immer vor dem Zuhause\n490 Kaltmiete\n620 Warmmiete\nLeider muss ich hier mitteilen, dass der Vermieter darauf besteht, dass eine aussagefähige, konkrete Vorstellung vorab gesendet wird, am besten mit Angabe des Berufs\nper whatsapp an 015206164553 (bitte nicht anrufen, nur schreiben oder Sprachnachricht)\nder Hauseigentümer möchte keine Mieter die vom Staat die Miete bezahlt bekommen",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Einbauküche",
+   "Altbau",
+   "Garage/Stellplatz"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4efa44fc-4486-4342-9642-b122a1ba4410?rule=$_59.JPG"
+  ],
+  "score": 74,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 27.2,
+   "size": 17.5,
+   "price": 4.6,
+   "parking": 20.0,
+   "extras": 8.0,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Genug Platz für alle Möbel",
+   "Eigener Stellplatz",
+   "Einbauküche"
+  ],
+  "cons": [
+   "Warmmiete geschätzt (nur Kaltmiete angegeben)",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 1.5,
+  "bike_minutes": 8,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-10-16T09:01:26+00:00",
+  "last_seen": "2026-10-16T09:01:26+00:00",
+  "notified_at": "2026-10-16T09:01:34+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "ka:3533152156",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/untermiete-mietwohnung-regensburg/3533152156-203-7656",
@@ -133,7 +194,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-15T19:54:51+00:00",
+  "last_seen": "2026-10-16T09:01:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -201,7 +262,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-15T19:54:51+00:00",
+  "last_seen": "2026-10-16T09:01:26+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -320,7 +381,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-15T19:54:51+00:00",
+  "last_seen": "2026-10-16T09:01:26+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
@@ -371,7 +432,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-15T19:54:51+00:00",
+  "last_seen": "2026-10-16T09:01:26+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -571,7 +632,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-15T19:54:51+00:00",
+  "last_seen": "2026-10-16T09:01:26+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -636,7 +697,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-15T19:54:51+00:00",
+  "last_seen": "2026-10-16T09:01:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -776,65 +837,6 @@
   "duplicate_of": null
  },
  {
-  "id": "wg:14238530",
-  "source": "wg-gesucht",
-  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Innenstadt.14238530.html",
-  "title": "Möbilierte 1-Zimmer Wohnung in der Altstadt",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 550.0,
-  "rent_cold": 460.0,
-  "utilities": 90.0,
-  "rent_estimated": false,
-  "deposit": null,
-  "area_m2": 31.0,
-  "rooms": 1.0,
-  "address": "Schäffnerstraße 93047 Regensburg Innenstadt",
-  "zip_code": "93047",
-  "district": "Innenstadt",
-  "lat": 49.016102,
-  "lon": 12.099233,
-  "available_from": "2026-12-27",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Suche nach einem Nachmieter ab Ende Dezember.\n1-Zimmer Wohnung im zweiten Stock.\nAblöse für Möbel entspricht 1000€.",
-  "features": [
-   "möbliert"
-  ],
-  "images": [
-   "https://img.wg-gesucht.de/media/up/2026/41/2780a3703838bf60e3985a49080d635bd0e957dd58a50eef7d808896652ca47c_20739179192442572231089.large.JPEG",
-   "https://img.wg-gesucht.de/media/up/2026/41/8e83a79dcc20843ce024faaa35f7caa6f89b70f02c7bb346bb9732f7ec87e63e_20739179192435378054466.large.JPEG",
-   "https://img.wg-gesucht.de/media/up/2026/41/59b3995bfe6a50e57e2ade1665955a91bb0316a125c1c14c1cd7686c85d558a6_20739179192435260241953.large.JPEG"
-  ],
-  "score": 55,
-  "rating": "Okay",
-  "breakdown": {
-   "location": 30.0,
-   "size": 16.9,
-   "price": 6.9,
-   "parking": 0.0,
-   "extras": 5.0,
-   "penalty": -4.0
-  },
-  "pros": [
-   "Sehr zentral",
-   "Genug Platz für alle Möbel"
-  ],
-  "cons": [
-   "Kein Parkplatz erwähnt",
-   "Möbliert – deine eigenen Möbel müssten woanders hin",
-   "Ablöse verlangt"
-  ],
-  "distance_km": 0.3,
-  "bike_minutes": 2,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-13T21:19:00+00:00",
-  "last_seen": "2026-10-13T21:19:00+00:00",
-  "notified_at": "2026-10-14T09:30:58+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
   "id": "ka:3533365123",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/zentral-gelegene-studentenwohnung-in-regesburg/3533365123-203-7656",
@@ -895,7 +897,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-15T19:54:51+00:00",
+  "last_seen": "2026-10-16T09:01:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -961,7 +963,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-15T19:54:51+00:00",
+  "last_seen": "2026-10-16T09:01:26+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -1154,7 +1156,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-15T19:54:51+00:00",
+  "last_seen": "2026-10-16T09:01:26+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1216,7 +1218,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-15T19:54:51+00:00",
+  "last_seen": "2026-10-16T09:01:26+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1364,74 +1366,6 @@
   "first_seen": "2026-10-12T19:48:03+00:00",
   "last_seen": "2026-10-15T09:08:53+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3537138149",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-apartment-zwischenmiete-nur-fuer-frauen/3537138149-203-7654",
-  "title": "Möbliertes Apartment Zwischenmiete nur für Frauen",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 570.0,
-  "rent_cold": 570.0,
-  "utilities": null,
-  "rent_estimated": false,
-  "deposit": 1100.0,
-  "area_m2": 20.0,
-  "rooms": 1.0,
-  "address": "93051 Regensburg",
-  "zip_code": "93051",
-  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
-  "lat": 49.003777028038726,
-  "lon": 12.079295440276647,
-  "available_from": "November 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Möbliertes Apartment zur Zwischenmiete in Regensburg – nur für Frauen – 570 € warm\nIch suche eine zuverlässige Nichtraucherin für mein gepflegtes, ca. 20 m² Apartment mit eigenem Bad und Küchenzeile. Kein Balkon. Im Gebäude gibt es 2 Aufzüge und einen gemeinschaftlichen Waschraum.\nZeitraum: 01.11.2026–31.03.2027, Verlängerung um etwa 1-2 Monat nach Absprache möglich.\nLage: Hauptbahnhof und Universität sind jeweils innerhalb von 10 Minuten mit dem Bus erreichbar. REWE, Netto und eine Bäckerei sind etwa fünf Gehminuten entfernt.\nAusstattung: Bett mit Matratze, Ablagetisch, Schreibtisch mit Bürostuhl, Bücherregal, Kleiderschrank, Schuhschrank, Kommode, Geschirrschrank, Esstisch mit Stühlen sowie eine Mikrowelle mit Grillfunktion.\nWarmmiete: 570 € monatlich, inklusive Möblierung, Internet, Strom, Wasser und Heizung.\nKaution: 1.100 €\nDie Untervermietung wurde vom Vermieter bereits genehmigt.\nBei Interesse bitte eine Vorstellung, den gewünschten Mietzeitraum und den Grund für die Suche nach einer vorübergehenden Unterkunft angeben.\nBitte haben Sie Verständnis, dass ich nicht alle Nachrichten beantworten kann!",
-  "features": [
-   "Möbliert/Teilmöbliert",
-   "Einbauküche",
-   "Aufzug"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09e4ad84-9d59-4ffd-9351-0c9d7c5b68cf?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db3f2731-5859-43cb-82af-c8fa35d7548b?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ed6b4fe-41fd-4a1b-aea6-6ed2c9d0cd08?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb76a646-67d4-483e-9c83-6798696f2908?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbc7d56d-0b93-4bb9-805e-c4547ebd50e6?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/eda32782-fd84-4675-ad02-25257d460312?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03d4b9ae-0921-4270-a9f2-bb01c482b82d?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/5478ecad-ee3d-4eed-bc54-7883d81505f7?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d75da0c2-e44b-4076-8191-6f726d35ccfc?rule=$_59.JPG"
-  ],
-  "score": 30,
-  "rating": "Mäßig",
-  "breakdown": {
-   "location": 23.5,
-   "size": 0.0,
-   "price": 5.6,
-   "parking": 0.0,
-   "extras": 10,
-   "penalty": -9.0
-  },
-  "pros": [
-   "Einbauküche",
-   "Balkon/Terrasse"
-  ],
-  "cons": [
-   "Eng – deine Möbel passen nur knapp",
-   "Kein Parkplatz erwähnt",
-   "Möbliert – deine eigenen Möbel müssten woanders hin",
-   "Mieterkreis eingeschränkt (Text prüfen)"
-  ],
-  "distance_km": 2.1,
-  "bike_minutes": 11,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-11T10:49:18+00:00",
-  "last_seen": "2026-10-13T21:19:00+00:00",
-  "notified_at": "2026-10-11T10:49:29+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -2093,6 +2027,65 @@
   "duplicate_of": null
  },
  {
+  "id": "wg:14238530",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Innenstadt.14238530.html",
+  "title": "Möbilierte 1-Zimmer Wohnung in der Altstadt",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 550.0,
+  "rent_cold": 460.0,
+  "utilities": 90.0,
+  "rent_estimated": false,
+  "deposit": null,
+  "area_m2": 31.0,
+  "rooms": 1.0,
+  "address": "Schäffnerstraße 93047 Regensburg Innenstadt",
+  "zip_code": "93047",
+  "district": "Innenstadt",
+  "lat": 49.016102,
+  "lon": 12.099233,
+  "available_from": "2026-12-27",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Suche nach einem Nachmieter ab Ende Dezember.\n1-Zimmer Wohnung im zweiten Stock.\nAblöse für Möbel entspricht 1000€.",
+  "features": [
+   "möbliert"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2026/41/2780a3703838bf60e3985a49080d635bd0e957dd58a50eef7d808896652ca47c_20739179192442572231089.large.JPEG",
+   "https://img.wg-gesucht.de/media/up/2026/41/8e83a79dcc20843ce024faaa35f7caa6f89b70f02c7bb346bb9732f7ec87e63e_20739179192435378054466.large.JPEG",
+   "https://img.wg-gesucht.de/media/up/2026/41/59b3995bfe6a50e57e2ade1665955a91bb0316a125c1c14c1cd7686c85d558a6_20739179192435260241953.large.JPEG"
+  ],
+  "score": 55,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 30.0,
+   "size": 16.9,
+   "price": 6.9,
+   "parking": 0.0,
+   "extras": 5.0,
+   "penalty": -4.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Genug Platz für alle Möbel"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt",
+   "Möbliert – deine eigenen Möbel müssten woanders hin",
+   "Ablöse verlangt"
+  ],
+  "distance_km": 0.3,
+  "bike_minutes": 2,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-13T21:19:00+00:00",
+  "last_seen": "2026-10-13T21:19:00+00:00",
+  "notified_at": "2026-10-14T09:30:58+00:00",
+  "active": false,
+  "duplicate_of": null
+ },
+ {
   "id": "ka:3494451609",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht/3494451609-203-7655",
@@ -2343,6 +2336,74 @@
   "first_seen": "2026-10-11T16:19:21+00:00",
   "last_seen": "2026-10-13T17:35:40+00:00",
   "notified_at": "2026-10-12T11:59:41+00:00",
+  "active": false,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3537138149",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-apartment-zwischenmiete-nur-fuer-frauen/3537138149-203-7654",
+  "title": "Möbliertes Apartment Zwischenmiete nur für Frauen",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 570.0,
+  "rent_cold": 570.0,
+  "utilities": null,
+  "rent_estimated": false,
+  "deposit": 1100.0,
+  "area_m2": 20.0,
+  "rooms": 1.0,
+  "address": "93051 Regensburg",
+  "zip_code": "93051",
+  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
+  "lat": 49.003777028038726,
+  "lon": 12.079295440276647,
+  "available_from": "November 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Möbliertes Apartment zur Zwischenmiete in Regensburg – nur für Frauen – 570 € warm\nIch suche eine zuverlässige Nichtraucherin für mein gepflegtes, ca. 20 m² Apartment mit eigenem Bad und Küchenzeile. Kein Balkon. Im Gebäude gibt es 2 Aufzüge und einen gemeinschaftlichen Waschraum.\nZeitraum: 01.11.2026–31.03.2027, Verlängerung um etwa 1-2 Monat nach Absprache möglich.\nLage: Hauptbahnhof und Universität sind jeweils innerhalb von 10 Minuten mit dem Bus erreichbar. REWE, Netto und eine Bäckerei sind etwa fünf Gehminuten entfernt.\nAusstattung: Bett mit Matratze, Ablagetisch, Schreibtisch mit Bürostuhl, Bücherregal, Kleiderschrank, Schuhschrank, Kommode, Geschirrschrank, Esstisch mit Stühlen sowie eine Mikrowelle mit Grillfunktion.\nWarmmiete: 570 € monatlich, inklusive Möblierung, Internet, Strom, Wasser und Heizung.\nKaution: 1.100 €\nDie Untervermietung wurde vom Vermieter bereits genehmigt.\nBei Interesse bitte eine Vorstellung, den gewünschten Mietzeitraum und den Grund für die Suche nach einer vorübergehenden Unterkunft angeben.\nBitte haben Sie Verständnis, dass ich nicht alle Nachrichten beantworten kann!",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Einbauküche",
+   "Aufzug"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09e4ad84-9d59-4ffd-9351-0c9d7c5b68cf?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db3f2731-5859-43cb-82af-c8fa35d7548b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ed6b4fe-41fd-4a1b-aea6-6ed2c9d0cd08?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb76a646-67d4-483e-9c83-6798696f2908?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbc7d56d-0b93-4bb9-805e-c4547ebd50e6?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/eda32782-fd84-4675-ad02-25257d460312?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03d4b9ae-0921-4270-a9f2-bb01c482b82d?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/5478ecad-ee3d-4eed-bc54-7883d81505f7?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d75da0c2-e44b-4076-8191-6f726d35ccfc?rule=$_59.JPG"
+  ],
+  "score": 30,
+  "rating": "Mäßig",
+  "breakdown": {
+   "location": 23.5,
+   "size": 0.0,
+   "price": 5.6,
+   "parking": 0.0,
+   "extras": 10,
+   "penalty": -9.0
+  },
+  "pros": [
+   "Einbauküche",
+   "Balkon/Terrasse"
+  ],
+  "cons": [
+   "Eng – deine Möbel passen nur knapp",
+   "Kein Parkplatz erwähnt",
+   "Möbliert – deine eigenen Möbel müssten woanders hin",
+   "Mieterkreis eingeschränkt (Text prüfen)"
+  ],
+  "distance_km": 2.1,
+  "bike_minutes": 11,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-11T10:49:18+00:00",
+  "last_seen": "2026-10-13T21:19:00+00:00",
+  "notified_at": "2026-10-11T10:49:29+00:00",
   "active": false,
   "duplicate_of": null
  }
