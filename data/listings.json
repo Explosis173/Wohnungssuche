@@ -131,7 +131,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-16T09:01:26+00:00",
+  "last_seen": "2026-10-16T14:50:36+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -194,7 +194,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-16T09:01:26+00:00",
+  "last_seen": "2026-10-16T14:50:36+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -264,6 +264,74 @@
   "first_seen": "2026-10-08T17:23:59+00:00",
   "last_seen": "2026-10-16T09:01:26+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3542586765",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-fuer-15-12-26-nur-mit-abloese-450-warm-kumpfmuehl-zieg/3542586765-203-7654",
+  "title": "Nachmieter für 15.12.26 NUR MIT Ablöse! 450 Warm! Kumpfmühl-Zieg",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 450.0,
+  "rent_cold": 450.0,
+  "utilities": 100.0,
+  "rent_estimated": false,
+  "deposit": 1005.0,
+  "area_m2": 26.0,
+  "rooms": 1.0,
+  "address": "93051 Regensburg",
+  "zip_code": "93051",
+  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
+  "lat": 48.98936636545178,
+  "lon": 12.07226439314922,
+  "available_from": "Dezember 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Bitte genau durchlesen:\nNachmieter gesucht für 1 Zimmer Wohnung für den 15. Dezember 2026.\nES IST ZWINGEND notwendig das man ungefähr das 3 fache der Miete als Gehalt erhält, also circa 1400 und mehr, ODER als Student die Bürgschaft der Eltern.\nAusserdem erfolgt der Mietvertrag nur wenn die Ablöse von:\nCouch\nBett 90x200 mit hochwertiger AM Matratze H2\nIKEA Schrank\nZusammen für 900€ vertraglich vereinbart wird.\nDie Wohnung ist super da sie sehr günstig ist, sehr gute Busverbindungen, Tiefgarage kann man für circa 45€ anmieten. SEHR RUHIGES HAUS, also so Party mäsig kommt nicht gut an.\nKleiner Balkon, Einbauküche mit Kühlschrank, Einbaukleiderschrank im Flur.\nNichtraucher bevorzugt, keine Haustiere.\nDie Wohnung ist nur für eine Person.\nKeine Bezahlung durch Amt\nBesichtigung diesen Sonntag und dann erst wieder in 2 Wochen am übernächsten Sonntag.",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Balkon",
+   "Einbauküche",
+   "Aufzug"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6b0b598b-5ce3-40bd-a3d1-fda9d79daf13?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66da2a59-e4ef-4cdd-80e2-25def66b628e?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e61ef01a-4471-455b-83b9-2c1ef05ceed7?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80abb700-5a26-4a1d-b0f2-0ded02f4cd3f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7dfb80e9-235b-4056-8ac0-c85b3d63569b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/57c5f734-3aab-49b5-97b9-32b77414d0a7?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d7aee94-0cf4-460f-80f8-e0454552ba04?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ea1e3bc-9300-48ca-9b77-54a6d0930e9e?rule=$_59.JPG"
+  ],
+  "score": 64,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 13.7,
+   "size": 13.8,
+   "price": 13.1,
+   "parking": 17.0,
+   "extras": 10,
+   "penalty": -4.0
+  },
+  "pros": [
+   "Stellplatz (gegen Aufpreis)",
+   "Einbauküche",
+   "Balkon/Terrasse"
+  ],
+  "cons": [
+   "3.7 km bis zur Altstadt",
+   "Möbliert – deine eigenen Möbel müssten woanders hin",
+   "Ablöse verlangt"
+  ],
+  "distance_km": 3.7,
+  "bike_minutes": 19,
+  "parking": "Stellplatz (gegen Aufpreis)",
+  "ai_review": null,
+  "first_seen": "2026-10-16T14:50:36+00:00",
+  "last_seen": "2026-10-16T14:50:36+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -432,7 +500,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-16T09:01:26+00:00",
+  "last_seen": "2026-10-16T14:50:36+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -632,7 +700,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-16T09:01:26+00:00",
+  "last_seen": "2026-10-16T14:50:36+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -697,7 +765,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-16T09:01:26+00:00",
+  "last_seen": "2026-10-16T14:50:36+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -897,7 +965,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-16T09:01:26+00:00",
+  "last_seen": "2026-10-16T14:50:36+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -963,7 +1031,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-16T09:01:26+00:00",
+  "last_seen": "2026-10-16T14:50:36+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -1026,6 +1094,71 @@
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
   "last_seen": "2026-10-15T09:08:53+00:00",
+  "notified_at": "2026-10-07T19:49:13+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3513807634",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/schoene-1-zimmer-wohnung-in-super-lage/3513807634-203-7654",
+  "title": "Schöne 1-Zimmer-Wohnung in super Lage",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 570.0,
+  "rent_cold": 570.0,
+  "utilities": null,
+  "rent_estimated": false,
+  "deposit": null,
+  "area_m2": 35.0,
+  "rooms": 1.0,
+  "address": "93051 Regensburg",
+  "zip_code": "93051",
+  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
+  "lat": 49.0046371699218,
+  "lon": 12.059058331705138,
+  "available_from": "Oktober 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Ab sofort ist eine sehr schöne und gut gelegene 1-Zimmer-Wohnung in Regensburg frei.\n\nDie Wohnung bietet alles, was man für ein komfortables Wohnen braucht:\n\n* Einbauküche\n* Badewanne\n* Großer Balkon\n* Eigenes Kellerabteil\n* Sehr gute und zentrale Lage in Regensburg Königswiesen 2 km vom Zentrum\n\nDie Lage ist besonders praktisch:\nAlle wichtigen Einkaufsmöglichkeiten befinden sich in unmittelbarer Nähe.\nAuch ein Fitnessstudio, ein großes Einkaufszentrum, Apotheken, McDonald’s und viele weitere Geschäfte und Einrichtungen sind in maximal 500 m zu erreichen.\n\nDie Wohnung eignet sich ideal für eine Einzelperson und ist ab sofort verfügbar.\n\nBei Interesse gerne melden. Besichtigung nach Absprache möglich.",
+  "features": [
+   "Balkon",
+   "Einbauküche",
+   "Badewanne",
+   "Aufzug",
+   "Keller"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/35207c95-a833-4d47-9651-c0b818916025?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65beb043-7b8c-4369-9f0a-f544cad9c4f6?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/1415dfad-d419-4ccc-bf59-4b36325718ce?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c59fde10-907c-4510-9eff-bf9f2ddab4ea?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed0b1727-2214-48a4-af85-d07a6abb5cf3?rule=$_59.JPG"
+  ],
+  "score": 52,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 17.1,
+   "size": 19.4,
+   "price": 5.6,
+   "parking": 0.0,
+   "extras": 10,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Einbauküche",
+   "Balkon/Terrasse",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 3.2,
+  "bike_minutes": 16,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-07T19:47:38+00:00",
+  "last_seen": "2026-10-16T14:50:36+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1156,7 +1289,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-16T09:01:26+00:00",
+  "last_seen": "2026-10-16T14:50:36+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -2138,71 +2271,6 @@
   "first_seen": "2026-10-07T20:08:00+00:00",
   "last_seen": "2026-10-09T20:57:54+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
-  "active": false,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3513807634",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/schoene-1-zimmer-wohnung-in-super-lage/3513807634-203-7654",
-  "title": "Schöne 1-Zimmer-Wohnung in super Lage",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 570.0,
-  "rent_cold": 570.0,
-  "utilities": null,
-  "rent_estimated": false,
-  "deposit": null,
-  "area_m2": 35.0,
-  "rooms": 1.0,
-  "address": "93051 Regensburg",
-  "zip_code": "93051",
-  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
-  "lat": 49.0046371699218,
-  "lon": 12.059058331705138,
-  "available_from": "Oktober 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Ab sofort ist eine sehr schöne und gut gelegene 1-Zimmer-Wohnung in Regensburg frei.\n\nDie Wohnung bietet alles, was man für ein komfortables Wohnen braucht:\n\n* Einbauküche\n* Badewanne\n* Großer Balkon\n* Eigenes Kellerabteil\n* Sehr gute und zentrale Lage in Regensburg Königswiesen 2 km vom Zentrum\n\nDie Lage ist besonders praktisch:\nAlle wichtigen Einkaufsmöglichkeiten befinden sich in unmittelbarer Nähe.\nAuch ein Fitnessstudio, ein großes Einkaufszentrum, Apotheken, McDonald’s und viele weitere Geschäfte und Einrichtungen sind in maximal 500 m zu erreichen.\n\nDie Wohnung eignet sich ideal für eine Einzelperson und ist ab sofort verfügbar.\n\nBei Interesse gerne melden. Besichtigung nach Absprache möglich.",
-  "features": [
-   "Balkon",
-   "Einbauküche",
-   "Badewanne",
-   "Aufzug",
-   "Keller"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/35207c95-a833-4d47-9651-c0b818916025?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65beb043-7b8c-4369-9f0a-f544cad9c4f6?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/1415dfad-d419-4ccc-bf59-4b36325718ce?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c59fde10-907c-4510-9eff-bf9f2ddab4ea?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed0b1727-2214-48a4-af85-d07a6abb5cf3?rule=$_59.JPG"
-  ],
-  "score": 52,
-  "rating": "Okay",
-  "breakdown": {
-   "location": 17.1,
-   "size": 19.4,
-   "price": 5.6,
-   "parking": 0.0,
-   "extras": 10,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Genug Platz für alle Möbel",
-   "Einbauküche",
-   "Balkon/Terrasse",
-   "Keller/Abstellraum"
-  ],
-  "cons": [
-   "Kein Parkplatz erwähnt"
-  ],
-  "distance_km": 3.2,
-  "bike_minutes": 16,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-13T11:47:26+00:00",
-  "notified_at": "2026-10-07T19:49:13+00:00",
   "active": false,
   "duplicate_of": null
  },
