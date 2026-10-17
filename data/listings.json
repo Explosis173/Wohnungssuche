@@ -55,7 +55,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-17T13:42:32+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -116,7 +116,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -179,7 +179,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -247,7 +247,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-16T14:50:36+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -361,7 +361,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -491,7 +491,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -556,7 +556,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -615,7 +615,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T21:19:00+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -681,7 +681,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -747,7 +747,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -809,7 +809,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -942,8 +942,69 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "wg:14252266",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Kasernenviertel.14252266.html",
+  "title": "1-Room Apartment",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 390.0,
+  "rent_cold": 300.0,
+  "utilities": 90.0,
+  "rent_estimated": false,
+  "deposit": 1000.0,
+  "area_m2": 20.0,
+  "rooms": 1.0,
+  "address": "Prinz-Rupprecht-Straße 10 93053 Regensburg Kasernenviertel",
+  "zip_code": "93053",
+  "district": "Kasernenviertel",
+  "lat": 49.004858,
+  "lon": 12.116837,
+  "available_from": "2026-11-01",
+  "available_until": null,
+  "is_swap": false,
+  "description": "- Voll möbliert\n- neu renoviertes Bad\n- kleine Küche mit Kühlschrank (inkl. Gefrierfach) und zwei Herdplatten\n- kleiner privater Balkon\n\n- Busanbindung: ca. 7 Minuten in die Innenstadt, ca. 20 zur Universität\n- Einkaufsmöglichkeiten: direkt neben Hornstraßen-Center (DM, Edeka, Netto, Bäckerei...), Penny Markt\n- Parkmöglichkeiten vor dem Haus",
+  "features": [
+   "1. OG",
+   "möbliert",
+   "6 Minuten zu Fuß entfernt",
+   "Balkon"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2026/41/1bbf0ac8bf4367bf6d0578a3d2404cf7b94c004505ca09be6cc63311783be589_179225631343794674951343784523.large.JPEG",
+   "https://img.wg-gesucht.de/media/up/2026/41/4ed27a45966f91b3fc689161081fc0a079f03367f48976db87b5ca26aaade357_179225631347394674951347382238.large.JPEG"
+  ],
+  "score": 52,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 23.2,
+   "size": 0.0,
+   "price": 15.0,
+   "parking": 9.0,
+   "extras": 8.0,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Günstig",
+   "Balkon/Terrasse"
+  ],
+  "cons": [
+   "Eng – deine Möbel passen nur knapp",
+   "Parken auf der Straße / Bewohnerparken",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 2.1,
+  "bike_minutes": 11,
+  "parking": "Parken auf der Straße / Bewohnerparken",
+  "ai_review": null,
+  "first_seen": "2026-10-17T18:33:01+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -1005,7 +1066,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1151,7 +1212,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -1209,7 +1270,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-17T08:33:21+00:00",
-  "last_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T18:33:01+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
   "active": true,
   "duplicate_of": null
