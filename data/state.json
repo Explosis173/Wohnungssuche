@@ -3,16 +3,16 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-10-17T08:33:21+00:00",
+   "last_success": "2026-10-17T09:58:24+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 51
   },
   "wg-gesucht": {
-   "last_success": "2026-10-17T08:33:21+00:00",
+   "last_success": "2026-10-17T09:58:24+00:00",
    "last_error": null,
    "consecutive_failures": 0,
-   "last_count": 0
+   "last_count": 10
   }
  },
  "rejected": {
@@ -72,6 +72,14 @@
    "reason": "Warmmiete 620 € > 600 €",
    "seen": "2026-10-07T19:47:38+00:00"
   },
+  "ka:3490275236": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
+  "ka:3494451609": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
   "ka:3496213269": {
    "reason": "Warmmiete 650 € > 600 €",
    "seen": "2026-10-07T20:08:00+00:00"
@@ -79,6 +87,10 @@
   "ka:3500880693": {
    "reason": "14 m²",
    "seen": "2026-10-13T17:35:40+00:00"
+  },
+  "ka:3501562028": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
   },
   "ka:3501787277": {
    "reason": "14 m²",
@@ -164,6 +176,10 @@
    "reason": "WG-Zimmer",
    "seen": "2026-10-09T11:19:31+00:00"
   },
+  "ka:3522895276": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
   "ka:3524506103": {
    "reason": "Warmmiete 747 € > 600 €",
    "seen": "2026-10-07T19:47:38+00:00"
@@ -192,6 +208,10 @@
    "reason": "Warmmiete 788 € > 600 €",
    "seen": "2026-10-07T19:47:38+00:00"
   },
+  "ka:3527780440": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
   "ka:3529849602": {
    "reason": "WG-Zimmer",
    "seen": "2026-10-07T19:47:38+00:00"
@@ -216,9 +236,25 @@
    "reason": "15 m²",
    "seen": "2026-10-07T19:47:38+00:00"
   },
+  "ka:3534321398": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
   "ka:3534376166": {
    "reason": "18 m²",
    "seen": "2026-10-08T11:22:05+00:00"
+  },
+  "ka:3534685551": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
+  "ka:3534719105": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
+  "ka:3534976451": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
   },
   "ka:3535025635": {
    "reason": "Warmmiete 725 € > 600 €",
@@ -256,13 +292,29 @@
    "reason": "Warmmiete 630 € > 600 €",
    "seen": "2026-10-11T16:19:21+00:00"
   },
+  "ka:3538001483": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
+  "ka:3538023426": {
+   "reason": "Gesuch, kein Angebot",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
   "ka:3538861213": {
    "reason": "Warmmiete 720 € > 600 €",
    "seen": "2026-10-12T11:59:27+00:00"
   },
+  "ka:3539131076": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
   "ka:3539564864": {
    "reason": "WG-Zimmer",
    "seen": "2026-10-13T11:47:26+00:00"
+  },
+  "ka:3539927683": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
   },
   "ka:3540349803": {
    "reason": "13 m²",
@@ -276,6 +328,10 @@
    "reason": "Warmmiete 747 € > 600 €",
    "seen": "2026-10-17T08:33:21+00:00"
   },
+  "wg:10093628": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
   "wg:10785009": {
    "reason": "18 m²",
    "seen": "2026-10-07T19:47:38+00:00"
@@ -283,6 +339,10 @@
   "wg:13620834": {
    "reason": "Zwischenmiete bis 30.06.2027",
    "seen": "2026-10-07T19:47:38+00:00"
+  },
+  "wg:13703740": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
   },
   "wg:14022494": {
    "reason": "Zwischenmiete bis 30.11.2026",
@@ -304,9 +364,33 @@
    "reason": "WG-Zimmer",
    "seen": "2026-10-09T11:19:31+00:00"
   },
+  "wg:14223435": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
   "wg:14228850": {
    "reason": "17 m²",
    "seen": "2026-10-11T10:49:18+00:00"
+  },
+  "wg:14229214": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
+  "wg:14233396": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
+  "wg:14236683": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
+  "wg:14238530": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-17T09:58:24+00:00"
+  },
+  "wg:14249227": {
+   "reason": "Zwischenmiete bis 31.12.2026",
+   "seen": "2026-10-17T09:58:24+00:00"
   },
   "wg:9549304": {
    "reason": "WG-Zimmer",
