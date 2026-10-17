@@ -3,7 +3,7 @@ from __future__ import annotations
 from abc import ABC, abstractmethod
 
 from ..config import Config
-from ..http import HttpClient
+from ..http import HttpClient, Page
 from ..models import Listing, ListingStub
 
 
@@ -21,3 +21,11 @@ class Source(ABC):
 
     @abstractmethod
     def fetch(self, stub: ListingStub) -> Listing: ...
+
+    def is_gone(self, listing: Listing) -> bool:
+        """True if the ad was deleted or deactivated on the portal."""
+        page = self.http.get_page(listing.url)
+        return page.gone or self.shows_removed_ad(page)
+
+    def shows_removed_ad(self, page: Page) -> bool:
+        return False

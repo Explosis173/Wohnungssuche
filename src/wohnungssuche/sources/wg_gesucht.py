@@ -5,9 +5,9 @@ from __future__ import annotations
 import re
 from urllib.parse import urljoin
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 
-from ..http import BlockedError
+from ..http import BlockedError, Page
 from ..models import Listing, ListingStub
 from ..parsing import clean, parse_date, parse_number, parse_zip
 from .base import Source
@@ -15,6 +15,7 @@ from .base import Source
 BASE_URL = "https://www.wg-gesucht.de"
 CITY_ID = 111  # Regensburg
 CARDS_PER_PAGE = 20
+REMOVED_MARKERS = ("ist momentan deaktiviert", "ist deaktiviert.", "Angebot nicht vorhanden")
 MAX_PAGES = 3
 
 _IMAGE = re.compile(r"https://img\.wg-gesucht\.de/media/up/[^\"' ]+?\.large\.\w+")
@@ -40,6 +41,9 @@ class WgGesucht(Source):
     def fetch(self, stub: ListingStub) -> Listing:
         return parse_detail_page(self.http.get_html(stub.url), stub)
 
+    def shows_removed_ad(self, page: Page) -> bool:
+        return any(marker in page.text for marker in REMOVED_MARKERS)
+
     def _search_url(self, page: int) -> str:
         if self.config.search.include_wg_rooms:
             slug, categories = "wg-zimmer-und-1-zimmer-wohnungen-und-wohnungen", "0+1+2"
@@ -51,44 +55,85 @@ class WgGesucht(Source):
 
 def parse_search_page(html: str) -> list[ListingStub]:
     soup = BeautifulSoup(html, "lxml")
-    cards = soup.select(".wgg_card.offer_list_item[data-id]")
     title = soup.title.get_text() if soup.title else ""
-    if not cards and "Regensburg" not in title:
+    if "Regensburg" not in title:
         raise BlockedError("WG-Gesucht returned an unexpected page (captcha?)")
 
-    stubs = []
-    for card in cards:
-        link = card.select_one("h2 a[href]")
-        if not link:
-            continue
-        info = card.select_one(".col-xs-11 span")
-        parts = [clean(p) for p in (info.get_text() if info else "").split("|")]
-        kind_text = parts[0] if parts else ""
-        district = clean(parts[1].replace("Regensburg", "").rstrip(".")) if len(parts) > 1 else None
-
-        middle = card.select(".middle b")
-        price = parse_number(middle[0].get_text()) if middle else None
-        area = parse_number(middle[-1].get_text()) if len(middle) > 1 else None
-
-        image = card.select_one(".card_image img")
-        image_url = image.get("src") if image else None
-        if image_url and "placeholder" in image_url:
-            image_url = None
-
-        stubs.append(
-            ListingStub(
-                id=f"wg:{card['data-id']}",
-                url=urljoin(BASE_URL, link["href"]),
-                title=clean(link.get_text()),
-                price=price,
-                area_m2=area,
-                kind=_normalize_kind(kind_text),
-                rooms=_rooms(kind_text),
-                district=district or None,
-                image=image_url,
-            )
-        )
+    # WG-Gesucht switched its card markup in Oct 2026; both variants are supported.
+    stubs = [_parse_card(card) for card in soup.select(".wgg-list-card.offer_list_item[data-id]")]
+    stubs += [_parse_classic_card(card) for card in soup.select(".wgg_card.offer_list_item[data-id]")]
+    stubs = [stub for stub in stubs if stub]
+    if not stubs and "liste-details-ad-" in html:
+        raise ValueError("WG-Gesucht shows listings but none could be parsed – layout changed")
     return stubs
+
+
+def _parse_card(card: Tag) -> ListingStub | None:
+    href = card.get("href") or (card.select_one("a[href]") or {}).get("href")
+    if not href:
+        return None
+    title_el = card.select_one(".ad-title")
+    price_el = card.select_one(".price-row .card-main-text")
+    subtitle = card.select_one(".ad-subtitle")
+    parts = [clean(p) for p in (subtitle.get_text() if subtitle else "").split("·")]
+    kind_text = parts[0] if parts else ""
+    area_el = card.select_one(".size-value")
+    return _stub(
+        card["data-id"],
+        href,
+        title_el.get_text() if title_el else card.get("aria-label", ""),
+        price_el.get_text() if price_el else None,
+        area_el.get_text() if area_el else None,
+        kind_text,
+        parts[1] if len(parts) > 1 else None,
+        card.select_one("img.top-image-card"),
+    )
+
+
+def _parse_classic_card(card: Tag) -> ListingStub | None:
+    link = card.select_one("h2 a[href]")
+    if not link:
+        return None
+    info = card.select_one(".col-xs-11 span")
+    parts = [clean(p) for p in (info.get_text() if info else "").split("|")]
+    middle = card.select(".middle b")
+    return _stub(
+        card["data-id"],
+        link["href"],
+        link.get_text(),
+        middle[0].get_text() if middle else None,
+        middle[-1].get_text() if len(middle) > 1 else None,
+        parts[0] if parts else "",
+        parts[1] if len(parts) > 1 else None,
+        card.select_one(".card_image img"),
+    )
+
+
+def _stub(
+    ad_id: str,
+    href: str,
+    title: str,
+    price: str | None,
+    area: str | None,
+    kind_text: str,
+    location: str | None,
+    image: Tag | None,
+) -> ListingStub:
+    district = clean((location or "").replace("Regensburg", "").rstrip(".")) or None
+    image_url = image.get("src") if image else None
+    if image_url and ("placeholder" in image_url or "default-image" in " ".join(image.get("class", []))):
+        image_url = None
+    return ListingStub(
+        id=f"wg:{ad_id}",
+        url=urljoin(BASE_URL, href),
+        title=clean(title),
+        price=parse_number(price),
+        area_m2=parse_number(area),
+        kind=_normalize_kind(kind_text),
+        rooms=_rooms(kind_text),
+        district=district,
+        image=image_url,
+    )
 
 
 def parse_detail_page(html: str, stub: ListingStub) -> Listing:

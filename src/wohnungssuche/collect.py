@@ -14,9 +14,11 @@ from .store import Store
 
 log = logging.getLogger(__name__)
 
-# A listing missing from the results this long is considered taken/offline.
-INACTIVE_AFTER = timedelta(hours=48)
-FORGET_INACTIVE_AFTER = timedelta(days=30)
+# Listings missing from the search results are checked on the portal and deleted
+# once the ad is gone. Without a clear answer they are deleted after this long.
+DELETE_UNSEEN_AFTER = timedelta(days=7)
+MAX_GONE_CHECKS_PER_SOURCE = 25
+GONE_REASON = "Nicht mehr online"
 FORGET_REJECTED_AFTER = timedelta(days=21)
 # Two listings this close with the same rent/size are the same flat on two portals.
 DUPLICATE_DISTANCE_KM = 0.2
@@ -59,14 +61,16 @@ def _collect_source(store: Store, source: Source, config: Config, now: datetime)
     log.info("%s: %d results", source.name, len(stubs))
 
     seen_ids = {stub.id for stub in stubs}
+    missing = []
     for listing in store.listings.values():
         if listing.source != source.name:
             continue
         if listing.id in seen_ids:
             listing.last_seen = stamp
             listing.active = True
-        elif listing.last_seen and now - datetime.fromisoformat(listing.last_seen) > INACTIVE_AFTER:
-            listing.active = False
+        else:
+            missing.append(listing)
+    _delete_gone(store, source, missing, now)
 
     new_listings: list[Listing] = []
     fetched = failed = 0
@@ -107,6 +111,30 @@ def _collect_source(store: Store, source: Source, config: Config, now: datetime)
     return new_listings
 
 
+def _delete_gone(store: Store, source: Source, missing: list[Listing], now: datetime) -> None:
+    """Deletes listings whose ad no longer exists on the portal.
+
+    Not being in the search results is not enough (the ad may just have dropped
+    off the result pages), so each one is checked on the portal itself.
+    """
+    stamp = now.isoformat(timespec="seconds")
+    missing.sort(key=lambda l: l.last_seen)
+    for i, listing in enumerate(missing):
+        gone: bool | None = None
+        if i < MAX_GONE_CHECKS_PER_SOURCE:
+            try:
+                gone = source.is_gone(listing)
+            except Exception as exc:  # noqa: BLE001 – unknown, try again next run
+                log.warning("%s: could not check %s: %s", source.name, listing.url, exc)
+        unseen_for = now - datetime.fromisoformat(listing.last_seen)
+        if gone or unseen_for > DELETE_UNSEEN_AFTER:
+            del store.listings[listing.id]
+            _reject(store, listing.id, GONE_REASON, stamp)
+            log.info("DELETED %s %s (nicht mehr online)", listing.id, listing.title)
+        elif gone is False:
+            listing.active = True  # still online, only dropped off the result pages
+
+
 def _prefilter(stub: ListingStub, config: Config) -> str | None:
     """Cheap checks on search-result data to avoid loading detail pages for nothing."""
     if stub.price is not None and stub.price > config.search.max_warm_rent:
@@ -123,6 +151,9 @@ def _reject(store: Store, listing_id: str, reason: str, stamp: str) -> None:
 
 
 def _mark_duplicates(store: Store, new_listings: list[Listing]) -> None:
+    for listing in store.listings.values():
+        if listing.duplicate_of and listing.duplicate_of not in store.listings:
+            listing.duplicate_of = None  # the other copy was deleted, show this one
     for new in new_listings:
         for other in store.listings.values():
             if other.id == new.id or other.source == new.source or other.duplicate_of or not other.active:
@@ -143,9 +174,6 @@ def _same_flat(a: Listing, b: Listing) -> bool:
 
 
 def _forget_old(store: Store, now: datetime) -> None:
-    for listing_id, listing in list(store.listings.items()):
-        if not listing.active and now - datetime.fromisoformat(listing.last_seen) > FORGET_INACTIVE_AFTER:
-            del store.listings[listing_id]
     for listing_id, entry in list(store.state.rejected.items()):
         if now - datetime.fromisoformat(entry["seen"]) > FORGET_REJECTED_AFTER:
             del store.state.rejected[listing_id]

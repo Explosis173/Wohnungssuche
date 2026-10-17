@@ -10,7 +10,7 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
-from ..http import BlockedError
+from ..http import BlockedError, Page
 from ..models import Listing, ListingStub
 from ..parsing import clean, parse_number, parse_zip
 from .base import Source
@@ -22,6 +22,7 @@ CATEGORY_ID = 203   # Mietwohnungen
 _PRICE = re.compile(r"^\d[\d.]*\s*€")
 _FACTS = re.compile(r"^\d[\d.,]*\s*(?:m²|Zi\.)")
 _WG = re.compile(r"\bWG\b|WG-Zimmer|\d+er[- ]WG|Mitbewohner", re.IGNORECASE)
+_REMOVED = re.compile(r'deletedOrExpiredAd(?:&quot;|")\s*:\s*(?:\[0,)?true')
 _IMAGE_RULE = re.compile(r"\?rule=\$_\d+\.\w+$")
 
 
@@ -39,6 +40,10 @@ class Kleinanzeigen(Source):
 
     def fetch(self, stub: ListingStub) -> Listing:
         return parse_detail_page(self.http.get_html(stub.url), stub)
+
+    def shows_removed_ad(self, page: Page) -> bool:
+        # Removed ads either redirect to the search page or are flagged in the page data.
+        return "/s-anzeige/" not in page.url or bool(_REMOVED.search(page.text))
 
     def _search_url(self, page: int) -> str:
         # The list price on Kleinanzeigen is the cold rent, so this is a superset of

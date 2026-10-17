@@ -4,7 +4,7 @@ import json
 
 import pytest
 
-from wohnungssuche.http import BlockedError
+from wohnungssuche.http import BlockedError, Page
 from wohnungssuche.models import ListingStub
 from wohnungssuche.sources import kleinanzeigen, wg_gesucht
 
@@ -185,3 +185,45 @@ def test_kleinanzeigen_unknown_layout_raises():
     stub = ListingStub(id="ka:1", url="x", title="t")
     with pytest.raises(ValueError):
         kleinanzeigen.parse_detail_page("<html><body>nichts</body></html>", stub)
+
+
+WG_NEW_SEARCH = """
+<html><head><title>1-Zimmer-Wohnung, Wohnung mieten in Regensburg</title></head><body>
+<a class="wgg-list-card offer_list_item" data-id="14249227" id="liste-details-ad-14249227"
+   href="/1-zimmer-wohnungen-in-Regensburg-Kasernenviertel.14249227.html" aria-label="studio apartment">
+  <div class="top-image-card-wrapper"><img class="top-image-card img-responsive" src="https://img.wg-gesucht.de/media/up/a.small.jpg"></div>
+  <div class="card-content">
+    <div class="price-row"><div><span class="card-main-text">500 €</span><span class="card-subtitle">pro Monat</span></div></div>
+    <h2><span class="card-main-text ad-title">studio apartment</span></h2>
+    <div class="card-subtitle ad-subtitle"><span>1-Zimmer-Wohnung · Regensburg Kasernenviertel · Prinz-Rupprecht-Str. 8</span></div>
+    <div class="middle-row"><div><span class="size-value">20 m²</span></div><div>01.11.2026</div></div>
+  </div>
+</a>
+</body></html>
+"""
+
+
+def test_wg_new_card_layout():
+    (stub,) = wg_gesucht.parse_search_page(WG_NEW_SEARCH)
+    assert stub.id == "wg:14249227"
+    assert stub.url == "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Kasernenviertel.14249227.html"
+    assert (stub.price, stub.area_m2, stub.kind, stub.district) == (500, 20, "1-Zimmer-Wohnung", "Kasernenviertel")
+    assert stub.image == "https://img.wg-gesucht.de/media/up/a.small.jpg"
+
+
+def test_wg_unparseable_cards_raise_instead_of_returning_nothing():
+    html = '<html><head><title>Wohnungen in Regensburg</title></head><body><div id="liste-details-ad-1" class="new-card"></div></body></html>'
+    with pytest.raises(ValueError):
+        wg_gesucht.parse_search_page(html)
+
+
+def test_removed_ad_markers():
+    wg = wg_gesucht.WgGesucht(http=None, config=None)
+    ka = kleinanzeigen.Kleinanzeigen(http=None, config=None)
+    ka_url = "https://www.kleinanzeigen.de/s-anzeige/x/1-203-7656"
+    assert wg.shows_removed_ad(Page(200, "u", "<p>Diese Anzeige ist momentan deaktiviert. Daher …</p>"))
+    assert not wg.shows_removed_ad(Page(200, "u", "<div class='key_fact_value'>550€</div>"))
+    assert ka.shows_removed_ad(Page(200, "https://www.kleinanzeigen.de/s-wohnung-mieten/regensburg/c203l7636", ""))
+    assert ka.shows_removed_ad(Page(200, ka_url, 'props="{&quot;deletedOrExpiredAd&quot;:[0,true]}"'))
+    assert not ka.shows_removed_ad(Page(200, ka_url, 'props="{&quot;deletedOrExpiredAd&quot;:[0,false]}"'))
+    assert Page(404, "u", "").gone

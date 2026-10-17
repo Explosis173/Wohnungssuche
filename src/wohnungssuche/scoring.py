@@ -25,6 +25,7 @@ PRICE_FACTOR_AT_MAX = 0.25
 # m² above the comfortable minimum after which more space adds nothing.
 SIZE_HEADROOM_M2 = 20.0
 AI_ADJUSTMENT_LIMIT = 10
+OUTSIDE_CITY_KM = 15.0
 
 RATINGS = ((80, "Top"), (65, "Gut"), (50, "Okay"), (0, "Mäßig"))
 
@@ -103,6 +104,9 @@ WG_PATTERN = re.compile(
     re.IGNORECASE,
 )
 
+# Requests ("Suche 1-Zimmer-Wohnung") posted among the offers; "Suche Nachmieter" is an offer.
+REQUEST_PATTERN = re.compile(r"^\W*(?:ich |wir )?(?:suche|suchen)\b(?!.*nachmieter)", re.IGNORECASE)
+
 SWAP_PATTERN = re.compile(r"tausch|swap", re.IGNORECASE)  # checked on the title only
 
 
@@ -130,6 +134,13 @@ def exclusion_reason(listing: Listing, config: Config, today: date) -> str | Non
         return f"Warmmiete {listing.rent_warm:.0f} € > {search.max_warm_rent:.0f} €"
     if listing.area_m2 is not None and listing.area_m2 < search.min_area_m2:
         return f"{listing.area_m2:g} m² < {search.min_area_m2:g} m²"
+    loc = config.location
+    if listing.lat is not None and listing.lon is not None and (
+        haversine_km(listing.lat, listing.lon, loc.center_lat, loc.center_lon) > OUTSIDE_CITY_KM
+    ):
+        return "Nicht in Regensburg"
+    if REQUEST_PATTERN.search(listing.title):
+        return "Gesuch, kein Angebot"
     if listing.is_swap or SWAP_PATTERN.search(listing.title):
         return "Tauschwohnung"
     if not search.include_wg_rooms and (listing.kind == "WG-Zimmer" or WG_PATTERN.search(_text(listing))):

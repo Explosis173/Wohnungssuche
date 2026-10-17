@@ -12,7 +12,8 @@ API- oder Token-Kosten an.
 | | |
 |---|---|
 | **Quellen** | WG-Gesucht (1-Zimmer & Wohnungen), Kleinanzeigen (Mietwohnungen, nur Angebote) |
-| **Filter** | max. 600 € warm · ab 20 m² · keine Tauschwohnungen · keine WG-Zimmer · keine Zwischenmiete unter 6 Monaten |
+| **Filter** | max. 600 € warm · ab 20 m² · keine Tauschwohnungen · keine WG-Zimmer (auch versteckte) · keine Gesuche · keine Zwischenmiete unter 6 Monaten |
+| **Aufräumen** | Anzeigen, die auf dem Portal gelöscht oder deaktiviert sind, werden beim nächsten Lauf entfernt (geprüft direkt auf der Anzeige; ohne klare Antwort spätestens nach 7 Tagen) |
 | **Wann** | 3× täglich suchen (≈ 6, 12, 18 Uhr) · Zusammenfassung um **8:00** · Top-Treffer (≥ 80 Punkte) sofort |
 | **Push** | ein Push pro Wohnung (Foto, Miete, m², Lage, Pro/Contra, Beschreibung, Buttons) + Zusammenfassung |
 | **App** | Ranking, Fotos, Bewertungs-Details, Favoriten, Karte, „Ausblenden“; installierbar auf dem Homescreen |

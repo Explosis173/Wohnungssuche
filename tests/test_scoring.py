@@ -81,6 +81,10 @@ def test_exclusions(config, make_listing):
     assert exclusion_reason(make_listing(title="Tauschwohnung Altstadt"), config, TODAY) == "Tauschwohnung"
     assert exclusion_reason(make_listing(title="Wohnungsswap - 1 Zimmer, 40 m²"), config, TODAY) == "Tauschwohnung"
     assert exclusion_reason(make_listing(kind="WG-Zimmer"), config, TODAY) == "WG-Zimmer"
+    assert exclusion_reason(make_listing(title="Suche 1 Zimmer Wohnung"), config, TODAY) == "Gesuch, kein Angebot"
+    assert exclusion_reason(make_listing(title="Suche Nachmieter für 1-Zi.-Whg."), config, TODAY) is None
+    leipzig = make_listing(lat=51.36, lon=12.33)
+    assert exclusion_reason(leipzig, config, TODAY) == "Nicht in Regensburg"
 
 
 def test_short_sublet_is_excluded_long_one_is_kept_with_penalty(config, make_listing):

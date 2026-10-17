@@ -16,11 +16,20 @@ AFTERNOON = datetime(2026, 10, 7, 14, 17, tzinfo=timezone.utc)
 class FakeSource(Source):
     name = "kleinanzeigen"
 
-    def __init__(self, config, listings: list[Listing], fail: bool = False):
+    def __init__(self, config, listings: list[Listing], fail: bool = False, gone=(), check_error: bool = False):
         super().__init__(http=None, config=config)
         self.listings = {l.id: l for l in listings}
         self.fail = fail
+        self.gone = set(gone)
+        self.check_error = check_error
         self.fetched: list[str] = []
+        self.checked: list[str] = []
+
+    def is_gone(self, listing):
+        self.checked.append(listing.id)
+        if self.check_error:
+            raise RuntimeError("timeout")
+        return listing.id in self.gone
 
     def search(self):
         if self.fail:
@@ -57,11 +66,44 @@ def test_collect_filters_scores_and_skips_known(config, make_listing, data_dir):
     assert source.fetched == []  # neither known nor rejected listings are loaded again
 
 
-def test_listing_becomes_inactive_when_gone(config, make_listing, data_dir):
+def test_removed_ad_is_deleted_and_not_loaded_again(config, make_listing, data_dir):
+    store = Store(data_dir)
+    flat = make_listing(id="ka:1")
+    collect(store, [FakeSource(config, [flat])], config, MORNING)
+
+    collect(store, [FakeSource(config, [], gone={"ka:1"})], config, MORNING + timedelta(hours=6))
+    assert "ka:1" not in store.listings
+    assert store.state.rejected["ka:1"]["reason"] == "Nicht mehr online"
+
+    source = FakeSource(config, [flat])
+    collect(store, [source], config, MORNING + timedelta(hours=12))
+    assert source.fetched == [] and "ka:1" not in store.listings
+
+
+def test_ad_missing_from_results_but_still_online_is_kept(config, make_listing, data_dir):
     store = Store(data_dir)
     collect(store, [FakeSource(config, [make_listing(id="ka:1")])], config, MORNING)
-    collect(store, [FakeSource(config, [])], config, MORNING + timedelta(hours=72))
-    assert not store.listings["ka:1"].active
+    source = FakeSource(config, [])
+    collect(store, [source], config, MORNING + timedelta(hours=6))
+    assert source.checked == ["ka:1"]
+    assert store.listings["ka:1"].active
+
+
+def test_unclear_ad_is_deleted_only_after_a_week(config, make_listing, data_dir):
+    store = Store(data_dir)
+    collect(store, [FakeSource(config, [make_listing(id="ka:1")])], config, MORNING)
+    collect(store, [FakeSource(config, [], check_error=True)], config, MORNING + timedelta(days=3))
+    assert "ka:1" in store.listings
+    collect(store, [FakeSource(config, [], check_error=True)], config, MORNING + timedelta(days=8))
+    assert "ka:1" not in store.listings
+
+
+def test_nothing_is_deleted_when_the_search_fails(config, make_listing, data_dir):
+    store = Store(data_dir)
+    collect(store, [FakeSource(config, [make_listing(id="ka:1")])], config, MORNING)
+    source = FakeSource(config, [], fail=True, gone={"ka:1"})
+    collect(store, [source], config, MORNING + timedelta(days=10))
+    assert "ka:1" in store.listings and source.checked == []
 
 
 def test_failing_source_is_tracked_and_alerted(config, data_dir):
