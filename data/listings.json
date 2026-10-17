@@ -1,5 +1,66 @@
 [
  {
+  "id": "ka:3543382555",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/helle-1-zimmer-wohnung-kueche-bad-in-regensburg-uni-naehe/3543382555-203-7654",
+  "title": "Helle 1-Zimmer Wohnung, Küche, Bad, in Regensburg Uni-Nähe",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 490.0,
+  "rent_cold": 380.0,
+  "utilities": 110.0,
+  "rent_estimated": false,
+  "deposit": 1470.0,
+  "area_m2": 25.0,
+  "rooms": 1.0,
+  "address": "93051 Regensburg",
+  "zip_code": "93051",
+  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
+  "lat": 49.000190716296814,
+  "lon": 12.093639070898199,
+  "available_from": "Dezember 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "1-Zimmer-Wohnung, hohe Fenster, Parkettboden. Bad, separate Küche/Einbauküche mit Induktionsherd, Spülmaschine und Kühlschrank.\nAbstellraum, eigener Autostellplatz vor dem Haus.",
+  "features": [
+   "Einbauküche",
+   "Altbau",
+   "Garage/Stellplatz"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa28c29e-6077-4b7e-bd0d-eeaeb548e41e?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43a50daf-aaa6-4458-90bc-1126bff5a9ad?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2e278431-13ca-4971-b4f5-1b090e846741?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e2d0c3f-7e25-46c0-ad79-48a0dc05a58b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac92f9b7-c5b3-47c3-842f-316a08bce66f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/048e030a-8bbb-448c-ac21-603412157776?rule=$_59.JPG"
+  ],
+  "score": 76,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 23.6,
+   "size": 13.1,
+   "price": 10.6,
+   "parking": 20.0,
+   "extras": 9.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Eigener Stellplatz",
+   "Einbauküche",
+   "Keller/Abstellraum"
+  ],
+  "cons": [],
+  "distance_km": 2.1,
+  "bike_minutes": 11,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-10-17T13:42:32+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "ka:3526952442",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/ruhige-gemuetliche-1-zkb-wohnung-moebliert-ab-sofort/3526952442-203-7655",
@@ -55,7 +116,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -118,7 +179,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -186,7 +247,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-16T14:50:36+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -300,7 +361,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -430,7 +491,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -495,7 +556,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -554,7 +615,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T21:19:00+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -620,7 +681,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -686,7 +747,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -748,7 +809,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -881,7 +942,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -944,7 +1005,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1090,7 +1151,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -1148,7 +1209,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-17T08:33:21+00:00",
-  "last_seen": "2026-10-17T09:58:24+00:00",
+  "last_seen": "2026-10-17T13:42:32+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
   "active": true,
   "duplicate_of": null
