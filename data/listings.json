@@ -1,66 +1,5 @@
 [
  {
-  "id": "ka:3543382555",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/helle-1-zimmer-wohnung-kueche-bad-in-regensburg-uni-naehe/3543382555-203-7654",
-  "title": "Helle 1-Zimmer Wohnung, Küche, Bad, in Regensburg Uni-Nähe",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 490.0,
-  "rent_cold": 380.0,
-  "utilities": 110.0,
-  "rent_estimated": false,
-  "deposit": 1470.0,
-  "area_m2": 25.0,
-  "rooms": 1.0,
-  "address": "93051 Regensburg",
-  "zip_code": "93051",
-  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
-  "lat": 49.000190716296814,
-  "lon": 12.093639070898199,
-  "available_from": "Dezember 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "1-Zimmer-Wohnung, hohe Fenster, Parkettboden. Bad, separate Küche/Einbauküche mit Induktionsherd, Spülmaschine und Kühlschrank.\nAbstellraum, eigener Autostellplatz vor dem Haus.",
-  "features": [
-   "Einbauküche",
-   "Altbau",
-   "Garage/Stellplatz"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa28c29e-6077-4b7e-bd0d-eeaeb548e41e?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43a50daf-aaa6-4458-90bc-1126bff5a9ad?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2e278431-13ca-4971-b4f5-1b090e846741?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e2d0c3f-7e25-46c0-ad79-48a0dc05a58b?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac92f9b7-c5b3-47c3-842f-316a08bce66f?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/048e030a-8bbb-448c-ac21-603412157776?rule=$_59.JPG"
-  ],
-  "score": 76,
-  "rating": "Gut",
-  "breakdown": {
-   "location": 23.6,
-   "size": 13.1,
-   "price": 10.6,
-   "parking": 20.0,
-   "extras": 9.0,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Eigener Stellplatz",
-   "Einbauküche",
-   "Keller/Abstellraum"
-  ],
-  "cons": [],
-  "distance_km": 2.1,
-  "bike_minutes": 11,
-  "parking": "Eigener Stellplatz",
-  "ai_review": null,
-  "first_seen": "2026-10-17T13:42:32+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
-  "notified_at": "2026-10-18T08:51:24+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
   "id": "ka:3526952442",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/ruhige-gemuetliche-1-zkb-wohnung-moebliert-ab-sofort/3526952442-203-7655",
@@ -116,7 +55,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -179,7 +118,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -361,7 +300,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -491,7 +430,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -556,7 +495,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -615,7 +554,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T21:19:00+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -681,7 +620,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-18T08:51:00+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-18T08:51:24+00:00",
   "active": true,
   "duplicate_of": null
@@ -747,7 +686,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -809,8 +748,81 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "wg:14229109",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Innenstadt.14229109.html",
+  "title": "23,84 m2 1-Zimmer Wohnung/Studentenappartement UNIcastello Bahnhofsnähe",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 600.0,
+  "rent_cold": 490.0,
+  "utilities": 110.0,
+  "rent_estimated": false,
+  "deposit": 1470.0,
+  "area_m2": 24.0,
+  "rooms": 1.0,
+  "address": "Fritz-Fend-Str. 9 93047 Regensburg Innenstadt",
+  "zip_code": "93047",
+  "district": "Innenstadt",
+  "lat": 49.012803,
+  "lon": 12.090723,
+  "available_from": "2026-11-01",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Das Appartement befindet sich im Erdgeschoss und ist ruhig zum Innenhof gelegen.\nDie Wohnung besteht aus einem 18,04m2 großem Wohnzimmer mit Kochnische.\nDie Pantry-Küche ist mit einem Cerankochfeld, einer Mikrowelle, einem Kühlschrank und ausreichend Schränken ausgestattet.\nAußerdem gehört eine Terasse ( 2,53m2) zur Wohnung.\nDas Badezimmer ist 3,26m2 groß und enthält eine Dusche, Toilette, Waschbecken und Handtuchtrockner.\nVon nebenan oder sich darüber befindenden Wohnungen hört man nichts wegen guter Dämmung.\nIm Keller gibt es einen großen Gemeinschaftsraum.\nAußerdem gibt es einen Waschraum mit Waschmaschine und Wäschetrockner, einen Müllraum und einen Fahrradkeller.\nErstbezug der Wohnung 1.10.2011.\n\nDie Wohnung befindet sich in der Fritz-Fend-Str. 9 in Regensburg.\n1-2 Min. entfernt ist eine Bushaltestelle, von dort aus kommt man sowohl in die Altstadt als auch zur Uni und OTH.\nin direkter Nähe befindet sich ein Biomarkt mit Bäckerei, eine Pizzeria und weitere Einkaufsmöglichkeiten.\nHauptbahnhof und Arkaden sind ca. 10 Min. entfernt.\n\nLängerfristige Vermietung ( 2-3 Jahre) nur an Studenten.\nSelbstauskunft und Schuldbeitritt der Eltern sind erforderlich.\nNur Nichtraucher und keine Haustiere.",
+  "features": [
+   "Ab dem 1. Mai 2014 ist die neue Energieeinsparverordnung (EnEV 2014) rechtswirksam. Immobilieninserate müssen seitdem zusätzliche Angaben zu energetischen Eigenschaften enthalten. Liegt noch kein Energieausweis vor, entfällt die Pflicht. Für denkmalgeschützte Häuser und Gebäude mit weniger als 50 Quadratmetern Nutzfläche ist kein Energieausweis nötig. Baujahr 2011",
+   "Barrierefrei",
+   "Hochhaus",
+   "EG",
+   "Kochnische",
+   "Dusche",
+   "Laminat, Fliesen",
+   "Zentralheizung",
+   "2 Minuten zu Fuß entfernt",
+   "Waschmaschine , Terrasse, Gartenmitbenutzung, Keller, Fahrradkeller, Aufzug"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2026/40/51af222a9f389835036c4effe0ef24ef0a73fae80b08529edccbf2a4dab6da3c_Grundriss_Unicastello_1.01.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/c6944492814d36e5856086754648b135712fda2797ce799042990e4c1c4c35eb_UNIcastello_1.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/1e9231a56402982cb28c60546abe26443aac06de4c5b0c15abcbe448f017a089_UNIcastello_2.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/45a37ef04f1e634e6924dbbe0d7ec5e88494d8e89db132e7c2df1384ccf54ff1_Unicastello_3.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/2dad731e9628496f846e5670ad730bc10558880c120661372d41e4d2808fa660_Unicastello_4.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/40/43061008eef10d94240e8e59f9707b29c2994b491a9d5fe8c970041c6056ae0e_Unicastello_5.large.jpg"
+  ],
+  "score": 53,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 30.0,
+   "size": 12.5,
+   "price": 3.8,
+   "parking": 0.0,
+   "extras": 10,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Balkon/Terrasse",
+   "Keller/Abstellraum",
+   "Waschmaschine möglich",
+   "Fahrradstellplatz"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt",
+   "Nur für Studierende/Azubis"
+  ],
+  "distance_km": 0.8,
+  "bike_minutes": 4,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -874,7 +886,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -942,7 +954,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1003,7 +1015,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-17T18:33:01+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-18T08:51:24+00:00",
   "active": true,
   "duplicate_of": null
@@ -1066,7 +1078,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1212,7 +1224,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -1270,7 +1282,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-17T08:33:21+00:00",
-  "last_seen": "2026-10-18T14:00:21+00:00",
+  "last_seen": "2026-10-18T18:40:16+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
   "active": true,
   "duplicate_of": null
