@@ -55,7 +55,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -118,7 +118,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -300,7 +300,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -430,7 +430,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -495,7 +495,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -554,7 +554,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T21:19:00+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -620,7 +620,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-18T08:51:00+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-18T08:51:24+00:00",
   "active": true,
   "duplicate_of": null
@@ -686,7 +686,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -748,7 +748,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -821,8 +821,8 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-18T18:40:16+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
-  "notified_at": null,
+  "last_seen": "2026-10-19T09:53:43+00:00",
+  "notified_at": "2026-10-19T09:53:59+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -886,7 +886,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -954,7 +954,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1015,7 +1015,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-17T18:33:01+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-18T08:51:24+00:00",
   "active": true,
   "duplicate_of": null
@@ -1078,77 +1078,8 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3537864724",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-wohnung-in-leipzig-moeckern-zu-vermieten/3537864724-203-7656",
-  "title": "1- Zimmer Wohnung in Leipzig Möckern zu vermieten",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 500.0,
-  "rent_cold": 350.0,
-  "utilities": 70.0,
-  "rent_estimated": false,
-  "deposit": 700.0,
-  "area_m2": 33.0,
-  "rooms": 1.0,
-  "address": "93053 Regensburg",
-  "zip_code": "93053",
-  "district": "Galgenberg / Kasernenviertel / Uni",
-  "lat": 48.98120817455849,
-  "lon": 12.107801419130173,
-  "available_from": "Oktober 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Schöne 1-Zimmer-Wohnung in ruhiger Lage in Leipzig-Möckern zu vermieten. Die Wohnung befindet sich im EG-Hochparterre und verfügt über ca. 33 m² Wohnfläche. Sie liegt verkehrsgünstig mit guter Anbindung an den ÖPNV, die Haltestelle der Straßenbahnlinien 10 und 11 ist nur 230m entfernt. Einkaufsmöglichkeiten/Supermärkte sind ca. 1km entfernt.\n\nZur Wohnung gehören ein kleiner Flur, ein Wohn-/Schlafzimmer, eine separate Küche (mit Einbau- Küchenzeile) sowie ein großes Bad mit WC und Badewanne. Ebenso gehört ein Lagerraum im Keller zur Wohnung.\n\nDas Objekt befindet sich in einem gepflegten Altbauensemble, das 1996 generalsaniert wurde. Im Juli 2026 wurde die Wohnung zuletzt renoviert.",
-  "features": [
-   "Einbauküche",
-   "Badewanne",
-   "Altbau",
-   "Keller"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/7302d436-0f2f-4fcf-9c39-8978b4b7b213?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e66caaa8-7a5f-4be2-a5ca-618bc10c577d?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36517351-5cd3-4d22-b8a8-2f04709d5c93?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0c98b9cd-25d7-4daf-8155-534099486268?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c8b35d4a-0577-4a91-b414-9d041040d256?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c4083c8-c4b0-4524-91aa-3173c290109b?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae83a2cd-e695-4906-91fd-f65052ed803b?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09155487-f1af-4558-a53c-ce1d7247b983?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1d3594b-3284-4261-b624-7014438abe44?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2fe99837-d8e9-4fd5-9849-f13e4a1596b2?rule=$_59.JPG"
-  ],
-  "score": 48,
-  "rating": "Mäßig",
-  "breakdown": {
-   "location": 10.5,
-   "size": 18.1,
-   "price": 10.0,
-   "parking": 0.0,
-   "extras": 9.0,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Genug Platz für alle Möbel",
-   "Einbauküche",
-   "Keller/Abstellraum"
-  ],
-  "cons": [
-   "4.2 km bis zur Altstadt",
-   "Kein Parkplatz erwähnt"
-  ],
-  "distance_km": 4.2,
-  "bike_minutes": 22,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-11T16:19:21+00:00",
-  "last_seen": "2026-10-11T20:20:58+00:00",
-  "notified_at": "2026-10-12T11:59:41+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -1224,7 +1155,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -1282,7 +1213,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-17T08:33:21+00:00",
-  "last_seen": "2026-10-18T18:40:16+00:00",
+  "last_seen": "2026-10-19T09:53:43+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
   "active": true,
   "duplicate_of": null

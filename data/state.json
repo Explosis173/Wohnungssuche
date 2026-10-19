@@ -1,15 +1,15 @@
 {
- "last_digest_date": "2026-10-18",
+ "last_digest_date": "2026-10-19",
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-10-18T18:40:16+00:00",
+   "last_success": "2026-10-19T09:53:43+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 51
   },
   "wg-gesucht": {
-   "last_success": "2026-10-18T18:40:16+00:00",
+   "last_success": "2026-10-19T09:53:43+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 12
@@ -296,6 +296,10 @@
    "reason": "Warmmiete 630 € > 600 €",
    "seen": "2026-10-11T16:19:21+00:00"
   },
+  "ka:3537864724": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-10-19T09:53:43+00:00"
+  },
   "ka:3538001483": {
    "reason": "Nicht mehr online",
    "seen": "2026-10-17T09:58:24+00:00"
@@ -347,6 +351,10 @@
   "ka:3544291028": {
    "reason": "11 m²",
    "seen": "2026-10-18T14:00:21+00:00"
+  },
+  "ka:3545312967": {
+   "reason": "18 m²",
+   "seen": "2026-10-19T09:53:43+00:00"
   },
   "wg:10093628": {
    "reason": "Nicht mehr online",
