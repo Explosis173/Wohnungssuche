@@ -55,7 +55,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -118,7 +118,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -255,6 +255,79 @@
   "duplicate_of": null
  },
  {
+  "id": "ka:3546130730",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/moebl-appartement-studio-ab-1-12-26-in-uninaehe/3546130730-203-7656",
+  "title": "Möbl. Appartement (Studio) ab 1.12.26 in Uninähe",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 530.0,
+  "rent_cold": 409.0,
+  "utilities": null,
+  "rent_estimated": false,
+  "deposit": 1100.0,
+  "area_m2": 35.0,
+  "rooms": 1.0,
+  "address": "93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 48.981629106694925,
+  "lon": 12.082779540937024,
+  "available_from": "Dezember 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Helle ruhige Wohnung mit eigenem Eingang, Kochnische mit Kühlschrank, Laminat, Fliesen, Pelletszentralheizung, Satelliten-TV, möbliert, nur Nichtraucher, uni- & klinikumsnah, ruhige Lage im Grünen, Buslinie 3, Fußweg zur Uni 20 Min. und mit dem Fahrrad 10 Min., nur telefonische Kontaktaufnahme unter 094172687, bitte keine Mails.",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Einbauküche",
+   "Altbau",
+   "Garage/Stellplatz",
+   "Garten/-mitnutzung"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6701d32-c044-42b2-838a-e23fb6b01c60?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d66c741a-5e56-4a64-88a0-d00d1f0e8a2b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/89b72ba2-f6ff-4d19-b1a7-1afa0cdfded0?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8005f0a-8768-4b4d-8048-061bca059281?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46aa0f26-4660-46d8-bfc8-101c3fdfc6a4?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66f508c3-9aeb-47ea-8c8d-1327d9ffea97?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c031fe8f-6901-4114-a57d-51610059c111?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/1677e699-b5ee-4aab-9808-ab3cbeee5190?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7b5896f-1ff3-4bbe-90df-0ce8b2a84dc2?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36d6e847-14f3-4e8e-8209-7dd649663712?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6ccd277f-fde9-488b-b180-bbb9e4ac13d1?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83a99122-6593-47c4-a9d3-79b25383a4f5?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3233675-6e1a-488d-8a3c-bc203dfe5e48?rule=$_59.JPG"
+  ],
+  "score": 63,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 10.5,
+   "size": 19.4,
+   "price": 8.1,
+   "parking": 20.0,
+   "extras": 8.0,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Eigener Stellplatz",
+   "Einbauküche"
+  ],
+  "cons": [
+   "4.2 km bis zur Altstadt",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 4.2,
+  "bike_minutes": 22,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-10-19T21:07:17+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "ka:3541150626",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/appartement/3541150626-203-7655",
@@ -300,7 +373,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -430,7 +503,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -495,7 +568,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -554,7 +627,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T21:19:00+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -620,7 +693,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-18T08:51:00+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-18T08:51:24+00:00",
   "active": true,
   "duplicate_of": null
@@ -686,7 +759,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -748,7 +821,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -821,7 +894,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-18T18:40:16+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-19T09:53:59+00:00",
   "active": true,
   "duplicate_of": null
@@ -954,7 +1027,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1015,8 +1088,79 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-17T18:33:01+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-18T08:51:24+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "wg:9969961",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Leoprechting.9969961.html",
+  "title": "Möbliertes Apartment (Studio) ab 01.12.26 in Uninähe an Student/in",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 530.0,
+  "rent_cold": 409.0,
+  "utilities": 121.0,
+  "rent_estimated": false,
+  "deposit": 1100.0,
+  "area_m2": 35.0,
+  "rooms": 1.0,
+  "address": "Ottrichstraße 10 93053 Regensburg Leoprechting",
+  "zip_code": "93053",
+  "district": "Leoprechting",
+  "lat": 48.981664,
+  "lon": 12.088771,
+  "available_from": "2026-12-01",
+  "available_until": null,
+  "is_swap": false,
+  "description": "helle, ruhige Wohnung mit eigenem Eingang, Kochnische mit Kühlschrank, Laminat, Fliesen, Pelletszentralheizung, Satelliten-TV, möbliert, nur Nichtraucher/in\n\nuni- und klinikumsnah, ruhige Lage im Grünen, Buslinie 3, Fußweg zur Uni 20 min und mit dem Fahrrad 10 min\n\nnur telefonische Kontaktaufnahme (ggf. öfter versuchen), keine E-Mail-Beantwortung",
+  "features": [
+   "Ab dem 1. Mai 2014 ist die neue Energieeinsparverordnung (EnEV 2014) rechtswirksam. Immobilieninserate müssen seitdem zusätzliche Angaben zu energetischen Eigenschaften enthalten. Liegt noch kein Energieausweis vor, entfällt die Pflicht. Für denkmalgeschützte Häuser und Gebäude mit weniger als 50 Quadratmetern Nutzfläche ist kein Energieausweis nötig. Verbrauchsausweis, Holzpellets",
+   "Mehrfamilienhaus",
+   "2. OG",
+   "möbliert",
+   "Kochnische",
+   "Eigenes Bad, Dusche",
+   "Satellit",
+   "Laminat, Fliesen",
+   "Zentralheizung",
+   "gute Parkmöglichkeiten",
+   "3 Minuten zu Fuß entfernt",
+   "Waschmaschine , Gartenmitbenutzung"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2024/07/54012abd89418f5a769ad742f7979d0bec152eb264f46ad8d00e125d2b01b38e_IMG_20230830_WA0010.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2024/07/297cc9c7db163674e07f52a6f52f264396794e65454d2dd92c0bc1cac9281525_IMG_20230830_WA0009.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2024/07/f9e6cf1f90d2a2a50308e652863dc03174d5e2846ffa69dc52e61103b89aeb08_IMG_20230830_WA0000.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2024/07/a02e92d7cbd4f01f18897505bbf098f99b09a9ddd38da7e9351a572f8e7f29f7_IMG_20230830_WA0002.large.jpg"
+  ],
+  "score": 51,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 11.1,
+   "size": 19.4,
+   "price": 8.1,
+   "parking": 9.0,
+   "extras": 6.0,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Waschmaschine möglich"
+  ],
+  "cons": [
+   "4.2 km bis zur Altstadt",
+   "Parken auf der Straße / Bewohnerparken",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 4.2,
+  "bike_minutes": 22,
+  "parking": "Parken auf der Straße / Bewohnerparken",
+  "ai_review": null,
+  "first_seen": "2026-10-19T21:07:17+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -1078,7 +1222,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1155,7 +1299,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -1213,7 +1357,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-17T08:33:21+00:00",
-  "last_seen": "2026-10-19T16:58:38+00:00",
+  "last_seen": "2026-10-19T21:07:17+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
   "active": true,
   "duplicate_of": null
