@@ -59,8 +59,8 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
-  "notified_at": null,
+  "last_seen": "2026-10-21T09:21:45+00:00",
+  "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -120,7 +120,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -184,7 +184,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -247,7 +247,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -376,8 +376,8 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-20T20:01:27+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
-  "notified_at": null,
+  "last_seen": "2026-10-21T09:21:45+00:00",
+  "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -512,7 +512,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -563,7 +563,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -693,7 +693,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-08T21:21:58+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -758,7 +758,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -817,7 +817,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T21:19:00+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -883,7 +883,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-18T08:51:00+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-18T08:51:24+00:00",
   "active": true,
   "duplicate_of": null
@@ -949,7 +949,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-08T11:22:05+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-08T11:22:18+00:00",
   "active": true,
   "duplicate_of": null
@@ -1011,7 +1011,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1084,7 +1084,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-18T18:40:16+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-19T09:53:59+00:00",
   "active": true,
   "duplicate_of": null
@@ -1149,7 +1149,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-19T09:53:43+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1217,7 +1217,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1278,7 +1278,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-17T18:33:01+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-18T08:51:24+00:00",
   "active": true,
   "duplicate_of": null
@@ -1349,7 +1349,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1412,7 +1412,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1481,8 +1481,8 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
-  "notified_at": null,
+  "last_seen": "2026-10-21T09:21:45+00:00",
+  "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -1558,7 +1558,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -1616,76 +1616,8 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-17T08:33:21+00:00",
-  "last_seen": "2026-10-20T20:01:27+00:00",
+  "last_seen": "2026-10-21T09:21:45+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3537138149",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-apartment-zwischenmiete-nur-fuer-frauen/3537138149-203-7654",
-  "title": "Möbliertes Apartment Zwischenmiete nur für Frauen",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 570.0,
-  "rent_cold": 570.0,
-  "utilities": null,
-  "rent_estimated": false,
-  "deposit": 1100.0,
-  "area_m2": 20.0,
-  "rooms": 1.0,
-  "address": "93051 Regensburg",
-  "zip_code": "93051",
-  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
-  "lat": 49.003777028038726,
-  "lon": 12.079295440276647,
-  "available_from": "November 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Möbliertes Apartment zur Zwischenmiete in Regensburg – nur für Frauen – 570 € warm\nIch suche eine zuverlässige Nichtraucherin für mein gepflegtes, ca. 20 m² Apartment mit eigenem Bad und Küchenzeile. Kein Balkon. Im Gebäude gibt es 2 Aufzüge und einen gemeinschaftlichen Waschraum.\nZeitraum: 01.11.2026–31.03.2027, Verlängerung um etwa 1-2 Monat nach Absprache möglich.\nLage: Hauptbahnhof und Universität sind jeweils innerhalb von 10 Minuten mit dem Bus erreichbar. REWE, Netto und eine Bäckerei sind etwa fünf Gehminuten entfernt.\nAusstattung: Bett mit Matratze, Ablagetisch, Schreibtisch mit Bürostuhl, Bücherregal, Kleiderschrank, Schuhschrank, Kommode, Geschirrschrank, Esstisch mit Stühlen sowie eine Mikrowelle mit Grillfunktion.\nWarmmiete: 570 € monatlich, inklusive Möblierung, Internet, Strom, Wasser und Heizung.\nKaution: 1.100 €\nDie Untervermietung wurde vom Vermieter bereits genehmigt.\nBei Interesse bitte eine Vorstellung, den gewünschten Mietzeitraum und den Grund für die Suche nach einer vorübergehenden Unterkunft angeben.\nBitte haben Sie Verständnis, dass ich nicht alle Nachrichten beantworten kann!",
-  "features": [
-   "Möbliert/Teilmöbliert",
-   "Einbauküche",
-   "Aufzug"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09e4ad84-9d59-4ffd-9351-0c9d7c5b68cf?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db3f2731-5859-43cb-82af-c8fa35d7548b?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ed6b4fe-41fd-4a1b-aea6-6ed2c9d0cd08?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb76a646-67d4-483e-9c83-6798696f2908?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbc7d56d-0b93-4bb9-805e-c4547ebd50e6?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/eda32782-fd84-4675-ad02-25257d460312?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03d4b9ae-0921-4270-a9f2-bb01c482b82d?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/5478ecad-ee3d-4eed-bc54-7883d81505f7?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d75da0c2-e44b-4076-8191-6f726d35ccfc?rule=$_59.JPG"
-  ],
-  "score": 30,
-  "rating": "Mäßig",
-  "breakdown": {
-   "location": 23.5,
-   "size": 0.0,
-   "price": 5.6,
-   "parking": 0.0,
-   "extras": 10,
-   "penalty": -9.0
-  },
-  "pros": [
-   "Einbauküche",
-   "Balkon/Terrasse"
-  ],
-  "cons": [
-   "Eng – deine Möbel passen nur knapp",
-   "Kein Parkplatz erwähnt",
-   "Möbliert – deine eigenen Möbel müssten woanders hin",
-   "Mieterkreis eingeschränkt (Text prüfen)"
-  ],
-  "distance_km": 2.1,
-  "bike_minutes": 11,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-11T10:49:18+00:00",
-  "last_seen": "2026-10-13T21:19:00+00:00",
-  "notified_at": "2026-10-11T10:49:29+00:00",
   "active": true,
   "duplicate_of": null
  }
