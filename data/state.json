@@ -3,13 +3,13 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-10-22T15:15:48+00:00",
+   "last_success": "2026-10-22T20:11:18+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-10-22T15:15:48+00:00",
+   "last_success": "2026-10-22T20:11:18+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 16
@@ -403,6 +403,18 @@
   "ka:3548364410": {
    "reason": "18 m²",
    "seen": "2026-10-22T15:15:48+00:00"
+  },
+  "ka:3548752872": {
+   "reason": "Warmmiete 630 € > 600 €",
+   "seen": "2026-10-22T20:11:18+00:00"
+  },
+  "ka:3548844451": {
+   "reason": "Warmmiete 700 € > 600 €",
+   "seen": "2026-10-22T20:11:18+00:00"
+  },
+  "ka:3548987985": {
+   "reason": "Warmmiete 670 € > 600 €",
+   "seen": "2026-10-22T20:11:18+00:00"
   },
   "wg:10093628": {
    "reason": "Nicht mehr online",
