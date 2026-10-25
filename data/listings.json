@@ -120,7 +120,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -184,7 +184,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -247,7 +247,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -320,7 +320,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -371,8 +371,80 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "wg:7201290",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Koenigswiesen-Dechbetten-Grosspruefening.7201290.html",
+  "title": "Möblierte 1-Zimmer Wohnung in Dechbetten,28qm , in 15-Minuten bei der Uni",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 450.0,
+  "rent_cold": 420.0,
+  "utilities": 30.0,
+  "rent_estimated": false,
+  "deposit": 700.0,
+  "area_m2": 28.0,
+  "rooms": 1.0,
+  "address": "Dechbetten 18 93051 Regensburg Königswiesen-Dechbetten-Großprüfening",
+  "zip_code": "93051",
+  "district": "Königswiesen-Dechbetten-Großprüfening",
+  "lat": 49.00801,
+  "lon": 12.059201,
+  "available_from": "2026-10-25",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Ab sofort bzw. 1.11 oder nach Vereinbarung.\nWir vermieten eine voll möblierte 1-Zimmer Wohnung in Regensburg Dechbetten\nin einem Wohnhaus mit 8 Mietparteien, davon viele langjährige Mieter.\nDie Wohnung ist möbliert, Fernseher auch vorhanden.\nWaschmaschinen und Trockner Benützung im EG möglich.\nDer Mietpreis beträgt Halbwarm 400.- Euro (inkl. Wasser und Abfallgebühren). Strom und Heizung (Gas) werden direkt an den selbstwählbaren Stromanbieter bezahlt, derzeit ca. 50 Euro pro Monat beim bisherigen Mieter.\nDie Wohnung ist sowohl mit dem Auto sehr gut erreichbar (unmittelbar in der Nähe der Autobahnabfahrt Königswiesen/Dechbetten), die Busline 4/10 erreicht man in 2 Gehminuten und fussgängig ebenso einen Lidl, Subway, diverse Restaurants.\nDas Köwe Einkaufscenter ist zu Fuss in etwa 20 Gehminuten erreichbar.\nDie Wohnung ist aufgrund der Grösse nicht WG-tauglich, Haustiere sind nach Absprache erlaubt.\nBitte zuerst Kontaktaufnahme per Whatsapp mit kurzer Info zur Person, keine direkten Anrufe. Die Telefonnummer ist aus der Schweiz, ich kümmere mich als Tochter um den Erstkontakt, der Vermieter lebt in Deutschland.",
+  "features": [
+   "sanierter Altbau",
+   "2. OG",
+   "möbliert",
+   "Eigene Küche",
+   "Eigenes Bad, Badewanne",
+   "Gasheizung",
+   "gute Parkmöglichkeiten",
+   "3 Minuten zu Fuß entfernt",
+   "Gartenmitbenutzung, Keller, Haustiere erlaubt"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2026/42/bd9e689f8d7e4bc9bc2e1a524765cf310520d8f8603a87d559a945a267b707ac_b7d4bf53_784d_4a79_86ec_640d93a78ef9.large.JPG",
+   "https://img.wg-gesucht.de/media/up/2026/42/92e9eddbc776223add3a2f49b8412471ba091c9782f6d9e491c22ea4504be501_d00dbc2b_9780_4ed6_b87a_4e04029744d1.large.JPG",
+   "https://img.wg-gesucht.de/media/up/2026/42/b0c0920f526db0e663914e0e06ea5d0db2ce7e939b2ebcd4c283d19994ebd292_d421dbc8_edbc_44c6_9430_61e7c518afb3.large.JPG",
+   "https://img.wg-gesucht.de/media/up/2026/42/90a7868454a13d8345b85454be6bcf6d7289123993bd4a852b55aa17ea06274e_f50ea576_5f51_497a_9fe2_1cf5edcf8589.large.JPG",
+   "https://img.wg-gesucht.de/media/up/2026/42/150c38441522e66b7e6f726815573234f7beb299e92cb4955ccfc5be165e7464_67fc277c_9d7a_4fb3_aa20_440e287c7474.large.JPG",
+   "https://img.wg-gesucht.de/media/up/2026/42/9b6d0539e02bf4e5c2fe8c94ac8182c745535694c67ec171e1e99e47924861cf_1231f7d8_fc06_4218_adc5_42d269e36aac.large.JPG",
+   "https://img.wg-gesucht.de/media/up/2026/42/0d2812231d135a76730dab9f48a812228cdc525c24d2e0f0a9d4916f0a711a91_f69cd241_87f3_49b7_a44b_e344345ac496.large.JPG",
+   "https://img.wg-gesucht.de/media/up/2026/42/65d0bfde925322dbb3ea5883fa4caa4a0e0a62ea01b58e986143afd9ab6510db_490f368af4ad80b5edf8e29fba967867318e830a2f8849d681ad955ebc2c7950_wohnung_7.sized.large.jpg"
+  ],
+  "score": 62,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 18.1,
+   "size": 15.0,
+   "price": 13.1,
+   "parking": 9.0,
+   "extras": 10,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Einbauküche",
+   "Keller/Abstellraum",
+   "Waschmaschine möglich"
+  ],
+  "cons": [
+   "Parken auf der Straße / Bewohnerparken",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 3.0,
+  "bike_minutes": 15,
+  "parking": "Parken auf der Straße / Bewohnerparken",
+  "ai_review": null,
+  "first_seen": "2026-10-25T09:08:59+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
+  "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -425,8 +497,8 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T18:49:33+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
-  "notified_at": null,
+  "last_seen": "2026-10-25T09:08:59+00:00",
+  "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -546,7 +618,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-18T08:51:00+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-18T08:51:24+00:00",
   "active": true,
   "duplicate_of": null
@@ -619,7 +691,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-18T18:40:16+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-19T09:53:59+00:00",
   "active": true,
   "duplicate_of": null
@@ -684,7 +756,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -752,7 +824,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -813,7 +885,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-17T18:33:01+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-18T08:51:24+00:00",
   "active": true,
   "duplicate_of": null
@@ -884,7 +956,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -947,7 +1019,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1016,7 +1088,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1086,8 +1158,8 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T14:00:26+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
-  "notified_at": null,
+  "last_seen": "2026-10-25T09:08:59+00:00",
+  "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -1163,7 +1235,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -1228,7 +1300,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-23T09:20:29+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-23T09:20:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1286,7 +1358,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-17T08:33:21+00:00",
-  "last_seen": "2026-10-24T18:49:33+00:00",
+  "last_seen": "2026-10-25T09:08:59+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
   "active": true,
   "duplicate_of": null
