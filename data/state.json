@@ -3,16 +3,16 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-10-26T10:06:53+00:00",
+   "last_success": "2026-10-26T16:47:29+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-10-26T10:06:53+00:00",
+   "last_success": "2026-10-26T16:47:29+00:00",
    "last_error": null,
    "consecutive_failures": 0,
-   "last_count": 17
+   "last_count": 16
   }
  },
  "rejected": {
@@ -455,6 +455,10 @@
   "ka:3552650138": {
    "reason": "Warmmiete 610 € > 600 €",
    "seen": "2026-10-26T10:06:53+00:00"
+  },
+  "ka:3553234503": {
+   "reason": "Warmmiete 605 € > 600 €",
+   "seen": "2026-10-26T16:47:29+00:00"
   },
   "wg:10093628": {
    "reason": "Nicht mehr online",
