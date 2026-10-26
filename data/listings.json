@@ -120,7 +120,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -183,7 +183,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -247,7 +247,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -310,7 +310,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -383,7 +383,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -434,7 +434,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -506,7 +506,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-25T09:08:59+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -560,7 +560,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T18:49:33+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -619,7 +619,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-25T19:05:36+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -676,145 +676,6 @@
   "first_seen": "2026-10-21T15:13:44+00:00",
   "last_seen": "2026-10-22T15:15:48+00:00",
   "notified_at": "2026-10-22T09:24:53+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3544048753",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-1-zimmer-apartment-mit-terrasse-in-zentraler-lage/3544048753-203-7656",
-  "title": "Möbliertes 1-Zimmer Apartment mit Terrasse in zentraler Lage",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 565.0,
-  "rent_cold": 475.0,
-  "utilities": 90.0,
-  "rent_estimated": false,
-  "deposit": null,
-  "area_m2": 27.0,
-  "rooms": 1.0,
-  "address": "93053 Regensburg",
-  "zip_code": "93053",
-  "district": "Galgenberg / Kasernenviertel / Uni",
-  "lat": 49.007109400382284,
-  "lon": 12.100761452033396,
-  "available_from": "November 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Wohnung:\nDie Wohnung befindet sich im Erdgeschoss und verfügt über eine kleine Küche, ein eigenes Bad,\neinen großen Wohnraum und eine Terrasse auf der Südseite in einem ruhigen Innenhof. Eine\nAbstellkammer auf gleicher Etage gehört ebenfalls zur Wohnung.\nIm Haus sind ein Fahrradkeller und Waschmöglichkeiten vorhanden.\n\nLage:\nDie Wohnung liegt ruhig, aber zentral zwischen Bahnhof und Uni.\nVerschiedene Einkaufsmöglichkeiten befinden sich ganz in der Nähe.\nMit dem Fahrrad oder Bus ist man auch schnell in der Innenstadt.\nSonstiges:\nsiehe Bilder).\nDie Wohnung wird möbliert vermietet (Küche, Esstisch, Bett, Schrank, Schreibtisch, Regal)\n\nMietkosten:\n425 € Grundmiete\n50 € Möblierung\n90 € Nebenkosten\n1.200 € Kaution\n\nFalls Sie Interesse an der Wohnung haben, machen Sie bitte ein paar Angaben zu sich selbst\n(Alter, Beruf/Studium, etc.).",
-  "features": [
-   "Möbliert/Teilmöbliert",
-   "Terrasse",
-   "Einbauküche"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26a3581c-34c2-4372-a141-2195650851ce?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/50/50f759af-3c17-430b-91ff-a6668511867d?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec3e0d79-8309-473d-ba30-efb53c06542f?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17111705-0ce2-41b4-b1f7-d2032d56c50a?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/190ddd59-efcd-4989-a831-4f38e7e3caf2?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/076a6e5e-4688-4c42-91bb-7f3ace59115e?rule=$_59.JPG"
-  ],
-  "score": 55,
-  "rating": "Okay",
-  "breakdown": {
-   "location": 28.1,
-   "size": 14.4,
-   "price": 5.9,
-   "parking": 0.0,
-   "extras": 10,
-   "penalty": -3.0
-  },
-  "pros": [
-   "Sehr zentral",
-   "Einbauküche",
-   "Balkon/Terrasse",
-   "Keller/Abstellraum",
-   "Fahrradstellplatz"
-  ],
-  "cons": [
-   "Kein Parkplatz erwähnt",
-   "Möbliert – deine eigenen Möbel müssten woanders hin"
-  ],
-  "distance_km": 1.3,
-  "bike_minutes": 7,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-18T08:51:00+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
-  "notified_at": "2026-10-18T08:51:24+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "wg:14229109",
-  "source": "wg-gesucht",
-  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Innenstadt.14229109.html",
-  "title": "23,84 m2 1-Zimmer Wohnung/Studentenappartement UNIcastello Bahnhofsnähe",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 600.0,
-  "rent_cold": 490.0,
-  "utilities": 110.0,
-  "rent_estimated": false,
-  "deposit": 1470.0,
-  "area_m2": 24.0,
-  "rooms": 1.0,
-  "address": "Fritz-Fend-Str. 9 93047 Regensburg Innenstadt",
-  "zip_code": "93047",
-  "district": "Innenstadt",
-  "lat": 49.012803,
-  "lon": 12.090723,
-  "available_from": "2026-11-01",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Das Appartement befindet sich im Erdgeschoss und ist ruhig zum Innenhof gelegen.\nDie Wohnung besteht aus einem 18,04m2 großem Wohnzimmer mit Kochnische.\nDie Pantry-Küche ist mit einem Cerankochfeld, einer Mikrowelle, einem Kühlschrank und ausreichend Schränken ausgestattet.\nAußerdem gehört eine Terasse ( 2,53m2) zur Wohnung.\nDas Badezimmer ist 3,26m2 groß und enthält eine Dusche, Toilette, Waschbecken und Handtuchtrockner.\nVon nebenan oder sich darüber befindenden Wohnungen hört man nichts wegen guter Dämmung.\nIm Keller gibt es einen großen Gemeinschaftsraum.\nAußerdem gibt es einen Waschraum mit Waschmaschine und Wäschetrockner, einen Müllraum und einen Fahrradkeller.\nErstbezug der Wohnung 1.10.2011.\n\nDie Wohnung befindet sich in der Fritz-Fend-Str. 9 in Regensburg.\n1-2 Min. entfernt ist eine Bushaltestelle, von dort aus kommt man sowohl in die Altstadt als auch zur Uni und OTH.\nin direkter Nähe befindet sich ein Biomarkt mit Bäckerei, eine Pizzeria und weitere Einkaufsmöglichkeiten.\nHauptbahnhof und Arkaden sind ca. 10 Min. entfernt.\n\nLängerfristige Vermietung ( 2-3 Jahre) nur an Studenten.\nSelbstauskunft und Schuldbeitritt der Eltern sind erforderlich.\nNur Nichtraucher und keine Haustiere.",
-  "features": [
-   "Ab dem 1. Mai 2014 ist die neue Energieeinsparverordnung (EnEV 2014) rechtswirksam. Immobilieninserate müssen seitdem zusätzliche Angaben zu energetischen Eigenschaften enthalten. Liegt noch kein Energieausweis vor, entfällt die Pflicht. Für denkmalgeschützte Häuser und Gebäude mit weniger als 50 Quadratmetern Nutzfläche ist kein Energieausweis nötig. Baujahr 2011",
-   "Barrierefrei",
-   "Hochhaus",
-   "EG",
-   "Kochnische",
-   "Dusche",
-   "Laminat, Fliesen",
-   "Zentralheizung",
-   "2 Minuten zu Fuß entfernt",
-   "Waschmaschine , Terrasse, Gartenmitbenutzung, Keller, Fahrradkeller, Aufzug"
-  ],
-  "images": [
-   "https://img.wg-gesucht.de/media/up/2026/40/51af222a9f389835036c4effe0ef24ef0a73fae80b08529edccbf2a4dab6da3c_Grundriss_Unicastello_1.01.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/40/c6944492814d36e5856086754648b135712fda2797ce799042990e4c1c4c35eb_UNIcastello_1.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/40/1e9231a56402982cb28c60546abe26443aac06de4c5b0c15abcbe448f017a089_UNIcastello_2.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/40/45a37ef04f1e634e6924dbbe0d7ec5e88494d8e89db132e7c2df1384ccf54ff1_Unicastello_3.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/40/2dad731e9628496f846e5670ad730bc10558880c120661372d41e4d2808fa660_Unicastello_4.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/40/43061008eef10d94240e8e59f9707b29c2994b491a9d5fe8c970041c6056ae0e_Unicastello_5.large.jpg"
-  ],
-  "score": 53,
-  "rating": "Okay",
-  "breakdown": {
-   "location": 30.0,
-   "size": 12.5,
-   "price": 3.8,
-   "parking": 0.0,
-   "extras": 10,
-   "penalty": -3.0
-  },
-  "pros": [
-   "Sehr zentral",
-   "Balkon/Terrasse",
-   "Keller/Abstellraum",
-   "Waschmaschine möglich",
-   "Fahrradstellplatz"
-  ],
-  "cons": [
-   "Kein Parkplatz erwähnt",
-   "Nur für Studierende/Azubis"
-  ],
-  "distance_km": 0.8,
-  "bike_minutes": 4,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-18T18:40:16+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
-  "notified_at": "2026-10-19T09:53:59+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -878,7 +739,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -946,7 +807,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1007,7 +868,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-17T18:33:01+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-18T08:51:24+00:00",
   "active": true,
   "duplicate_of": null
@@ -1078,8 +939,69 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3553377090",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/single-appartement-in-regensburg-sallern-zu-vermieten/3553377090-203-7653",
+  "title": "Single-Appartement in Regensburg Sallern zu vermieten",
+  "kind": "Wohnung",
+  "rent_warm": 584,
+  "rent_cold": 500.0,
+  "utilities": 84,
+  "rent_estimated": true,
+  "deposit": 1500.0,
+  "area_m2": 28.0,
+  "rooms": 2.0,
+  "address": "Amberger Straße 103, 93057 Regensburg",
+  "zip_code": "93057",
+  "district": "Regensburg-Nord / Reinhausen / Sallern",
+  "lat": 49.04296009999999,
+  "lon": 12.1005369,
+  "available_from": "Januar 2027",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Zur Vermietung steht ein Single-Appartement in Regensburg-Sallern mit einem großen Wohnraum mit Einbauküche, einem kleinen Schlafzimmer (Durchgangszimmer zum Bad) und einem Badezimmer mit 28 Quadratmeter Wohnfläche.\n\nDie Wohnung wird zum 01. Januar 2027 vermietet - die Kaution beträgt drei Monatsmieten (1500 Euro) - Nebenkosten müssen mit 150-200 Euro im Monat kalkuliert werden, je nach Wasser- und Heizungsverbrauch.",
+  "features": [
+   "Einbauküche",
+   "Altbau"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7eff0fe-77d3-45a7-b37e-3ef5e22bc67f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cacdae07-6816-4e3a-bee5-7888f1e92b2e?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c3128eb2-c554-45f6-bfdd-24d0e3492cd8?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7bc91970-8d58-4a62-af5f-8c6476946689?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36d0ce36-6338-4021-a5ac-963138c0832a?rule=$_59.JPG"
+  ],
+  "score": 50,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 19.7,
+   "size": 17.5,
+   "price": 4.8,
+   "parking": 0.0,
+   "extras": 8.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Separates Schlafzimmer",
+   "Einbauküche"
+  ],
+  "cons": [
+   "Warmmiete geschätzt (nur Kaltmiete angegeben)",
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 2.7,
+  "bike_minutes": 14,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-26T21:03:12+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -1141,7 +1063,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1210,7 +1132,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1357,7 +1279,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -1422,7 +1344,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-23T09:20:29+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-23T09:20:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1480,7 +1402,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-17T08:33:21+00:00",
-  "last_seen": "2026-10-26T16:47:29+00:00",
+  "last_seen": "2026-10-26T21:03:12+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
   "active": true,
   "duplicate_of": null
