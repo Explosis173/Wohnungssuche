@@ -1,5 +1,68 @@
 [
  {
+  "id": "ka:3555165634",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/lichtdurchflutete-1-5-zimmer-maisonette-wohnung-direkt-neben-der/3555165634-203-7656",
+  "title": "Lichtdurchflutete 1,5 Zimmer Maisonette Wohnung direkt neben der",
+  "kind": "Wohnung",
+  "rent_warm": 460.0,
+  "rent_cold": 390.0,
+  "utilities": 70.0,
+  "rent_estimated": false,
+  "deposit": 1170.0,
+  "area_m2": 27.0,
+  "rooms": 1.5,
+  "address": "Universitätsstraße 100A, 93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 48.9934078,
+  "lon": 12.088553,
+  "available_from": "Januar 2027",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Sehr helle 1,5 Zimmer Maisonette Wohnung mit Einbauküche und Schlafzimmer im OG. Die Wohnung ist direkt gegenüber der Universität am Biopark mit Blick ins Grüne. Vor der Wohnung sind ausreichend freie kostenlose Stellplätze und eine Bushaltestelle der Linie 6 Richtung Uni/Klinikum. Also ideal für Studenten/ Azubis/Ärzte/Pfleger. Im Keller befindet sich ein Waschraum mit Waschmaschinen und Trockner und ein Fahrradkeller. KEIN Jobcenter. Keine Hunde erlaubt und nur an Nichtraucher.",
+  "features": [
+   "Einbauküche",
+   "Neubau",
+   "Garage/Stellplatz"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3a61049-8ded-4a98-b650-ad8ebfd9841c?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0ce56f4-3ac5-4974-9b11-086270aa0d78?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e632c7ae-eb85-45c8-98ae-3b1d0f069352?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c004f7a-70c3-448c-8c6c-07fe1be19248?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f3a770f-427f-4417-9af7-1956ebe82d91?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e61760c3-fb0d-4b51-8c91-2938df812374?rule=$_59.JPG"
+  ],
+  "score": 76,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 18.8,
+   "size": 14.4,
+   "price": 12.5,
+   "parking": 20.0,
+   "extras": 10,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Eigener Stellplatz",
+   "Einbauküche",
+   "Keller/Abstellraum",
+   "Waschmaschine möglich",
+   "Fahrradstellplatz"
+  ],
+  "cons": [],
+  "distance_km": 2.9,
+  "bike_minutes": 15,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-10-28T21:08:55+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "ka:3526952442",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/ruhige-gemuetliche-1-zkb-wohnung-moebliert-ab-sofort/3526952442-203-7655",
@@ -55,7 +118,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -118,7 +181,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -182,7 +245,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -245,7 +308,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -318,7 +381,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -369,7 +432,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -441,7 +504,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-25T09:08:59+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -495,7 +558,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T18:49:33+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -554,7 +617,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-25T19:05:36+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -733,7 +796,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -801,7 +864,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -872,7 +935,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -933,7 +996,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-26T21:03:12+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-27T09:48:56+00:00",
   "active": true,
   "duplicate_of": null
@@ -996,7 +1059,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1065,7 +1128,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1135,7 +1198,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T14:00:26+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -1212,7 +1275,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -1277,7 +1340,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-23T09:20:29+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-23T09:20:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1335,7 +1398,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-17T08:33:21+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1395,7 +1458,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-10-28T16:37:19+00:00",
+  "last_seen": "2026-10-28T21:08:55+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
