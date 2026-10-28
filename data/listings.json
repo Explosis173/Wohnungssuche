@@ -1,70 +1,5 @@
 [
  {
-  "id": "ka:3546704555",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-apartment-studentenwohnung/3546704555-203-7656",
-  "title": "1-Zimmer-Apartment / Studentenwohnung",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 435,
-  "rent_cold": 360.0,
-  "utilities": 75,
-  "rent_estimated": true,
-  "deposit": null,
-  "area_m2": 25.0,
-  "rooms": 1.0,
-  "address": "93053 Regensburg",
-  "zip_code": "93053",
-  "district": "Galgenberg / Kasernenviertel / Uni",
-  "lat": 48.99197128528237,
-  "lon": 12.097610330413266,
-  "available_from": null,
-  "available_until": null,
-  "is_swap": false,
-  "description": "Die Wohnung hat eine sehr gute Lage im Regensburger Kasernenviertel und ist optimal für Studenten oder Auszubildende geeignet.\nDas Apartment wurde in den letzten Jahren zum Teil saniert. Mansarde im Wohn- / Schlafraum. Direkter Zugang zu einem kleinen Balkon.\nBushaltestellen und Einkaufsmöglichkeit sind innerhalb weniger Minuten zu erreichen. Der Fußweg zum Hauptbahnhof Regensburg ist in 15 Minuten zurückzulegen.\nDie Wohnung ist ab spätestens 01.01.2027 verfügbar",
-  "features": [
-   "Balkon",
-   "Einbauküche",
-   "Keller",
-   "Garage/Stellplatz"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/895f4ae6-0f66-470d-8bba-a763c82ec430?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f8f970c-8e70-4f3f-9658-c33209222068?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08f6f6f4-8313-49fd-9c95-9438e9a8ad3f?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7710c93-32d5-449f-914d-67029fcce2b6?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9be73bc3-5964-41ce-8711-91569f6f224d?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17f0e863-8a1f-4b73-9cfc-bd28b21f735c?rule=$_59.JPG"
-  ],
-  "score": 75,
-  "rating": "Gut",
-  "breakdown": {
-   "location": 18.2,
-   "size": 13.1,
-   "price": 14.1,
-   "parking": 20.0,
-   "extras": 10,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Eigener Stellplatz",
-   "Einbauküche",
-   "Balkon/Terrasse",
-   "Keller/Abstellraum"
-  ],
-  "cons": [
-   "Warmmiete geschätzt (nur Kaltmiete angegeben)"
-  ],
-  "distance_km": 3.0,
-  "bike_minutes": 15,
-  "parking": "Eigener Stellplatz",
-  "ai_review": null,
-  "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-10-21T09:21:45+00:00",
-  "notified_at": "2026-10-21T09:22:01+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
   "id": "ka:3526952442",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/ruhige-gemuetliche-1-zkb-wohnung-moebliert-ab-sofort/3526952442-203-7655",
@@ -120,7 +55,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -183,7 +118,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -247,7 +182,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -310,7 +245,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -383,7 +318,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -434,7 +369,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -506,7 +441,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-25T09:08:59+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -560,7 +495,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T18:49:33+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -619,7 +554,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-25T19:05:36+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -676,6 +611,65 @@
   "first_seen": "2026-10-21T15:13:44+00:00",
   "last_seen": "2026-10-22T15:15:48+00:00",
   "notified_at": "2026-10-22T09:24:53+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3554589251",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-studentenzimmer-in-weichs-naehe-donaueinkaufszentrum/3554589251-203-7657",
+  "title": "1 Studentenzimmer in Weichs Nähe Donaueinkaufszentrum",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 450.0,
+  "rent_cold": 450.0,
+  "utilities": null,
+  "rent_estimated": false,
+  "deposit": 900.0,
+  "area_m2": 25.0,
+  "rooms": 1.0,
+  "address": "Gärtnerstraße 6, 93059 Regensburg",
+  "zip_code": "93059",
+  "district": "Stadtamhof / Steinweg / Weichs",
+  "lat": 49.0229349,
+  "lon": 12.117361,
+  "available_from": "November 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Helles Zimmer mit Badnebennutzung im Souterrain ca 25 m²\n\nNur an Student/in ab sofort zu vermieten\n\nWochenendheimfahrer erwünscht\n\nEBK mit Kühlschrank und Ofen\nLampen Vorhänge und Kleiderschrank vorhanden\n\nNichtraucher\nKeine Haustiere!\n\nMietpreis inklusive Strom und Nebenkosten\n\nBei Interesse bitte kurzer Lebenslauf zu Ihrer Person mit Handynummer dann melde ich mich bei Ihnen",
+  "features": [],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46e201ea-b524-4b21-b4d2-b1da8b0e48d8?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b514445c-28ad-4e8f-bce0-5b1e77ee619f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a12707f9-4caf-4153-9ff2-a904dcb52305?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98c28c07-9973-4c21-ac1f-65b9666c671b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6edc32d2-4595-4847-90aa-0295f40c15dd?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/89620d9e-1a69-4a73-92da-872616deea56?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66164244-1a98-4e3b-819c-14968d9a9d74?rule=$_59.JPG"
+  ],
+  "score": 53,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 26.5,
+   "size": 13.1,
+   "price": 13.1,
+   "parking": 0.0,
+   "extras": 8.0,
+   "penalty": -8.0
+  },
+  "pros": [
+   "Einbauküche"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt",
+   "Nur für Wochenendheimfahrer"
+  ],
+  "distance_km": 1.6,
+  "bike_minutes": 8,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-28T10:34:36+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
+  "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -739,7 +733,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -807,7 +801,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -878,7 +872,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -939,7 +933,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-26T21:03:12+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-27T09:48:56+00:00",
   "active": true,
   "duplicate_of": null
@@ -1002,7 +996,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1071,7 +1065,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1141,7 +1135,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T14:00:26+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -1218,7 +1212,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -1283,7 +1277,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-23T09:20:29+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-23T09:20:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1341,8 +1335,68 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-17T08:33:21+00:00",
-  "last_seen": "2026-10-27T20:44:48+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3554609125",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/studentenzimmer-naehe-dez/3554609125-203-7657",
+  "title": "Studentenzimmer nähe DEZ",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 350.0,
+  "rent_cold": 350.0,
+  "utilities": null,
+  "rent_estimated": false,
+  "deposit": 350.0,
+  "area_m2": 20.0,
+  "rooms": 1.0,
+  "address": "Gärtnerstrasse 6, 93059 Regensburg",
+  "zip_code": "93059",
+  "district": "Stadtamhof / Steinweg / Weichs",
+  "lat": 49.0229349,
+  "lon": 12.117361,
+  "available_from": "November 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Helles Zimmer mit Badnebennutzung ( WG ähnliche Nutzung) in Weichs Nähe Donaueinkaufszentrum\nSouterrain\n\nNur an Student/in zu vermieten\nNichtraucher\nKeine Haustiere!\n\n20m²\n350 Euro incl Nebenkosten Strom Heizung Kalt und Warmwasser ab sofort zu vermieten\n\nKühlschrank, Gardinen, Wandspiegel, Deckenleuchte vorhanden\n\nWochenendheimfahrer erwünscht\n\nBei Interesse bitte kurzer Lebenslauf zu Ihrer Person mit Handynummer dann melde ich mich bei Ihnen",
+  "features": [
+   "Möbliert/Teilmöbliert"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9061063-dfcc-49a9-b15b-57c35aa6a39f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6dbb1dd-61f7-4236-8cac-9eba911ed29b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b058c338-497e-4cce-9cc2-7ba68451772d?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5daeebd-a428-48bb-b2cb-6887c7f94e7c?rule=$_59.JPG"
+  ],
+  "score": 36,
+  "rating": "Mäßig",
+  "breakdown": {
+   "location": 26.5,
+   "size": 0.0,
+   "price": 15.0,
+   "parking": 0.0,
+   "extras": 5.0,
+   "penalty": -11.0
+  },
+  "pros": [
+   "Günstig"
+  ],
+  "cons": [
+   "Eng – deine Möbel passen nur knapp",
+   "Kein Parkplatz erwähnt",
+   "Möbliert – deine eigenen Möbel müssten woanders hin",
+   "Nur für Wochenendheimfahrer"
+  ],
+  "distance_km": 1.6,
+  "bike_minutes": 8,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-28T10:34:36+00:00",
+  "last_seen": "2026-10-28T10:34:36+00:00",
+  "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
  }
