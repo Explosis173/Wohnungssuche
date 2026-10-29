@@ -57,7 +57,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-28T21:08:55+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-29T10:53:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -118,7 +118,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-16T09:01:26+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-16T09:01:34+00:00",
   "active": true,
   "duplicate_of": null
@@ -181,7 +181,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -245,7 +245,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -308,7 +308,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -381,7 +381,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -432,7 +432,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -504,7 +504,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-25T09:08:59+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -558,7 +558,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T18:49:33+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -617,63 +617,8 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-25T19:05:36+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3547729978",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/1-5-zimmer-wohnung/3547729978-203-7657",
-  "title": "1,5 Zimmer Wohnung",
-  "kind": "Wohnung",
-  "rent_warm": 550.0,
-  "rent_cold": 550.0,
-  "utilities": null,
-  "rent_estimated": false,
-  "deposit": null,
-  "area_m2": 30.0,
-  "rooms": 1.5,
-  "address": "93059 Regensburg",
-  "zip_code": "93059",
-  "district": "Stadtamhof / Steinweg / Weichs",
-  "lat": 49.02738560147899,
-  "lon": 12.094904079732363,
-  "available_from": "November 2026",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Bitte nur melden wenn du am 1.11. einziehen kannst und nur 1 Person bist.\nKleine süße Wohnung zu vermieten: teilmöbiliert mit Bett, Schrank, Tisch, Kommode und Küche. Waschmaschine zur gemeinsamen Nutzung unten im Haus. HausEingang wird geteilt mit anderem Mieter. 550 inkl warm, internet und Gez.",
-  "features": [],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5400f54-403f-4960-ba8e-eb11b8a4807f?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5c43cd59-1a38-41e7-a7d4-588d04a98c7d?rule=$_59.JPG"
-  ],
-  "score": 59,
-  "rating": "Okay",
-  "breakdown": {
-   "location": 30.0,
-   "size": 16.2,
-   "price": 6.9,
-   "parking": 0.0,
-   "extras": 6.0,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Sehr zentral",
-   "Genug Platz für alle Möbel",
-   "Waschmaschine möglich"
-  ],
-  "cons": [
-   "Kein Parkplatz erwähnt"
-  ],
-  "distance_km": 1.0,
-  "bike_minutes": 5,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-21T15:13:44+00:00",
-  "last_seen": "2026-10-22T15:15:48+00:00",
-  "notified_at": "2026-10-22T09:24:53+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -796,7 +741,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-07T19:47:38+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-07T19:49:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -864,7 +809,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -935,69 +880,8 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3553377090",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/single-appartement-in-regensburg-sallern-zu-vermieten/3553377090-203-7653",
-  "title": "Single-Appartement in Regensburg Sallern zu vermieten",
-  "kind": "Wohnung",
-  "rent_warm": 584,
-  "rent_cold": 500.0,
-  "utilities": 84,
-  "rent_estimated": true,
-  "deposit": 1500.0,
-  "area_m2": 28.0,
-  "rooms": 2.0,
-  "address": "Amberger Straße 103, 93057 Regensburg",
-  "zip_code": "93057",
-  "district": "Regensburg-Nord / Reinhausen / Sallern",
-  "lat": 49.04296009999999,
-  "lon": 12.1005369,
-  "available_from": "Januar 2027",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Zur Vermietung steht ein Single-Appartement in Regensburg-Sallern mit einem großen Wohnraum mit Einbauküche, einem kleinen Schlafzimmer (Durchgangszimmer zum Bad) und einem Badezimmer mit 28 Quadratmeter Wohnfläche.\n\nDie Wohnung wird zum 01. Januar 2027 vermietet - die Kaution beträgt drei Monatsmieten (1500 Euro) - Nebenkosten müssen mit 150-200 Euro im Monat kalkuliert werden, je nach Wasser- und Heizungsverbrauch.",
-  "features": [
-   "Einbauküche",
-   "Altbau"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7eff0fe-77d3-45a7-b37e-3ef5e22bc67f?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cacdae07-6816-4e3a-bee5-7888f1e92b2e?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c3128eb2-c554-45f6-bfdd-24d0e3492cd8?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7bc91970-8d58-4a62-af5f-8c6476946689?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36d0ce36-6338-4021-a5ac-963138c0832a?rule=$_59.JPG"
-  ],
-  "score": 50,
-  "rating": "Okay",
-  "breakdown": {
-   "location": 19.7,
-   "size": 17.5,
-   "price": 4.8,
-   "parking": 0.0,
-   "extras": 8.0,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Separates Schlafzimmer",
-   "Einbauküche"
-  ],
-  "cons": [
-   "Warmmiete geschätzt (nur Kaltmiete angegeben)",
-   "Kein Parkplatz erwähnt"
-  ],
-  "distance_km": 2.7,
-  "bike_minutes": 14,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-26T21:03:12+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
-  "notified_at": "2026-10-27T09:48:56+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -1059,7 +943,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1128,8 +1012,62 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3555763112",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/kellerzimmer-als-lagerraum/3555763112-203-7653",
+  "title": "Kellerzimmer als Lagerraum",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 140,
+  "rent_cold": 80.0,
+  "utilities": 60,
+  "rent_estimated": true,
+  "deposit": null,
+  "area_m2": 20.0,
+  "rooms": 1.0,
+  "address": "93057 Regensburg",
+  "zip_code": "93057",
+  "district": "Regensburg-Nord / Reinhausen / Sallern",
+  "lat": 49.029668671183586,
+  "lon": 12.114376785238075,
+  "available_from": null,
+  "available_until": null,
+  "is_swap": false,
+  "description": "Kellerzimmer absolut trocken. Extra Zugang möglich. Am besten als Lagerraum nutzbar.",
+  "features": [],
+  "images": [],
+  "score": 45,
+  "rating": "Mäßig",
+  "breakdown": {
+   "location": 25.3,
+   "size": 0.0,
+   "price": 15.0,
+   "parking": 0.0,
+   "extras": 6.0,
+   "penalty": -1.0
+  },
+  "pros": [
+   "Günstig",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "Eng – deine Möbel passen nur knapp",
+   "Warmmiete geschätzt (nur Kaltmiete angegeben)",
+   "Kein Parkplatz erwähnt",
+   "Keine Fotos"
+  ],
+  "distance_km": 1.8,
+  "bike_minutes": 9,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-10-29T16:55:26+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -1198,7 +1136,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T14:00:26+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -1275,7 +1213,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-12T19:48:03+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-13T11:47:35+00:00",
   "active": true,
   "duplicate_of": null
@@ -1340,7 +1278,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-23T09:20:29+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-23T09:20:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1398,7 +1336,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-17T08:33:21+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-17T08:33:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1458,7 +1396,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-10-29T10:53:12+00:00",
+  "last_seen": "2026-10-29T16:55:26+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
