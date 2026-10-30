@@ -3,13 +3,13 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-10-30T10:52:22+00:00",
+   "last_success": "2026-10-30T16:41:57+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-10-30T10:52:22+00:00",
+   "last_success": "2026-10-30T16:41:57+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 14
@@ -120,13 +120,13 @@
    "reason": "19 m²",
    "seen": "2026-10-29T10:53:12+00:00"
   },
+  "ka:3522203270": {
+   "reason": "WG-Zimmer",
+   "seen": "2026-10-30T16:41:57+00:00"
+  },
   "ka:3522548731": {
    "reason": "14 m²",
    "seen": "2026-10-29T10:53:12+00:00"
-  },
-  "ka:3522843428": {
-   "reason": "WG-Zimmer",
-   "seen": "2026-10-09T11:19:31+00:00"
   },
   "ka:3522895276": {
    "reason": "Nicht mehr online",
@@ -179,14 +179,6 @@
   "ka:3534988934": {
    "reason": "Nicht mehr online",
    "seen": "2026-10-24T14:00:26+00:00"
-  },
-  "ka:3535290813": {
-   "reason": "Warmmiete 630 € > 600 €",
-   "seen": "2026-10-09T11:19:31+00:00"
-  },
-  "ka:3535412178": {
-   "reason": "Warmmiete 700 € > 600 €",
-   "seen": "2026-10-09T11:19:31+00:00"
   },
   "ka:3535840476": {
    "reason": "19 m²",
@@ -411,10 +403,6 @@
   "wg:14143930": {
    "reason": "18 m²",
    "seen": "2026-10-29T10:53:12+00:00"
-  },
-  "wg:14222415": {
-   "reason": "WG-Zimmer",
-   "seen": "2026-10-09T11:19:31+00:00"
   },
   "wg:14223435": {
    "reason": "Nicht mehr online",
