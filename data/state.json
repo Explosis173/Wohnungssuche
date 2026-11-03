@@ -1,15 +1,15 @@
 {
- "last_digest_date": "2026-11-02",
+ "last_digest_date": "2026-11-03",
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-11-02T23:36:01+00:00",
+   "last_success": "2026-11-03T11:55:12+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-11-02T23:36:01+00:00",
+   "last_success": "2026-11-03T11:55:12+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 16
@@ -144,6 +144,10 @@
    "reason": "Warmmiete 645 € > 600 €",
    "seen": "2026-10-29T10:53:12+00:00"
   },
+  "ka:3526952442": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-11-03T11:55:12+00:00"
+  },
   "ka:3527780440": {
    "reason": "Nicht mehr online",
    "seen": "2026-10-17T09:58:24+00:00"
@@ -207,10 +211,6 @@
   "ka:3539131076": {
    "reason": "Nicht mehr online",
    "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "ka:3539564864": {
-   "reason": "WG-Zimmer",
-   "seen": "2026-10-13T11:47:26+00:00"
   },
   "ka:3539927683": {
    "reason": "Nicht mehr online",
@@ -395,6 +395,10 @@
   "ka:3560153733": {
    "reason": "Warmmiete 670 € > 600 €",
    "seen": "2026-11-02T20:21:12+00:00"
+  },
+  "ka:3560244186": {
+   "reason": "Warmmiete 643 € > 600 €",
+   "seen": "2026-11-03T11:55:12+00:00"
   },
   "wg:10093628": {
    "reason": "Nicht mehr online",
