@@ -69,7 +69,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-01T20:33:15+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-11-01T20:33:30+00:00",
   "active": true,
   "duplicate_of": null
@@ -142,7 +142,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-31T10:23:29+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-31T10:23:44+00:00",
   "active": true,
   "duplicate_of": null
@@ -205,7 +205,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-28T21:08:55+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-29T10:53:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -268,7 +268,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -332,7 +332,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -468,7 +468,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -534,7 +534,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-03T11:55:12+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-11-03T11:55:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -585,7 +585,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -639,7 +639,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T18:49:33+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -698,8 +698,65 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-25T19:05:36+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3560680893",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-apartment/3560680893-203-7656",
+  "title": "1-Zimmer-Apartment",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 450.0,
+  "rent_cold": 350.0,
+  "utilities": 100.0,
+  "rent_estimated": false,
+  "deposit": 1000.0,
+  "area_m2": 24.0,
+  "rooms": 1.0,
+  "address": "Heimbergstraße 1, 93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 49.0067244,
+  "lon": 12.0998081,
+  "available_from": "Januar 2027",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Zu vermieten ein Zimmer Apartment Uninähe in der Heimbergstraße vorzugsweise an Studenten wegen Besichtigungstermin gerne über Kleinanzeigen melden.",
+  "features": [],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee1ab65-f20b-49be-8bd5-9b092ffd8beb?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/6437a698-7ddb-4115-9197-913ec63ec411?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3afc3d9e-8ee1-496f-9480-0a7b8fc01c88?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06b67677-1bb5-4a00-bb8f-ae86489dd017?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb2beadb-c9a2-4df4-8cf8-b6a23060cc16?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9faaa639-720c-4bca-8c94-4f3edc8f0165?rule=$_59.JPG"
+  ],
+  "score": 58,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 27.9,
+   "size": 12.5,
+   "price": 13.1,
+   "parking": 0.0,
+   "extras": 5.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Sehr zentral"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 1.4,
+  "bike_minutes": 7,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-11-03T17:50:29+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -761,7 +818,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-03T11:55:12+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-11-03T11:55:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -820,7 +877,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
@@ -931,7 +988,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-30T20:51:22+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-31T10:23:44+00:00",
   "active": true,
   "duplicate_of": null
@@ -1064,7 +1121,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1135,7 +1192,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1198,7 +1255,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1267,7 +1324,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1321,7 +1378,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-29T16:55:26+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-30T10:52:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1451,7 +1508,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-03T11:55:12+00:00",
+  "last_seen": "2026-11-03T17:50:29+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
