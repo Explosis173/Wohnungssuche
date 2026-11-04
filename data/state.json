@@ -1,18 +1,18 @@
 {
- "last_digest_date": "2026-11-03",
+ "last_digest_date": "2026-11-04",
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-11-03T21:48:51+00:00",
+   "last_success": "2026-11-04T12:07:22+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-11-03T21:48:51+00:00",
+   "last_success": "2026-11-04T12:07:22+00:00",
    "last_error": null,
    "consecutive_failures": 0,
-   "last_count": 16
+   "last_count": 17
   }
  },
  "rejected": {
@@ -95,10 +95,6 @@
   "ka:3509204738": {
    "reason": "Warmmiete 750 € > 600 €",
    "seen": "2026-11-02T12:23:18+00:00"
-  },
-  "ka:3515762541": {
-   "reason": "Warmmiete 653 € > 600 €",
-   "seen": "2026-10-14T09:30:49+00:00"
   },
   "ka:3516155782": {
    "reason": "WG-Zimmer",
@@ -215,10 +211,6 @@
   "ka:3539927683": {
    "reason": "Nicht mehr online",
    "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "ka:3540349803": {
-   "reason": "13 m²",
-   "seen": "2026-10-14T09:30:49+00:00"
   },
   "ka:3540880711": {
    "reason": "Nicht mehr online",
@@ -403,6 +395,18 @@
   "ka:3560920175": {
    "reason": "Warmmiete 800 € > 600 €",
    "seen": "2026-11-03T21:48:51+00:00"
+  },
+  "ka:3561242704": {
+   "reason": "Warmmiete 640 € > 600 €",
+   "seen": "2026-11-04T12:07:22+00:00"
+  },
+  "ka:3561259744": {
+   "reason": "Warmmiete 670 € > 600 €",
+   "seen": "2026-11-04T12:07:22+00:00"
+  },
+  "ka:3561326865": {
+   "reason": "Tauschwohnung",
+   "seen": "2026-11-04T12:07:22+00:00"
   },
   "wg:10093628": {
    "reason": "Nicht mehr online",

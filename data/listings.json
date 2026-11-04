@@ -69,7 +69,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-01T20:33:15+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-11-01T20:33:30+00:00",
   "active": true,
   "duplicate_of": null
@@ -142,7 +142,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-31T10:23:29+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-31T10:23:44+00:00",
   "active": true,
   "duplicate_of": null
@@ -205,7 +205,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-28T21:08:55+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-29T10:53:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -268,7 +268,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -332,7 +332,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -468,7 +468,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -534,7 +534,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-03T11:55:12+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-11-03T11:55:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -585,7 +585,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -639,7 +639,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T18:49:33+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -698,7 +698,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-25T19:05:36+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -755,8 +755,72 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-03T17:50:29+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
-  "notified_at": null,
+  "last_seen": "2026-11-04T12:07:22+00:00",
+  "notified_at": "2026-11-04T12:07:49+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3561223848",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-1zi-app-mit-balkon-rgbg-ost/3561223848-203-7656",
+  "title": "Möbliertes 1Zi-App. mit Balkon Rgbg Ost",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 505.0,
+  "rent_cold": 400.0,
+  "utilities": 75.0,
+  "rent_estimated": false,
+  "deposit": 1200.0,
+  "area_m2": 24.0,
+  "rooms": 1.0,
+  "address": "93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 49.01348125626568,
+  "lon": 12.110444543628205,
+  "available_from": "Dezember 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Wir vermieten im 4. OG eines gepflegten MFH ein schönes, möbliertes 1-Zi-Appartement mit Balkon. Die Wohnung liegt zum ruhigen Innenhof. Die Altstadt und die Uni sind mit dem Fahrrad in 10 Minuten erreichbar, eine Bushaltestelle liegt in der Nähe. Die Wohnung wird nur an 1 Person vermietet, Haustiere sind nicht erwünscht.\n! Bitte geben Sie bei Interesse unbedingt ihre Handynummer an, unter der wir Sie zur Terminvereinbarung erreichen können !\nNotwendige Unterlagen zur Anmietung sind Selbstauskunft, aktuelle Schufa und Verdienstnachweis.",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Balkon",
+   "Einbauküche"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86fefd16-8dd7-40f3-87ba-58b2ce891acf?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/affc3797-7907-4afd-be16-679cfbe56dc1?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d3b211e-1ae9-4381-b072-3a586c659189?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0d1ce61-6230-418b-8753-215f5fad427f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e5861ff-5217-4d02-92cb-cf089eb21a6e?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/efa76c9a-4024-4ded-93c1-694dd0d87d40?rule=$_59.JPG"
+  ],
+  "score": 58,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 29.0,
+   "size": 12.5,
+   "price": 9.7,
+   "parking": 0.0,
+   "extras": 10,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Einbauküche",
+   "Balkon/Terrasse"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 1.2,
+  "bike_minutes": 6,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-11-04T12:07:22+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
+  "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -818,7 +882,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-03T11:55:12+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-11-03T11:55:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -877,7 +941,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
@@ -988,7 +1052,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-30T20:51:22+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-31T10:23:44+00:00",
   "active": true,
   "duplicate_of": null
@@ -1121,8 +1185,70 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "wg:14315104",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Neupruell.14315104.html",
+  "title": "Schönestes Einzelzimmer In der Nähe Von UNI",
+  "kind": "Wohnung",
+  "rent_warm": 525.0,
+  "rent_cold": 400.0,
+  "utilities": 125.0,
+  "rent_estimated": false,
+  "deposit": 1275.0,
+  "area_m2": 20.0,
+  "rooms": null,
+  "address": "Universitätsstraße 100a 93051 Regensburg Neuprüll",
+  "zip_code": "93051",
+  "district": "Neuprüll",
+  "lat": 48.993427,
+  "lon": 12.088576,
+  "available_from": "2026-11-16",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Schönes Einzelzimmer In Regensburg in der Nähe von Universität (2 Min), mit Terrasse und privat-Garage\nVollmöbiliert  : Bett , Schrank , Tisch , Stühle , Küche .\nWarmmiete ( beinhaltet  die Garage und Heizung ) : 525€\nKaution : 1275€\nVoraussetzung :\n1-Arbeitsvertrag oder Bürge\n2- Miete mind. 16 Monate",
+  "features": [
+   "möbliert",
+   "Eigene Küche",
+   "Eigenes Bad, Badewanne, Dusche",
+   "Zentralheizung",
+   "Balkon, Garten"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2026/44/a51ed195ea6527d3b8ad19702fb7260327f95f8d15457ec7ab804b0955448e9f_179378407642494671847642455935.large.JPEG",
+   "https://img.wg-gesucht.de/media/up/2026/44/57c68364933d0e63ac6536cbf69d819f69a023dd5983f0ffe578c112138828a5_179378407645494671847645419562.large.JPEG"
+  ],
+  "score": 51,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 18.8,
+   "size": 0.0,
+   "price": 8.4,
+   "parking": 17.0,
+   "extras": 10,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Stellplatz (gegen Aufpreis)",
+   "Einbauküche",
+   "Balkon/Terrasse"
+  ],
+  "cons": [
+   "Eng – deine Möbel passen nur knapp",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 2.9,
+  "bike_minutes": 15,
+  "parking": "Stellplatz (gegen Aufpreis)",
+  "ai_review": null,
+  "first_seen": "2026-11-04T12:07:22+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
+  "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -1192,7 +1318,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1255,7 +1381,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-13T17:35:40+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-14T09:30:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -1324,7 +1450,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1378,7 +1504,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-29T16:55:26+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-30T10:52:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1508,7 +1634,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-03T21:48:51+00:00",
+  "last_seen": "2026-11-04T12:07:22+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
