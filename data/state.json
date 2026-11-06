@@ -3,16 +3,16 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-11-06T12:06:03+00:00",
+   "last_success": "2026-11-06T17:28:46+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-11-06T12:06:03+00:00",
+   "last_success": "2026-11-06T17:28:46+00:00",
    "last_error": null,
    "consecutive_failures": 0,
-   "last_count": 17
+   "last_count": 16
   }
  },
  "rejected": {
@@ -95,6 +95,10 @@
   "ka:3509204738": {
    "reason": "Warmmiete 750 € > 600 €",
    "seen": "2026-11-02T12:23:18+00:00"
+  },
+  "ka:3509769215": {
+   "reason": "WG-Zimmer",
+   "seen": "2026-11-06T17:28:46+00:00"
   },
   "ka:3511713186": {
    "reason": "Tauschwohnung",
