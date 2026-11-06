@@ -3,13 +3,13 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-11-06T17:28:46+00:00",
+   "last_success": "2026-11-06T21:33:06+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-11-06T17:28:46+00:00",
+   "last_success": "2026-11-06T21:33:06+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 16
@@ -355,6 +355,10 @@
   "ka:3553444236": {
    "reason": "Warmmiete 780 € > 600 €",
    "seen": "2026-10-26T21:03:12+00:00"
+  },
+  "ka:3554590418": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-11-06T21:33:06+00:00"
   },
   "ka:3555673148": {
    "reason": "Warmmiete 632 € > 600 €",
