@@ -69,7 +69,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-01T20:33:15+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-11-01T20:33:30+00:00",
   "active": true,
   "duplicate_of": null
@@ -142,7 +142,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-31T10:23:29+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-31T10:23:44+00:00",
   "active": true,
   "duplicate_of": null
@@ -208,7 +208,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
   "active": true,
   "duplicate_of": null
@@ -271,7 +271,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-28T21:08:55+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-29T10:53:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -334,7 +334,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -398,8 +398,71 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3564344788",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-apartment-in-regensburg-mit-gartenanteil/3564344788-203-7654",
+  "title": "1 Zimmer-Apartment in Regensburg mit Gartenanteil",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 550.0,
+  "rent_cold": 500.0,
+  "utilities": 50.0,
+  "rent_estimated": false,
+  "deposit": 1500.0,
+  "area_m2": 36.0,
+  "rooms": 1.0,
+  "address": "Kaiser-Friedrich-Allee 21, 93051 Regensburg",
+  "zip_code": "93051",
+  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
+  "lat": 48.9999613,
+  "lon": 12.0689815,
+  "available_from": null,
+  "available_until": null,
+  "is_swap": false,
+  "description": "Schönes ruhiges 1 Zimmer-Apartment in Regensburg mit Gartenanteil.",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Terrasse",
+   "Einbauküche",
+   "Keller",
+   "Garage/Stellplatz",
+   "Garten/-mitnutzung"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/baf1e1e2-97ff-4f14-9545-bbe95e0fe87a?rule=$_59.JPG"
+  ],
+  "score": 72,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 18.6,
+   "size": 20.0,
+   "price": 6.9,
+   "parking": 20.0,
+   "extras": 10,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Eigener Stellplatz",
+   "Einbauküche",
+   "Balkon/Terrasse",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 2.9,
+  "bike_minutes": 15,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-11-07T16:25:11+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -471,7 +534,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -522,7 +585,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -576,7 +639,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T18:49:33+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -635,7 +698,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-25T19:05:36+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -697,7 +760,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
   "active": true,
   "duplicate_of": null
@@ -754,7 +817,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-03T17:50:29+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -818,7 +881,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -879,7 +942,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
   "active": true,
   "duplicate_of": null
@@ -942,7 +1005,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-03T11:55:12+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-11-03T11:55:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1001,7 +1064,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
@@ -1134,7 +1197,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-08T17:23:59+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-09T11:19:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1196,7 +1259,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -1267,8 +1330,68 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3564171258",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliches-1-zimmer-apartment-mit-holzbalken-mitten-in-der-regen/3564171258-203-7659",
+  "title": "Gemütliches 1-Zimmer-Apartment mit Holzbalken mitten in der Regen",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 495.0,
+  "rent_cold": 425.0,
+  "utilities": 70.0,
+  "rent_estimated": false,
+  "deposit": 1350.0,
+  "area_m2": 20.0,
+  "rooms": 1.0,
+  "address": "93047 Regensburg",
+  "zip_code": "93047",
+  "district": "Innenstadt / Altstadt",
+  "lat": 49.01898570708069,
+  "lon": 12.09440893587498,
+  "available_from": "Januar 2027",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Eckdaten\n\n1 Zimmer mit offener Küche, Bad, Flur, ca. 22 m²\nObergeschoss\nKaltmiete: 400 €\nEinbauküche: 25 €\nNebenkosten-Vorauszahlung (Betriebs-, Heiz- und Stromkosten): 60 €\nWarmmiete: 485 €\nFrei ab 01.01.2027 oder nach Vereinbarung\nFür 1 Person ideal, höchstens 2 Personen\n\nDas Apartment liegt in der Gasse „Hinter der Pfannenschmiede“ mitten in der Altstadt, nur wenige Schritte von der Gesandtenstraße und der Dreieinigkeitskirche entfernt. Einkaufen, Cafés, Restaurants und Busse erreichen Sie zu Fuß in wenigen Minuten. Die Universität und die OTH sind mit dem Rad schnell zu erreichen.\n\nDie offenen Holzbalken an der Decke machen den Wohn- und Schlafraum besonders gemütlich. Die Einbauküche hat Spüle, Kochfeld und Kühlschrank im Retro-Stil. Der Boden ist ein heller Laminatboden. Dazu kommen ein separates Bad und ein kleiner Flur. Die Wohnung ist unmöbliert, nur die Küche ist eingebaut.\n\nDas Apartment eignet sich gut für Berufstätige, Studierende oder Pendler, die zentral wohnen möchten.\n\nIhre Anfrage\nBitte schreiben Sie kurz etwas zu sich und nennen Sie dabei:\n\nIhren aktuellen Beruf bzw. Arbeitgeber (oder Studiengang)\nIhr monatliches Nettoeinkommen bzw. das Haushaltseinkommen\nIhr Alter\nwie viele Personen einziehen und ab wann Sie die Wohnung brauchen\n\nAnfragen ohne diese Angaben kann ich leider nicht berücksichtigen. Besichtigungen finden nach Absprache statt.",
+  "features": [
+   "Einbauküche"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/6627f193-ffdd-479b-b215-3c49f11eb36b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e204144-c8e2-4a91-ae2d-73caee3f3b1b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04074923-0387-4759-98ed-25fb33c10f56?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df6ba189-c5c5-4fd0-84e5-5700d7814728?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/296ceffa-db3b-4fdc-8966-bd01e8ff89fa?rule=$_59.JPG"
+  ],
+  "score": 48,
+  "rating": "Mäßig",
+  "breakdown": {
+   "location": 30.0,
+   "size": 0.0,
+   "price": 10.3,
+   "parking": 0.0,
+   "extras": 8.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Einbauküche"
+  ],
+  "cons": [
+   "Eng – deine Möbel passen nur knapp",
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 0.2,
+  "bike_minutes": 1,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-11-07T16:25:11+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -1336,7 +1459,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1390,78 +1513,8 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-29T16:55:26+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-30T10:52:31+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3507848081",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/vermiete-1-zimmer-apartment-in-direkter-uni-naehe/3507848081-203-7654",
-  "title": "vermiete 1 Zimmer Apartment in direkter UNI-Nähe",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 548.0,
-  "rent_cold": 449.0,
-  "utilities": 99.0,
-  "rent_estimated": false,
-  "deposit": 1347.0,
-  "area_m2": 22.0,
-  "rooms": 1.0,
-  "address": "Ludwig-Thoma-Straße 41, 93051 Regensburg",
-  "zip_code": "93051",
-  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
-  "lat": 49.0012367,
-  "lon": 12.0907059,
-  "available_from": "Januar 2027",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Vermietung ab 1.1.27 in direkter UNI-Nähe\nein 1 Zimmer Apartment.\n\nBesichtigungstermin ab 23.10.26\n\nDas Apartment verfügt über einen Schlaf/Wohnraum mit Küchenzeile, extra Bad (Dusche, Waschtisch und Spiegel) und einem Balkon/Osten. Alles neu renoviert 2022.\nEin eigenes Kellerabteilung und ein Gemeinschaftsraum mit Waschmaschine/Trockner und ein Radkeller stehen zur Verfügung.\nInkl. neuwertiger Küchenzeile mit Kühlschrank, Gefriereinheit, Induktionsplatte, Spüle und Backofen\ninkl. großer Schrank und neuwertigem Duschbad\nDas Apartment liegt fussläufig mit ca. 150m zur Uni optimal in einer ruhigen Wohnanlage. Uni- und Bezirksklinikum, und OTH in der Nähe\nZudem kann man kostenfrei den davor liegenden großen UNI-Parkplatz nutzen.\nIn der Wohnanlage befindet sich auch ein Restaurant mit Biergarten und nebenan ein modernes Cafe.\nSupermarkt/einkaufen ca. 300m, Öffis ca. 150m\n\nWir freuen uns auf eine aussagekräftige Bewerbung.\nEin zeitnaher Besichtigungstag (ab Mitte Oktober 2026) ist in Planung.\nkeine Haustiere\nNichtraucher Wohnung\nWeitere Voraussetzungen: Selbstauskunft, Schufa Auskunft, ggf. Lohnabrechnungen der letzten 3 Monatene, oder auch Vorvermieter Auskunft und polizl. Führungszeugnis\n\nMakleranfragen unerwünscht! Nach § 7 UWG sind unaufgeforderte Kontaktaufnahmen durch Makler ohne ausdrückliche Einwilligung des Empfängers verboten!",
-  "features": [
-   "Möbliert/Teilmöbliert",
-   "Einbauküche",
-   "Aufzug",
-   "Keller"
-  ],
-  "images": [
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b82c365-a71b-43d4-8212-dd7709620173?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a61fcd82-2daa-4e14-bec5-290ce0567c06?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14f765cd-e2ce-48de-8786-af42d956a596?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e02b05fb-a0ec-4b10-a23e-c03b955e70f1?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5db1de73-2588-46e0-8cf9-bf7b96fe7872?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c288baec-b434-4780-ad5a-d99f730d4a09?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d374eee4-42d3-44de-a944-5044e7a5a04a?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63340b3c-d26f-4df0-b7ae-2d3d080b6027?rule=$_59.JPG",
-   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/32f525ee-6822-4975-9159-17e302cbd258?rule=$_59.JPG"
-  ],
-  "score": 44,
-  "rating": "Mäßig",
-  "breakdown": {
-   "location": 24.1,
-   "size": 6.2,
-   "price": 7.0,
-   "parking": 0.0,
-   "extras": 10,
-   "penalty": -3.0
-  },
-  "pros": [
-   "Einbauküche",
-   "Balkon/Terrasse",
-   "Keller/Abstellraum",
-   "Waschmaschine möglich"
-  ],
-  "cons": [
-   "Eng – deine Möbel passen nur knapp",
-   "Kein Parkplatz erwähnt",
-   "Möbliert – deine eigenen Möbel müssten woanders hin"
-  ],
-  "distance_km": 2.0,
-  "bike_minutes": 10,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-10-24T14:00:26+00:00",
-  "last_seen": "2026-10-31T15:43:24+00:00",
-  "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -1520,7 +1573,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-07T11:03:20+00:00",
+  "last_seen": "2026-11-07T16:25:11+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
