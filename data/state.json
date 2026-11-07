@@ -1,15 +1,15 @@
 {
- "last_digest_date": "2026-11-06",
+ "last_digest_date": "2026-11-07",
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-11-06T21:33:06+00:00",
+   "last_success": "2026-11-07T11:03:20+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-11-06T21:33:06+00:00",
+   "last_success": "2026-11-07T11:03:20+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 16
@@ -52,18 +52,6 @@
    "reason": "Warmmiete 1225 € > 600 €",
    "seen": "2026-10-29T10:53:12+00:00"
   },
-  "ka:3490275236": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "ka:3494451609": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "ka:3501562028": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
   "ka:3501787277": {
    "reason": "14 m²",
    "seen": "2026-10-29T10:53:12+00:00"
@@ -104,6 +92,10 @@
    "reason": "Tauschwohnung",
    "seen": "2026-11-05T12:19:24+00:00"
   },
+  "ka:3514186163": {
+   "reason": "Tauschwohnung",
+   "seen": "2026-11-07T11:03:20+00:00"
+  },
   "ka:3516155782": {
    "reason": "WG-Zimmer",
    "seen": "2026-10-29T10:53:12+00:00"
@@ -132,10 +124,6 @@
    "reason": "WG-Zimmer",
    "seen": "2026-10-30T20:51:22+00:00"
   },
-  "ka:3522895276": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
   "ka:3526068412": {
    "reason": "Warmmiete 645 € > 600 €",
    "seen": "2026-10-29T10:53:12+00:00"
@@ -143,10 +131,6 @@
   "ka:3526952442": {
    "reason": "Nicht mehr online",
    "seen": "2026-11-03T11:55:12+00:00"
-  },
-  "ka:3527780440": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
   },
   "ka:3527780867": {
    "reason": "Nicht mehr online",
@@ -172,22 +156,6 @@
    "reason": "Nicht mehr online",
    "seen": "2026-10-23T19:58:18+00:00"
   },
-  "ka:3534321398": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "ka:3534685551": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "ka:3534719105": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "ka:3534976451": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
   "ka:3534988934": {
    "reason": "Nicht mehr online",
    "seen": "2026-10-24T14:00:26+00:00"
@@ -200,25 +168,9 @@
    "reason": "Nicht mehr online",
    "seen": "2026-10-19T09:53:43+00:00"
   },
-  "ka:3538001483": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "ka:3538023426": {
-   "reason": "Gesuch, kein Angebot",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "ka:3539131076": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
   "ka:3539564864": {
    "reason": "WG-Zimmer",
    "seen": "2026-11-03T17:50:29+00:00"
-  },
-  "ka:3539927683": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
   },
   "ka:3540147685": {
    "reason": "Nicht mehr online",
@@ -239,10 +191,6 @@
   "ka:3543041640": {
    "reason": "Nicht mehr online",
    "seen": "2026-11-02T12:23:18+00:00"
-  },
-  "ka:3543064091": {
-   "reason": "Warmmiete 747 € > 600 €",
-   "seen": "2026-10-17T08:33:21+00:00"
   },
   "ka:3543382555": {
    "reason": "Nicht mehr online",
@@ -440,10 +388,6 @@
    "reason": "Nicht mehr online",
    "seen": "2026-11-05T12:19:24+00:00"
   },
-  "wg:10093628": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
   "wg:11893287": {
    "reason": "16 m²",
    "seen": "2026-10-29T10:53:12+00:00"
@@ -455,10 +399,6 @@
   "wg:13620834": {
    "reason": "Zwischenmiete bis 30.06.2027",
    "seen": "2026-10-29T10:53:12+00:00"
-  },
-  "wg:13703740": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
   },
   "wg:14132785": {
    "reason": "Nicht mehr online",
@@ -476,37 +416,13 @@
    "reason": "WG-Zimmer",
    "seen": "2026-10-30T20:51:22+00:00"
   },
-  "wg:14223435": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
   "wg:14229109": {
    "reason": "Nicht mehr online",
    "seen": "2026-10-26T21:03:12+00:00"
   },
-  "wg:14229214": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "wg:14233396": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "wg:14236683": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
-  "wg:14238530": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-17T09:58:24+00:00"
-  },
   "wg:14238691": {
    "reason": "Nicht mehr online",
    "seen": "2026-10-24T14:00:26+00:00"
-  },
-  "wg:14249227": {
-   "reason": "Zwischenmiete bis 31.12.2026",
-   "seen": "2026-10-17T09:58:24+00:00"
   },
   "wg:14252266": {
    "reason": "Nicht mehr online",
