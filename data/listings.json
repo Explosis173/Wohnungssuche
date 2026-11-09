@@ -142,7 +142,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-31T10:23:29+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-10-31T10:23:44+00:00",
   "active": true,
   "duplicate_of": null
@@ -208,7 +208,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
   "active": true,
   "duplicate_of": null
@@ -271,7 +271,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -335,7 +335,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -462,7 +462,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-09T12:51:47+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-11-09T12:52:15+00:00",
   "active": true,
   "duplicate_of": null
@@ -535,7 +535,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -586,7 +586,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -640,7 +640,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T18:49:33+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -710,79 +710,8 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-07T20:16:06+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-11-08T11:16:22+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "wg:14340898",
-  "source": "wg-gesucht",
-  "url": "https://www.wg-gesucht.de/wohnungen-in-Regensburg-Galgenberg.14340898.html",
-  "title": "2-Zimmer-Wohnung in Regensburg",
-  "kind": "Wohnung",
-  "rent_warm": 600.0,
-  "rent_cold": 600.0,
-  "utilities": null,
-  "rent_estimated": false,
-  "deposit": 1200.0,
-  "area_m2": 54.0,
-  "rooms": null,
-  "address": "Kellerweg 8 93053 Regensburg Galgenberg",
-  "zip_code": "93053",
-  "district": "Galgenberg",
-  "lat": 49.008549,
-  "lon": 12.097463,
-  "available_from": "2026-11-09",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Bitte hinterlassen Sie bei Ihrer Anfrage Ihre E-Mail-Adresse und Telefonnummer. Anfragen mit vollständigen Kontaktdaten werden bevorzugt berücksichtigt. Vielen Dank!",
-  "features": [
-   "WG geeignet",
-   "Barrierefrei",
-   "möbliert",
-   "Keller"
-  ],
-  "images": [
-   "https://img.wg-gesucht.de/media/up/2026/45/40b820c86e7ef2fac4ce3b9f35ffdb9ddf97450c96dce126f414b2352888240f_1.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/45/d53b4e7bebe8e324083699bf65250de0de9bc235d191256d7326bdee3bed7fc8_3.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/45/507c03c71be081b6d0768e911f09620384fabff5a4d1b7abd55dcb3aeca7aa69_4.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/45/4232794cb2d0f74346aa9baf878644b3643cbc4683a487c227fe99a2ba4bfae1_6.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/45/88ed402c0be937de8808eb5d8b0d0e39f0623821ad39fc3900a85413399478c3_7.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/45/efa64e76bf712956ee18c1e78d28bcf95e1fedef5a5965f542e94d7178b15e37_10.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/45/97d7b080e2106670e546945acb0eda67e3ff9e81591398a7a88b8bfc3701b516_11.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/45/3442dff374c298d637e905c7f6617823c5a2f22299ed6bfe4e24ebf8d4e53f78_12.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/45/decba6af9c82200149f222be30ad5b3042c6db420a7d6942cd1d1971ad9762f3_14.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/45/c56a590119306214f39b34ee8cca23e182df2efb72b3700f668ef0cddb1cd106_15.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/45/f1101591e00431bb17e0bc29f2e250666e7bb6aac3c5390c09c823cf8737d261_16.large.jpg",
-   "https://img.wg-gesucht.de/media/up/2026/45/225fbc0f04622a193a1d8ea730696629f60f8b3aa81f2e31b498b5c44db3954c_19.large.jpg"
-  ],
-  "score": 61,
-  "rating": "Okay",
-  "breakdown": {
-   "location": 29.2,
-   "size": 25.0,
-   "price": 3.8,
-   "parking": 0.0,
-   "extras": 6.0,
-   "penalty": -3.0
-  },
-  "pros": [
-   "Sehr zentral",
-   "Genug Platz für alle Möbel",
-   "Keller/Abstellraum"
-  ],
-  "cons": [
-   "Kein Parkplatz erwähnt",
-   "Möbliert – deine eigenen Möbel müssten woanders hin"
-  ],
-  "distance_km": 1.1,
-  "bike_minutes": 6,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-11-09T12:51:47+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
-  "notified_at": "2026-11-09T12:52:15+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -902,7 +831,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
   "active": true,
   "duplicate_of": null
@@ -959,7 +888,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-03T17:50:29+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -1023,7 +952,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -1147,7 +1076,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-03T11:55:12+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-11-03T11:55:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1206,8 +1135,70 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3566697257",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-mit-einbaukueche-im-westen/3566697257-203-7658",
+  "title": "Wohnung mit Einbauküche im Westen",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 600.0,
+  "rent_cold": 450.0,
+  "utilities": 150.0,
+  "rent_estimated": false,
+  "deposit": 1350.0,
+  "area_m2": 36.0,
+  "rooms": 1.0,
+  "address": "93049 Regensburg",
+  "zip_code": "93049",
+  "district": "Westenviertel / Prüfening / Königswiesen",
+  "lat": 49.015760169391186,
+  "lon": 12.056040917365522,
+  "available_from": "November 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Wohnung im Westen von Regensburg, Erdgeschoss mit Terrasse und Einbauküche. Gasheizung.",
+  "features": [
+   "Terrasse",
+   "Einbauküche"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/3590f8ba-e0da-4051-931c-31f5b217fec8?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03dbb1d3-12ec-4f6e-afd4-f75d19f7f508?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5507fb2b-dac8-4d08-b9e2-101f20c0454b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/1833100e-a2bf-48b4-b58c-e48aa0590ca9?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96415745-c069-48fe-9677-fc4de5656f75?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/eaa67bf0-caa6-4082-ac37-8fb0a8a87f18?rule=$_59.JPG"
+  ],
+  "score": 52,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 18.1,
+   "size": 20.0,
+   "price": 3.8,
+   "parking": 0.0,
+   "extras": 10,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Einbauküche",
+   "Balkon/Terrasse"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 3.0,
+  "bike_minutes": 15,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-11-09T20:42:37+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -1268,7 +1259,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -1339,7 +1330,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1468,7 +1459,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1522,7 +1513,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-29T16:55:26+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-10-30T10:52:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1582,7 +1573,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-09T12:51:47+00:00",
+  "last_seen": "2026-11-09T20:42:37+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null

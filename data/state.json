@@ -3,16 +3,16 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-11-09T12:51:47+00:00",
+   "last_success": "2026-11-09T20:42:37+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-11-09T12:51:47+00:00",
+   "last_success": "2026-11-09T20:42:37+00:00",
    "last_error": null,
    "consecutive_failures": 0,
-   "last_count": 15
+   "last_count": 14
   }
  },
  "rejected": {
@@ -207,14 +207,6 @@
   "ka:3544048753": {
    "reason": "Nicht mehr online",
    "seen": "2026-10-26T21:03:12+00:00"
-  },
-  "ka:3545661017": {
-   "reason": "Warmmiete 755 € > 600 €",
-   "seen": "2026-10-19T16:58:38+00:00"
-  },
-  "ka:3545954446": {
-   "reason": "Warmmiete 700 € > 600 €",
-   "seen": "2026-10-19T16:58:38+00:00"
   },
   "ka:3546101449": {
    "reason": "Warmmiete 800 € > 600 €",
@@ -479,6 +471,10 @@
   "wg:14320530": {
    "reason": "Gesuch, kein Angebot",
    "seen": "2026-11-05T12:19:24+00:00"
+  },
+  "wg:14340898": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-11-09T20:42:37+00:00"
   },
   "wg:7201290": {
    "reason": "Nicht mehr online",
