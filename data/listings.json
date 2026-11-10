@@ -75,79 +75,6 @@
   "duplicate_of": null
  },
  {
-  "id": "wg:11904217",
-  "source": "wg-gesucht",
-  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Westenviertel.11904217.html",
-  "title": "Suche Nachmieter*in für 1-Zimmerwohnung mit Balkon + Stellplatz",
-  "kind": "Wohnung",
-  "rent_warm": 530.0,
-  "rent_cold": 430.0,
-  "utilities": 100.0,
-  "rent_estimated": false,
-  "deposit": 1290.0,
-  "area_m2": 35.0,
-  "rooms": null,
-  "address": "Praschweg 9 93049 Regensburg Westenviertel",
-  "zip_code": "93049",
-  "district": "Westenviertel",
-  "lat": 49.022086,
-  "lon": 12.066522,
-  "available_from": "2026-12-15",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Ich suche eine Nachmieter*in für meine Wohnung ab Mitte Dezember ☺️\nEs gibt viele Möbel die abgelöst werden können, ein nicht überdachter Stellplatz vor dem Haus, sowie ein Fahrradkeller und ein großer Balkon. Der ist besonders im August und im September toll um draußen zu lesen, arbeiten, essen, Wäsche aufhängen uvm.\nDie Lage ist super: Die Buslinien 6 und 11 sind in 5 min zu Fuß erreichbar und fahren beide zum Hauptbahnhof und zur Uni durch. Mit dem Fahrrad ist man in 10 min in der Innenstadt. Außerdem ist die Autobahnauffahrt auch gleich in der Nähe.\nDie Wohnung wird frei, weil ich in eine WG umziehe, ich war aber immer sehr glücklich hier!\nMelde dich gern bei mir, falls du weitere Fragen hast und Interesse besteht :) Dann können wir gern einen Termin für eine Besichtigung vereinbaren.\n-Sina",
-  "features": [
-   "Mehrfamilienhaus",
-   "1. OG",
-   "teilmöbliert",
-   "Eigene Küche",
-   "Eigenes Bad, Badewanne",
-   "Laminat",
-   "Gasheizung",
-   "eigener Parkplatz",
-   "4 Minuten zu Fuß entfernt",
-   "Balkon, Gartenmitbenutzung, Keller, Fahrradkeller"
-  ],
-  "images": [
-   "https://img.wg-gesucht.de/media/up/2025/10/94ff20484b6b046918b1a00af345ebd05d2624951ade3e37cfd1716c4f2671a1_174190611493294676691493267823.large.JPEG",
-   "https://img.wg-gesucht.de/media/up/2025/10/d2667f83fb6aa166b5fe2de21fa32cedbe65eaca3bd36ddd8dc99c6c18ddc4d0_174190611467894676691467865286.large.JPEG",
-   "https://img.wg-gesucht.de/media/up/2025/10/08c946dc9d03591f8683f116205944c2d5632008e9c091e374c34b32c6e90b56_174190611476794676691476745201.large.JPEG",
-   "https://img.wg-gesucht.de/media/up/2025/10/65e4840e9e024d7c552306c185462352489f60f24e5a0ec2575a65151a093284_174190611500494676691500442024.large.JPEG",
-   "https://img.wg-gesucht.de/media/up/2025/10/b69318a9e1d9b34a2211aebc81c30effec788426353e9d462980bb95669d33b5_174190611508294676691508254586.large.JPEG",
-   "https://img.wg-gesucht.de/media/up/2025/10/962b2f86b34a0cd849f0ad4e6daac4723e4fe073ddf87befcfc058972e9f696d_174190611515894676691515844025.large.JPEG",
-   "https://img.wg-gesucht.de/media/up/2025/10/3a1a00f8f9787b4e58b51a66c987f9acac874e13e4951c796368cf75f9c01ebd_174190639283894676719283860183.large.JPEG",
-   "https://img.wg-gesucht.de/media/up/2025/10/4b7105053ecd760b303c67761fc13e060a3614ab26da03f88bbca516efe99a80_174190611485094676691485092236.large.JPEG"
-  ],
-  "score": 80,
-  "rating": "Top",
-  "breakdown": {
-   "location": 22.6,
-   "size": 19.4,
-   "price": 8.1,
-   "parking": 20.0,
-   "extras": 10,
-   "penalty": 0.0
-  },
-  "pros": [
-   "Genug Platz für alle Möbel",
-   "Eigener Stellplatz",
-   "Einbauküche",
-   "Balkon/Terrasse",
-   "Keller/Abstellraum",
-   "Fahrradstellplatz"
-  ],
-  "cons": [],
-  "distance_km": 2.2,
-  "bike_minutes": 12,
-  "parking": "Eigener Stellplatz",
-  "ai_review": null,
-  "first_seen": "2026-10-31T10:23:29+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
-  "notified_at": "2026-10-31T10:23:44+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
   "id": "ka:3563176720",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliches-appartement-mit-balkon-naehe-alex-center/3563176720-203-7657",
@@ -208,7 +135,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
   "active": true,
   "duplicate_of": null
@@ -271,7 +198,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -335,7 +262,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -462,7 +389,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-09T12:51:47+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-11-09T12:52:15+00:00",
   "active": true,
   "duplicate_of": null
@@ -535,7 +462,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -586,7 +513,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -640,7 +567,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-24T18:49:33+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-10-25T09:09:11+00:00",
   "active": true,
   "duplicate_of": null
@@ -710,7 +637,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-07T20:16:06+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-11-08T11:16:22+00:00",
   "active": true,
   "duplicate_of": null
@@ -831,7 +758,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
   "active": true,
   "duplicate_of": null
@@ -888,7 +815,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-03T17:50:29+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -952,7 +879,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -1076,7 +1003,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-03T11:55:12+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-11-03T11:55:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1135,7 +1062,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
@@ -1197,8 +1124,8 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-09T20:42:37+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
-  "notified_at": null,
+  "last_seen": "2026-11-10T12:38:34+00:00",
+  "notified_at": "2026-11-10T12:38:55+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -1259,7 +1186,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -1330,7 +1257,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1459,7 +1386,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1513,7 +1440,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-29T16:55:26+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-10-30T10:52:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1573,7 +1500,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-10T00:17:25+00:00",
+  "last_seen": "2026-11-10T12:38:34+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
