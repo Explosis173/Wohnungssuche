@@ -3,13 +3,13 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-11-12T12:41:52+00:00",
+   "last_success": "2026-11-12T18:18:26+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-11-12T12:41:52+00:00",
+   "last_success": "2026-11-12T18:18:26+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 14
@@ -120,10 +120,6 @@
    "reason": "Warmmiete 610 € > 600 €",
    "seen": "2026-10-29T10:53:12+00:00"
   },
-  "ka:3519837232": {
-   "reason": "Warmmiete 650 € > 600 €",
-   "seen": "2026-10-22T15:15:48+00:00"
-  },
   "ka:3521097761": {
    "reason": "19 m²",
    "seen": "2026-10-29T10:53:12+00:00"
@@ -156,10 +152,6 @@
    "reason": "WG-Zimmer",
    "seen": "2026-10-29T10:53:12+00:00"
   },
-  "ka:3532716008": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-22T15:15:48+00:00"
-  },
   "ka:3533152156": {
    "reason": "Nicht mehr online",
    "seen": "2026-11-04T21:55:28+00:00"
@@ -183,10 +175,6 @@
   "ka:3540349803": {
    "reason": "13 m²",
    "seen": "2026-11-04T17:59:00+00:00"
-  },
-  "ka:3540880711": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-10-22T15:15:48+00:00"
   },
   "ka:3543041640": {
    "reason": "Nicht mehr online",
@@ -215,10 +203,6 @@
   "ka:3547942910": {
    "reason": "WG-Zimmer",
    "seen": "2026-10-31T15:43:24+00:00"
-  },
-  "ka:3548364410": {
-   "reason": "18 m²",
-   "seen": "2026-10-22T15:15:48+00:00"
   },
   "ka:3548752872": {
    "reason": "Warmmiete 630 € > 600 €",
@@ -392,6 +376,10 @@
    "reason": "Warmmiete 610 € > 600 €",
    "seen": "2026-11-11T17:53:45+00:00"
   },
+  "ka:3569535932": {
+   "reason": "WG-Zimmer",
+   "seen": "2026-11-12T18:18:26+00:00"
+  },
   "wg:11893287": {
    "reason": "16 m²",
    "seen": "2026-10-29T10:53:12+00:00"
@@ -443,10 +431,6 @@
   "wg:14259296": {
    "reason": "15 m²",
    "seen": "2026-11-10T12:38:34+00:00"
-  },
-  "wg:14270018": {
-   "reason": "WG-Zimmer",
-   "seen": "2026-10-22T15:15:48+00:00"
   },
   "wg:14273819": {
    "reason": "18 m²",
