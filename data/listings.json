@@ -75,6 +75,81 @@
   "duplicate_of": null
  },
  {
+  "id": "ka:3562287715",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-apratment-wohnung-studio-in-ab-400-/3562287715-203-7656",
+  "title": "Möbliertes Apratment / Wohnung / studio - in ab 400€",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 505,
+  "rent_cold": 400.0,
+  "utilities": 105,
+  "rent_estimated": true,
+  "deposit": null,
+  "area_m2": 35.0,
+  "rooms": 1.0,
+  "address": "Galgenbergstraße 12, 93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 49.0081742,
+  "lon": 12.1002635,
+  "available_from": "Dezember 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "*Vollmöbliertes Zimmer zur Zwischenmiete in Regensburg*\n\nLage: Galgenbergstraße 12, 93053 Regensburg\nGröße: 35 m²\n️ Vollmöbliert\nVerfügbar vom: 14. Dezember 2026 bis 15. Januar 2027\nMiete: *400 €*\n✅ Strom, Heizung & WLAN inklusive\n\n* Ca. 3 Minuten zum Regensburger Hauptbahnhof mit öffentlichen Verkehrsmitteln, 5 Minuten zu Fuß.\n* Gute Anbindung an den öffentlichen Nahverkehr.\n\nInfrastruktur in der Nähe:\n* Kaufland-Supermarkt (200 m) In der Nähe der Arcaden / des Cinemaxx\nund mehr.\n\nIdeal für alle, die ein möbliertes Zimmer für einen vorübergehenden Aufenthalt in Regensburg suchen.\n_________________________________________________________\n\nEnglish: *Fully Furnished Room for Sublet in Regensburg*\n\nLocation: Galgenbergstraße 12, 93053 Regensburg\nSize: 35 m²\n️ Fully furnished\nAvailable from: 13 December 2026 to 15 January 2027\nRent: *400€*\n✅ Electricity, heating & Wi-Fi included\nNo registration\n\n* Approximately 3 minutes to Regensburg Hauptbahnhof by public transport, In 5 minutes by walk.\n* Good public transport connections\n\nNearby Amenities:\n* Kaufland Supermarket (200m) Near Arcaden_Cinemaxx\nand more.\n\nIdeal for someone looking for a furnished room for a temporary stay in Regensburg.",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Balkon",
+   "Einbauküche",
+   "Badewanne",
+   "Stufenloser Zugang",
+   "Altbau",
+   "Neubau",
+   "Aufzug",
+   "Keller",
+   "Garage/Stellplatz",
+   "WG-geeignet"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0402054-d32d-4528-ad83-617977def8cd?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a38ab0ab-b570-4e72-b698-c563a39ca505?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e47686f0-538e-485f-9ba0-d1edfd4b3e52?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/8489bc57-caed-4d1e-8b3c-e1e32dd08850?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/faf87242-8d34-4343-ae01-5d41d39ff2df?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cdf019fe-b87f-4da2-91ba-d7b34a261a5d?rule=$_59.JPG"
+  ],
+  "score": 85,
+  "rating": "Top",
+  "breakdown": {
+   "location": 28.8,
+   "size": 19.4,
+   "price": 9.7,
+   "parking": 20.0,
+   "extras": 10,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Genug Platz für alle Möbel",
+   "Eigener Stellplatz",
+   "Einbauküche",
+   "Balkon/Terrasse",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "Warmmiete geschätzt (nur Kaltmiete angegeben)",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 1.2,
+  "bike_minutes": 6,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-11-13T17:43:46+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
+  "notified_at": "2026-11-13T17:44:14+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "ka:3568235858",
   "source": "kleinanzeigen",
   "url": "https://www.kleinanzeigen.de/s-anzeige/appartement-wohnung-student-1rw-nachmieter-kurzzeitmiete/3568235858-203-7658",
@@ -126,7 +201,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-11T11:52:19+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-11-11T11:52:51+00:00",
   "active": true,
   "duplicate_of": null
@@ -189,7 +264,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -253,7 +328,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -316,7 +391,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-07T16:25:11+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-11-08T11:16:22+00:00",
   "active": true,
   "duplicate_of": null
@@ -380,8 +455,81 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-09T12:51:47+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-11-09T12:52:15+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3570362541",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/moebliertes-apratment-wohnung-studio-in-ab-400-/3570362541-203-7656",
+  "title": "Möbliertes Apratment / Wohnung / studio - in ab 400€",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 505,
+  "rent_cold": 400.0,
+  "utilities": 105,
+  "rent_estimated": true,
+  "deposit": null,
+  "area_m2": 35.0,
+  "rooms": 1.0,
+  "address": "Galgenbergstraße 12, 93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 49.0081742,
+  "lon": 12.1002635,
+  "available_from": "Dezember 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "*Vollmöbliertes Zimmer zur Zwischenmiete in Regensburg*\n\nLage: Galgenbergstraße 12, 93053 Regensburg\nGröße: 35 m²\n️ Vollmöbliert\nVerfügbar vom: 14. Dezember 2026 bis 15. Januar 2027\nMiete: *400 €*\n✅ Strom, Heizung & WLAN inklusive\n\n* Ca. 3 Minuten zum Regensburger Hauptbahnhof mit öffentlichen Verkehrsmitteln, 5 Minuten zu Fuß.\n* Gute Anbindung an den öffentlichen Nahverkehr.\n\nInfrastruktur in der Nähe:\n* Kaufland-Supermarkt (200 m) In der Nähe der Arcaden / des Cinemaxx\nund mehr.\n\nIdeal für alle, die ein möbliertes Zimmer für einen vorübergehenden Aufenthalt in Regensburg suchen.\n_________________________________________________________\n\nEnglish: *Fully Furnished Room for Sublet in Regensburg*\n\nLocation: Galgenbergstraße 12, 93053 Regensburg\nSize: 35 m²\n️ Fully furnished\nAvailable from: 14 December 2026 to 15 January 2027\nRent: *400€*\n✅ Electricity, heating & Wi-Fi included\nNo registration\n\n* Approximately 3 minutes to Regensburg Hauptbahnhof by public transport, In 5 minutes by walk.\n* Good public transport connections\n\nNearby Amenities:\n* Kaufland Supermarket (200m) Near Arcaden_Cinemaxx\nand more.\n\nIdeal for someone looking for a furnished room for a temporary stay in Regensburg.",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Balkon",
+   "Einbauküche",
+   "Badewanne",
+   "Stufenloser Zugang",
+   "Altbau",
+   "Neubau",
+   "Aufzug",
+   "Keller"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c139795-7747-47c5-9585-84451b4f0c78?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5fe149f9-b14d-4515-9c77-f1360c6f9266?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6f24d65-1308-49d4-9170-7293c833d336?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88149fb9-e282-48bd-aa8d-8f5ea06f5e4c?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cde2c0a1-5aba-4249-b4f0-d1b0ca04d9ab?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/1264c39f-33e4-420e-a93f-a077d2cb096f?rule=$_59.JPG"
+  ],
+  "score": 65,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 28.8,
+   "size": 19.4,
+   "price": 9.7,
+   "parking": 0.0,
+   "extras": 10,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Genug Platz für alle Möbel",
+   "Einbauküche",
+   "Balkon/Terrasse",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "Warmmiete geschätzt (nur Kaltmiete angegeben)",
+   "Kein Parkplatz erwähnt",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 1.2,
+  "bike_minutes": 6,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-11-13T17:43:46+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -453,7 +601,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -574,7 +722,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-07T20:16:06+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-11-08T11:16:22+00:00",
   "active": true,
   "duplicate_of": null
@@ -695,7 +843,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
   "active": true,
   "duplicate_of": null
@@ -752,7 +900,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-03T17:50:29+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -816,7 +964,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -943,7 +1091,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-11T17:53:45+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-11-12T12:42:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1002,7 +1150,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
@@ -1126,7 +1274,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -1197,7 +1345,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1326,7 +1474,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1396,7 +1544,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-11T11:52:19+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-11-11T11:52:51+00:00",
   "active": true,
   "duplicate_of": null
@@ -1450,7 +1598,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-29T16:55:26+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-10-30T10:52:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1510,7 +1658,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-13T12:12:16+00:00",
+  "last_seen": "2026-11-13T17:43:46+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
