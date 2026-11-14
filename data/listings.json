@@ -144,7 +144,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-13T17:43:46+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-11-13T17:44:14+00:00",
   "active": true,
   "duplicate_of": null
@@ -201,7 +201,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-11T11:52:19+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-11-11T11:52:51+00:00",
   "active": true,
   "duplicate_of": null
@@ -264,7 +264,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -328,7 +328,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -455,7 +455,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-09T12:51:47+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-11-09T12:52:15+00:00",
   "active": true,
   "duplicate_of": null
@@ -528,8 +528,69 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-13T17:43:46+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
-  "notified_at": null,
+  "last_seen": "2026-11-14T11:28:05+00:00",
+  "notified_at": "2026-11-14T11:28:36+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3570739317",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/helles-1-zi-appartement-im-regensburger-stadtsueden-n-uni-klinik/3570739317-203-7656",
+  "title": "Helles 1-Zi-APPARTEMENT im Regensburger STADTSÜDEN n. Uni/Klinik",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 600.0,
+  "rent_cold": 490.0,
+  "utilities": 110.0,
+  "rent_estimated": false,
+  "deposit": 1400.0,
+  "area_m2": 33.0,
+  "rooms": 1.0,
+  "address": "93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 48.98840363176866,
+  "lon": 12.102716201131784,
+  "available_from": "Januar 2027",
+  "available_until": null,
+  "is_swap": false,
+  "description": "1-Zimmer-Appartement im 2. OG in 8-Parteien-Haus\nnach Süden ausgerichtet\nin Regensburg – Oberisling\nan Einzelperson\n\nab 1. Januar 2027 oder später\n\nbestehend aus\nWohn-/Ess-/Schlafbereich mit\nKüchenzeile\nBad mit Dusche, WB, WC, Fenster, WM-Anschluss\nFlur mit Fenster\nSüdbalkon\nEinstellmöglichkeit für 1 Fahrrad\n\nAusstattung:\nÖl-Zentralheizung\nMassivbauweise\nKüchenzeile mit Herd, Backofen, Dunstabzug und Kühlschrank m. Gefrierfach\nFliesen / Laminatboden\n\nObjektzustand:\nrenoviert\n\nLage:\nin ruhiger Lage\nim Regensburger Stadtteil Oberisling\nNähe Uni / Klinikum\n5 km zum Stadtzentrum\nUmgebung von offener Bebauung geprägt\n\nInfrastruktur:\nBusanbindung Linie 3 im 20min-Takt, Nachtbusanbindung\nLebensmittelgeschäft, Bankautomat, Gaststätte, Fußball-/Tennisplätze, Kirche fußläufig\n\nMiete / Monat:\nKaltmiete: 490,00 €\nHeiz- und Nebenkostenvorauszahlung: 110,00 €\nStellplatz: 40,00 €\nGesamtmiete: 640,00 €\n\nKaution: 1.400,00 €",
+  "features": [
+   "Balkon",
+   "Einbauküche",
+   "Garage/Stellplatz"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bdbbc013-688c-41b4-91ca-8e96dbb4aa9a?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f0e7936-4bd0-4fcc-9722-72c351df424e?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/9018f527-48f0-49af-91b2-75e14610f0f6?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7be6bb25-2b28-4e17-bc52-a7fc5e5b7c3f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36ec8688-422f-4a8f-ab52-808810773e84?rule=$_59.JPG"
+  ],
+  "score": 64,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 15.6,
+   "size": 18.1,
+   "price": 3.8,
+   "parking": 17.0,
+   "extras": 10,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Stellplatz (gegen Aufpreis)",
+   "Einbauküche",
+   "Balkon/Terrasse"
+  ],
+  "cons": [],
+  "distance_km": 3.4,
+  "bike_minutes": 18,
+  "parking": "Stellplatz (gegen Aufpreis)",
+  "ai_review": null,
+  "first_seen": "2026-11-14T11:28:05+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
+  "notified_at": "2026-11-14T11:28:36+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -601,7 +662,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -722,7 +783,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-07T20:16:06+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-11-08T11:16:22+00:00",
   "active": true,
   "duplicate_of": null
@@ -843,7 +904,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
   "active": true,
   "duplicate_of": null
@@ -900,7 +961,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-03T17:50:29+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -964,7 +1025,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -1091,7 +1152,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-11T17:53:45+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-11-12T12:42:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -1150,7 +1211,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
@@ -1274,7 +1335,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -1345,7 +1406,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1474,7 +1535,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1544,7 +1605,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-11T11:52:19+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-11-11T11:52:51+00:00",
   "active": true,
   "duplicate_of": null
@@ -1598,7 +1659,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-29T16:55:26+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-10-30T10:52:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1658,7 +1719,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-13T22:00:00+00:00",
+  "last_seen": "2026-11-14T11:28:05+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
