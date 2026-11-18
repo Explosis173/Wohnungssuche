@@ -114,7 +114,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -178,7 +178,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-10-20T09:25:24+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -305,7 +305,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-09T12:51:47+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-11-09T12:52:15+00:00",
   "active": true,
   "duplicate_of": null
@@ -378,7 +378,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-13T17:43:46+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-11-14T11:28:36+00:00",
   "active": true,
   "duplicate_of": null
@@ -451,7 +451,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -502,7 +502,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-14T20:14:00+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-10-15T09:08:58+00:00",
   "active": true,
   "duplicate_of": null
@@ -564,7 +564,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
   "active": true,
   "duplicate_of": null
@@ -685,7 +685,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -764,7 +764,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-17T23:31:59+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-11-18T13:02:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -835,7 +835,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-16T20:27:55+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-11-17T13:25:06+00:00",
   "active": true,
   "duplicate_of": null
@@ -894,8 +894,81 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "wg:14385504",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Kumpfmuehl-Ziegetsdorf.14385504.html",
+  "title": "1 Zimmer Wohnung in Uni-Nähe mit 31qm für 1 Jahr zu vermieten",
+  "kind": "Wohnung",
+  "rent_warm": 535.0,
+  "rent_cold": 455.0,
+  "utilities": 80.0,
+  "rent_estimated": false,
+  "deposit": 1300.0,
+  "area_m2": 31.0,
+  "rooms": null,
+  "address": "Adalbert-Stifter-Straße 5 93051 Regensburg Kumpfmühl-Ziegetsdorf",
+  "zip_code": "93051",
+  "district": "Kumpfmühl-Ziegetsdorf",
+  "lat": 48.999698,
+  "lon": 12.084123,
+  "available_from": "2027-01-01",
+  "available_until": "2028-03-01",
+  "is_swap": false,
+  "description": "Diese schöne lichtdurchflutete, möbilierte Wohnung wird für 1 Jahr wegen eines Auslansjahres untervermietet. Alle Möbel sind Schreinerware und maßgefertigt. Die Möbel, Kühlschrank, Mikrowelle, Airfryer etc. bleiben in der Wohnung, der Einzug ist also sehr unkompliziert. Jede Wohnung hat einen seperaten Eingang, was für viel Privatsphäre sorgt, der Innenhof verfügt über Bänke und verfügt auch über einen Grill. Da die Wohnung an der Hausecke ist, hat man auch ein Fenster mehr, auch im Sommer bleibt es angenehm kühl. Es gibt außerdem einen Keller, in dem Gegenstände gelagert werden können. Ich wohne seit 1,5 Jahren hier und bin sehr zufrieden.\n\nruhige Lage mit vielen Parkmöglichkeiten, Uni in 2 Minuten mit dem Bus und in 10 Minuten zu Fuß zu erreichen, ein Edeka ist nur ein paar Häuser weiter, mit dem Bus ist man auch gleich in der Innenstadt.",
+  "features": [
+   "Mehrfamilienhaus",
+   "Hochparterre",
+   "möbliert",
+   "Eigenes Bad, Dusche",
+   "gute Parkmöglichkeiten",
+   "2 Minuten zu Fuß entfernt",
+   "Keller"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2026/46/b7f318a708167517e11b21f50d18ba1ad5d751f737af0a1fdf7de7a25e4ef105_WhatsApp_Image_2026_11_18_at_22.55.35__2_.large.jpeg",
+   "https://img.wg-gesucht.de/media/up/2026/46/250b2e5bf02199400470247e16e75c84ed933f43dec8fa106999442a50d1fdfe_WhatsApp_Image_2026_11_18_at_22.55.35__1_.large.jpeg",
+   "https://img.wg-gesucht.de/media/up/2026/46/e5a4a0c767b1bb8852c32504a9d7747d7628d6c95d73ea3720799e70acce03f4_WhatsApp_Image_2026_11_18_at_22.55.35__3_.large.jpeg",
+   "https://img.wg-gesucht.de/media/up/2026/46/26f82e805e7c961ebd689a39412da5712d0fd3af05db1a7efe17da39e412027b_WhatsApp_Image_2026_11_18_at_22.55.35__4_.large.jpeg",
+   "https://img.wg-gesucht.de/media/up/2026/46/23d6615ec414171bc2c8dd5aa8af7024dcaa3cf1ddefe9ddff47722ebd6bca55_WhatsApp_Image_2026_11_18_at_22.55.35__5_.large.jpeg",
+   "https://img.wg-gesucht.de/media/up/2026/46/8306832725476d0b1f00706c227babba3d86bcfca6cd192b11aebad7c8c2bde3_WhatsApp_Image_2026_11_18_at_22.55.34__3_.large.jpeg",
+   "https://img.wg-gesucht.de/media/up/2026/46/08c69b69b5c3e32d00c1ab7bc820ce2ca1ec60acc505851938c341fef730fb8a_WhatsApp_Image_2026_11_18_at_22.55.34__2_.large.jpeg",
+   "https://img.wg-gesucht.de/media/up/2026/46/751d2b8d90711c2a652960f663720c907632ef3528e01021b0e4b905341bb5d2_WhatsApp_Image_2026_11_18_at_22.55.35.large.jpeg",
+   "https://img.wg-gesucht.de/media/up/2026/46/a715dbffe12761c3ac8955e4d1f13056cc3cf8928c016b1f8dbe50ce7365303d_WhatsApp_Image_2026_11_18_at_22.55.34__4_.large.jpeg",
+   "https://img.wg-gesucht.de/media/up/2026/46/01ee76c58b3917e1e4291349cb971b3133579f7b4817a0c4df6e9f5993c9a4f1_WhatsApp_Image_2026_11_18_at_22.55.34.large.jpeg",
+   "https://img.wg-gesucht.de/media/up/2026/46/65cf2c50ca127eabddd19ce4ecc153a15d699e2aeb45ea17762c59a73ae95a4b_WhatsApp_Image_2026_11_18_at_22.55.34__1_.large.jpeg"
+  ],
+  "score": 53,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 22.2,
+   "size": 16.9,
+   "price": 7.8,
+   "parking": 9.0,
+   "extras": 6.0,
+   "penalty": -9.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "Parken auf der Straße / Bewohnerparken",
+   "Möbliert – deine eigenen Möbel müssten woanders hin",
+   "Befristet bis 01.03.2028"
+  ],
+  "distance_km": 2.3,
+  "bike_minutes": 12,
+  "parking": "Parken auf der Straße / Bewohnerparken",
+  "ai_review": null,
+  "first_seen": "2026-11-18T22:57:42+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -960,7 +1033,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-18T18:50:45+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -1037,7 +1110,7 @@
   "parking": "Kein Parkplatz",
   "ai_review": null,
   "first_seen": "2026-11-18T18:50:45+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": null
@@ -1108,7 +1181,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1177,7 +1250,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-20T15:04:16+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-10-21T09:22:01+00:00",
   "active": true,
   "duplicate_of": null
@@ -1247,7 +1320,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-11T11:52:19+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-11-11T11:52:51+00:00",
   "active": true,
   "duplicate_of": null
@@ -1301,7 +1374,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-29T16:55:26+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-10-30T10:52:31+00:00",
   "active": true,
   "duplicate_of": null
@@ -1367,7 +1440,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-14T20:45:43+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-11-15T11:57:06+00:00",
   "active": true,
   "duplicate_of": null
@@ -1427,7 +1500,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-10-28T10:34:36+00:00",
-  "last_seen": "2026-11-18T18:50:45+00:00",
+  "last_seen": "2026-11-18T22:57:42+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
   "active": true,
   "duplicate_of": null
