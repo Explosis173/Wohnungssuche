@@ -3,13 +3,13 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-11-20T12:52:37+00:00",
+   "last_success": "2026-11-20T18:36:28+00:00",
    "last_error": "2026-11-16T12:44:31+00:00: 403 for https://www.kleinanzeigen.de/s-wohnung-mieten/regensburg/anzeige:angebote/preis::600/c203l7636",
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-11-20T12:52:37+00:00",
+   "last_success": "2026-11-20T18:36:28+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 22
@@ -91,10 +91,6 @@
   "ka:3519837232": {
    "reason": "Warmmiete 650 € > 600 €",
    "seen": "2026-11-19T13:04:15+00:00"
-  },
-  "ka:3522203270": {
-   "reason": "WG-Zimmer",
-   "seen": "2026-10-30T16:41:57+00:00"
   },
   "ka:3522843428": {
    "reason": "WG-Zimmer",
@@ -275,6 +271,10 @@
   "ka:3564171258": {
    "reason": "Nicht mehr online",
    "seen": "2026-11-16T20:27:55+00:00"
+  },
+  "ka:3564344788": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-11-20T18:36:28+00:00"
   },
   "ka:3566275359": {
    "reason": "10 m²",
