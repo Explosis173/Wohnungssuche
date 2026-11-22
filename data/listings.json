@@ -114,7 +114,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-10-26T10:07:07+00:00",
   "active": true,
   "duplicate_of": null
@@ -185,8 +185,78 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-21T17:29:39+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
-  "notified_at": null,
+  "last_seen": "2026-11-22T12:34:43+00:00",
+  "notified_at": "2026-11-22T12:35:23+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "wg:14398329",
+  "source": "wg-gesucht",
+  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Kumpfmuehl-Ziegetsdorf-Neupruell.14398329.html",
+  "title": "1-Zimmer Apartment für Studierende zu vermieten",
+  "kind": "Wohnung",
+  "rent_warm": 600.0,
+  "rent_cold": 600.0,
+  "utilities": null,
+  "rent_estimated": false,
+  "deposit": null,
+  "area_m2": 23.0,
+  "rooms": null,
+  "address": "Fritz-Fend-Str. 93047 Regensburg Kumpfmühl-Ziegetsdorf-Neuprüll",
+  "zip_code": "93047",
+  "district": "Kumpfmühl-Ziegetsdorf-Neuprüll",
+  "lat": 49.012612,
+  "lon": 12.09349,
+  "available_from": "2027-01-15",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Hallo!\nIch suche bevorzugt ab Januar 2027 eine/-n Nachmieter*in für mein Studentenapp., ca. 23qm Zimmer mit Küchenzeile, Bad, kleiner Terrase, Kellerabteil und TG-Stellplatz.\nKosten warm: 600€\nDie Lage ist optimal, im Unicastello-Wohnheim, Fritz-Fend-Str. in Regensburg, nahe der Haltestelle Justizgebäude und fußläufig zum Hauptbahnhof. gelegen.\nDie aktuelle Ausstattung sollte nach Absprache ganz oder teilweise übernommen werden. Haustiere sind in diesem Objekt nicht erlaubt.\nDa es sich um eine studentische Anlage handelt, muss zwingend eine gültige Immatrikulation vorliegen. Sowie die Miete durch entspr. Nachweisen gedeckt sein.\nMeldet Euch gerne über diese Plattform für Nachfragen, ich melde mich dann zeitnah.",
+  "features": [
+   "möbliert, teilmöbliert",
+   "Kochnische",
+   "Dusche",
+   "Laminat, Fliesen",
+   "Tiefgaragenstellplatz",
+   "3 Minuten zu Fuß entfernt",
+   "Terrasse"
+  ],
+  "images": [
+   "https://img.wg-gesucht.de/media/up/2026/46/80eca2b8ef1df398ba5cd1196247f7d2ad42b4ba27fbdab534c6e88358ca45d9_52578.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/46/cf189ed0e580e9ad1240d6b1fca2648d623fd6b364917044c064f51ffaff64d8_52576.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/46/10f4ac1d901ebda67c4162ebfca23ed91a5c0984a9b0ff1afe30fd2bc849e5fb_52574.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/46/3a388049c3fb1e62d21f92d9d20f708cca2c3ae16deb70235e747c0bec3ae673_52572.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/46/46d05c5417b9b44b866761d65c473dc89ee96c761395db223ba178191176ba28_52568.large.jpg",
+   "https://img.wg-gesucht.de/media/up/2026/46/a3e81d30c07cf38ad3c7737efc5e63dbfd7e636325c4d30c0e0f0f6459420bcc_52570.large.jpg"
+  ],
+  "score": 70,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 30.0,
+   "size": 9.4,
+   "price": 3.8,
+   "parking": 20.0,
+   "extras": 10,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Eigener Stellplatz",
+   "Einbauküche",
+   "Balkon/Terrasse",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "Eng – deine Möbel passen nur knapp",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 0.7,
+  "bike_minutes": 4,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
+  "notified_at": "2026-11-22T12:35:23+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -249,7 +319,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-09T12:51:47+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-09T12:52:15+00:00",
   "active": true,
   "duplicate_of": null
@@ -307,7 +377,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T12:52:37+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-20T12:53:08+00:00",
   "active": true,
   "duplicate_of": null
@@ -380,7 +450,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-13T17:43:46+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-14T11:28:36+00:00",
   "active": true,
   "duplicate_of": null
@@ -566,7 +636,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
   "active": true,
   "duplicate_of": null
@@ -630,8 +700,72 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3574190844",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-apartment-regensburg-westenviertel-ab-sofort-verfuegbar/3574190844-203-7658",
+  "title": "1-Zimmer-Apartment Regensburg Westenviertel ab sofort verfügbar",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 580.0,
+  "rent_cold": 530.0,
+  "utilities": 130.0,
+  "rent_estimated": false,
+  "deposit": null,
+  "area_m2": 33.0,
+  "rooms": 1.0,
+  "address": "93049 Regensburg",
+  "zip_code": "93049",
+  "district": "Westenviertel / Prüfening / Königswiesen",
+  "lat": 49.022362521964276,
+  "lon": 12.0701855140112,
+  "available_from": null,
+  "available_until": null,
+  "is_swap": false,
+  "description": "Wohnung Regensburg Hochweg Nähe Ausfahrt Regensburg West/ Bushaltestelle Obermaierstr.\n1 Zimmer Apartment, 33 qm, 4. Obergeschoss (von 4) ohne Aufzug mit separater Küche und separatem Bad mit Wanne sowie Abstellraum, Loggia, zwei Balkone (Küche und Hauptraum)\nMiete 450€ + NK (derzeit ca. 130€)\nObjekt ist renoviert und nach isoliert, Türen neu, dezentrale Lüftung mit Wärmerückgewinnung\nAb sofort verfügbar",
+  "features": [
+   "Balkon",
+   "Einbauküche",
+   "Badewanne"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/464a9265-7200-46cd-a5a4-b1919137d0fd?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1021c59-5a08-4670-a8b8-703f26c21b45?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9bfbf98d-8626-4b50-9fa2-f9e548ae08ce?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4efd9db-0278-4431-acb2-c5356a8bc23e?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad99b278-8682-491b-b207-c5d0b0e4727f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26fcd766-2d72-472f-a1a4-ce2a208983e5?rule=$_59.JPG"
+  ],
+  "score": 57,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 24.2,
+   "size": 18.1,
+   "price": 5.0,
+   "parking": 0.0,
+   "extras": 10,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Genug Platz für alle Möbel",
+   "Einbauküche",
+   "Balkon/Terrasse",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 2.0,
+  "bike_minutes": 10,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
+  "notified_at": "2026-11-22T12:35:23+00:00",
   "active": true,
   "duplicate_of": null
  },
@@ -709,7 +843,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-17T23:31:59+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-18T13:02:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -780,7 +914,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-16T20:27:55+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-17T13:25:06+00:00",
   "active": true,
   "duplicate_of": null
@@ -856,7 +990,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-20T22:41:24+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -970,7 +1104,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-21T12:38:41+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": "wg:12935096"
@@ -1043,7 +1177,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-18T22:57:42+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-19T13:04:36+00:00",
   "active": true,
   "duplicate_of": null
@@ -1096,7 +1230,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T22:41:24+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1297,7 +1431,7 @@
   "parking": "Kein Parkplatz",
   "ai_review": null,
   "first_seen": "2026-11-18T18:50:45+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-19T13:04:36+00:00",
   "active": true,
   "duplicate_of": null
@@ -1368,7 +1502,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1426,7 +1560,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T18:36:28+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1484,7 +1618,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T18:36:28+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1666,7 +1800,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T18:36:28+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1732,7 +1866,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-14T20:45:43+00:00",
-  "last_seen": "2026-11-21T21:41:39+00:00",
+  "last_seen": "2026-11-22T12:34:43+00:00",
   "notified_at": "2026-11-15T11:57:06+00:00",
   "active": true,
   "duplicate_of": null
