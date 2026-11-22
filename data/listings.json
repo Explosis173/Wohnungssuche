@@ -57,69 +57,6 @@
   "duplicate_of": null
  },
  {
-  "id": "wg:14279414",
-  "source": "wg-gesucht",
-  "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Galgenberg.14279414.html",
-  "title": "Nachmieter für Studentenapartment gesucht. Studentenheim",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 420.0,
-  "rent_cold": 420.0,
-  "utilities": null,
-  "rent_estimated": false,
-  "deposit": 1100.0,
-  "area_m2": 20.0,
-  "rooms": 1.0,
-  "address": "Alfons-Auer-Str 4 93053 Regensburg Galgenberg",
-  "zip_code": "93053",
-  "district": "Galgenberg",
-  "lat": 49.009032,
-  "lon": 12.104431,
-  "available_from": "2026-11-01",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Ich suche einen Nachmieter für mein Einzelzimmerapartment im Studentenwohnheim.\nWohnfläche: ca. 20 m2\nAusstattung: Eigenes Badezimmer und eigene Küche\nLage: Nur 5 Gehminuten vom Bahnhof entfernt\nMiete: 420 € Warmmiete, alle Nebenkosten inklusive\nMöblierung: Einige Möbelstücke sind bereits vorhanden\nEinzug: Ab dem 01.11. oder 15.11. möglich\nVoraussetzungen:\nImmatrikulationsbescheinigung\nEinkommensnachweis",
-  "features": [
-   "Mehrfamilienhaus",
-   "Eigenes Bad, Dusche",
-   "Zentralheizung",
-   "eigener Parkplatz",
-   "5 Minuten zu Fuß entfernt",
-   "Fahrradkeller, Aufzug"
-  ],
-  "images": [],
-  "score": 73,
-  "rating": "Gut",
-  "breakdown": {
-   "location": 28.7,
-   "size": 0.0,
-   "price": 15.0,
-   "parking": 20.0,
-   "extras": 10,
-   "penalty": -1.0
-  },
-  "pros": [
-   "Sehr zentral",
-   "Günstig",
-   "Eigener Stellplatz",
-   "Einbauküche",
-   "Keller/Abstellraum",
-   "Fahrradstellplatz"
-  ],
-  "cons": [
-   "Eng – deine Möbel passen nur knapp",
-   "Keine Fotos"
-  ],
-  "distance_km": 1.2,
-  "bike_minutes": 6,
-  "parking": "Eigener Stellplatz",
-  "ai_review": null,
-  "first_seen": "2026-10-25T14:22:12+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
-  "notified_at": "2026-10-26T10:07:07+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
   "id": "wg:14398017",
   "source": "wg-gesucht",
   "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Ostenviertel.14398017.html",
@@ -185,7 +122,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-21T17:29:39+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-22T12:35:23+00:00",
   "active": true,
   "duplicate_of": null
@@ -255,7 +192,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-22T12:34:43+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-22T12:35:23+00:00",
   "active": true,
   "duplicate_of": null
@@ -319,7 +256,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-09T12:51:47+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-09T12:52:15+00:00",
   "active": true,
   "duplicate_of": null
@@ -377,7 +314,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T12:52:37+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-20T12:53:08+00:00",
   "active": true,
   "duplicate_of": null
@@ -450,8 +387,76 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-13T17:43:46+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-14T11:28:36+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3579561801",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-zimmer-appartement-in-regensburg/3579561801-203-7656",
+  "title": "1 Zimmer Appartement in Regensburg",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 590.0,
+  "rent_cold": 590.0,
+  "utilities": 160.0,
+  "rent_estimated": false,
+  "deposit": 1290.0,
+  "area_m2": 26.0,
+  "rooms": 1.0,
+  "address": "Grunewaldstraße 10, 93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 48.9971569,
+  "lon": 12.1302158,
+  "available_from": "Dezember 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "1-Zimmer-Wohnung mit Balkon & Küche in Regensburg - ideal für Studenten oder Azubis!\n\nDas funktionelle Apartment mit circa 26 qm liegt in der ersten Etage einer Wohnanlage und verfügt über eine eigene Haustüre (Laubengangerschließung).\n\nDie letzte Renovierung fand im September 2025 statt. Die Wohnung ist voraussichtlich ab dem 15.12.2026 bezugsfertig.\n\nDie Wohnung ist durch die breite Fensterfront sehr lichtdurchflutet und wird durch einen großen Balkon ergänzt. Dazu gehört eine Pantry-Küche welche im Mai 2022 angeschafft wurde.\n\nDas Bad besitzt eine Regendusche mit Handbrause, WC und Waschbecken, ein Fenster im Bad ist vorhanden.\n\nDer PVC-Bodenbelag ist pflegeleicht und bietet wohnliche Atmosphäre.\n\nEin Tiefgaragen-Stellplatz ist vorhanden. Dieser ist unmittelbar über das Treppenhaus zu erreichen.\n\nEin abschließbares Kellerabteil gehört ebenfalls zur Wohnung und bietet ausreichend Stauraum.\n\nPantry-Küche, WC, Dusche, Waschbecken, Badfenster, PVC-Bodenbelag, große Fensterfront, TV-Anschluss usw.\n\nDas Objekt befindet sich im Regensburg Kasernenviertel und hat eine perfekte Anbindung zur B15 und der Autobahn A3. Mehrere Buslinien sind fußläufig zu erreichen.\nDie Universität liegt zirka 2 km und die Innenstadt zirka 4 km entfernt. In näherer Umgebung ist alles erreichbar, was man zum täglichen Leben braucht (Einkaufsmöglichkeiten, Cafés, Restaurants, Supermärkte, Ärzte etc.)",
+  "features": [
+   "Balkon",
+   "Einbauküche",
+   "Garage/Stellplatz"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/6361aab1-2200-4afc-bd05-b05007e39da4?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/782e0258-230d-4d1b-8b28-17ebb7536c8f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/35e4070b-7aac-47ed-ab52-3209760c39b3?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e32f080-b5d2-4a58-ad1d-440bdab8cfdf?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/732a2bca-2522-433a-ba4b-4784f6cac3e0?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/3772cabb-bd3f-4e10-947c-01d0cd0c498b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6be1ccf-6bf6-4fba-a0c1-85fdfabbe1c4?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3dc3060e-0f59-40db-9fde-34f3769cebb3?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04a802e8-685e-43d4-abbb-d7a3615cb640?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91f8e71a-dd9f-4813-bbc2-e90022a2af7e?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1fa9f86f-e2fd-45e1-94d4-8f798317d346?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/53404924-a74e-4c50-8903-57052f9c389a?rule=$_59.JPG"
+  ],
+  "score": 64,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 15.4,
+   "size": 13.8,
+   "price": 4.4,
+   "parking": 20.0,
+   "extras": 10,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Eigener Stellplatz",
+   "Einbauküche",
+   "Balkon/Terrasse",
+   "Keller/Abstellraum"
+  ],
+  "cons": [],
+  "distance_km": 3.4,
+  "bike_minutes": 18,
+  "parking": "Eigener Stellplatz",
+  "ai_review": null,
+  "first_seen": "2026-11-22T17:48:56+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -636,8 +641,68 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-06T17:28:46+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-07T11:03:33+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
+  "id": "ka:3579446200",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/kleines-zimmer-mit-eigener-kleiner-kueche-und-extra-wc-und-bad/3579446200-203-7656",
+  "title": "kleines Zimmer mit eigener kleiner Küche und Extra WC und Bad",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 500.0,
+  "rent_cold": 500.0,
+  "utilities": null,
+  "rent_estimated": false,
+  "deposit": 1000.0,
+  "area_m2": 25.0,
+  "rooms": 1.0,
+  "address": "93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 48.98701648043534,
+  "lon": 12.110490881441137,
+  "available_from": "Oktober 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Wir suchen eine(n) netten(e) ordentliche(n) Mieter(in) (zumindest Nichtraucher in der Wohnung und im Haus und keine Haustiere), für unser Haus mit\nkleinem Zimmer mit und mit eigener Singleküche für 1 Person unweit der Uni sowie Klinikum und OTH. Wichtig für uns ist, Sie können sich in Deutsch\nverständigen und austauschen.\nGerne auch für Kurzzeitmieten, aber nicht unter 2 Monaten (Miete 35 Euro/Tag). Miete für 1 Jahr und länger (500€ Warmmiete/monat ggf. zzgl.\nStellplatz 40€ vorm Haus)Wlan möglich. Busverbindung in unmittelbarer Nähe vorm Haus. (Sie haben interesse -> kurze Bewerbung Vorauswahl\nschriftlich mit Tel. Daten).",
+  "features": [
+   "Möbliert/Teilmöbliert",
+   "Einbauküche"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/50/5082b7bb-cbc5-4986-9a48-bd952f8c19cd?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/dff5d67e-c3f9-405a-921e-634b29d73583?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45244351-fe8c-491f-b3c6-e2ad6f3aaa3b?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7862f311-e391-4b0a-ae69-0d1b078348ca?rule=$_59.JPG"
+  ],
+  "score": 59,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 14.0,
+   "size": 13.1,
+   "price": 10.0,
+   "parking": 17.0,
+   "extras": 8.0,
+   "penalty": -3.0
+  },
+  "pros": [
+   "Stellplatz (gegen Aufpreis)",
+   "Einbauküche"
+  ],
+  "cons": [
+   "3.7 km bis zur Altstadt",
+   "Möbliert – deine eigenen Möbel müssten woanders hin"
+  ],
+  "distance_km": 3.7,
+  "bike_minutes": 19,
+  "parking": "Stellplatz (gegen Aufpreis)",
+  "ai_review": null,
+  "first_seen": "2026-11-22T17:48:56+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
+  "notified_at": null,
   "active": true,
   "duplicate_of": null
  },
@@ -700,7 +765,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -764,7 +829,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-22T12:34:43+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-22T12:35:23+00:00",
   "active": true,
   "duplicate_of": null
@@ -843,7 +908,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-17T23:31:59+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-18T13:02:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -914,7 +979,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-16T20:27:55+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-17T13:25:06+00:00",
   "active": true,
   "duplicate_of": null
@@ -990,7 +1055,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-20T22:41:24+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1104,7 +1169,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-21T12:38:41+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": "wg:12935096"
@@ -1177,7 +1242,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-18T22:57:42+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-19T13:04:36+00:00",
   "active": true,
   "duplicate_of": null
@@ -1230,7 +1295,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T22:41:24+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1360,6 +1425,62 @@
   "duplicate_of": null
  },
  {
+  "id": "ka:3579722587",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/studentenapartment-im-uniflora/3579722587-203-7655",
+  "title": "Studentenapartment im Uniflora",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 590.0,
+  "rent_cold": 590.0,
+  "utilities": null,
+  "rent_estimated": false,
+  "deposit": 1350.0,
+  "area_m2": 25.0,
+  "rooms": 1.0,
+  "address": "Blumenstraße 14, 93055 Regensburg",
+  "zip_code": "93055",
+  "district": "Ostenviertel / Burgweinting / Schwabelweis",
+  "lat": 49.01236549999999,
+  "lon": 12.1134282,
+  "available_from": "Januar 2027",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Ich suche aktuell einen Nachmieter für meine Wohnung im Uniflora.\nFür die Wohnung wird ein Nachweis einer Ausbildung oder eines Studiums benötigt.\nDie Wohnung liegt nah am Stobäusplatz wodurch eine hervorragende Anbindung gegeben ist. Einkaufsmöglichkeiten, die Uni/OTH und Innenstadt sind gut mit dem Fahrrad oder den Öffis erreichbar.\nIm Keller befindet sich ein zugehöriger Spind und ein Waschkeller.",
+  "features": [],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79d38c33-fc36-4b17-b314-9d653d7ae188?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37e49e2f-e979-4243-9cbb-d22199a2a85f?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2b595bbd-338e-4d2c-9c88-5befa04cb3b0?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/812a73bc-beaa-4ed3-a3cc-75d07cbbb4fb?rule=$_59.JPG"
+  ],
+  "score": 51,
+  "rating": "Okay",
+  "breakdown": {
+   "location": 27.5,
+   "size": 13.1,
+   "price": 4.4,
+   "parking": 0.0,
+   "extras": 6.0,
+   "penalty": 0.0
+  },
+  "pros": [
+   "Sehr zentral",
+   "Keller/Abstellraum"
+  ],
+  "cons": [
+   "Kein Parkplatz erwähnt"
+  ],
+  "distance_km": 1.4,
+  "bike_minutes": 7,
+  "parking": "Kein Parkplatz erwähnt",
+  "ai_review": null,
+  "first_seen": "2026-11-22T17:48:56+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
+  "notified_at": null,
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "wg:12935096",
   "source": "wg-gesucht",
   "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Innenstadt.12935096.html",
@@ -1431,7 +1552,7 @@
   "parking": "Kein Parkplatz",
   "ai_review": null,
   "first_seen": "2026-11-18T18:50:45+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-19T13:04:36+00:00",
   "active": true,
   "duplicate_of": null
@@ -1502,7 +1623,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1560,7 +1681,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T18:36:28+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1618,7 +1739,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T18:36:28+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1800,7 +1921,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T18:36:28+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1866,7 +1987,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-14T20:45:43+00:00",
-  "last_seen": "2026-11-22T12:34:43+00:00",
+  "last_seen": "2026-11-22T17:48:56+00:00",
   "notified_at": "2026-11-15T11:57:06+00:00",
   "active": true,
   "duplicate_of": null
