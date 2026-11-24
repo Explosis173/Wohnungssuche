@@ -131,7 +131,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-23T14:37:16+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-23T14:38:10+00:00",
   "active": true,
   "duplicate_of": null
@@ -201,7 +201,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-22T12:34:43+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-22T12:35:23+00:00",
   "active": true,
   "duplicate_of": null
@@ -265,7 +265,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-09T12:51:47+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-09T12:52:15+00:00",
   "active": true,
   "duplicate_of": null
@@ -648,7 +648,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-22T17:48:56+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-23T14:38:10+00:00",
   "active": true,
   "duplicate_of": null
@@ -712,7 +712,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -855,7 +855,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-17T23:31:59+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-18T13:02:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -926,7 +926,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-16T20:27:55+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-17T13:25:06+00:00",
   "active": true,
   "duplicate_of": null
@@ -1002,7 +1002,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-20T22:41:24+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1116,7 +1116,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-21T12:38:41+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": "wg:12935096"
@@ -1189,7 +1189,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-18T22:57:42+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-19T13:04:36+00:00",
   "active": true,
   "duplicate_of": null
@@ -1242,7 +1242,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T22:41:24+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1307,7 +1307,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-23T14:37:16+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-23T14:38:10+00:00",
   "active": true,
   "duplicate_of": null
@@ -1487,7 +1487,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-22T17:48:56+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-23T14:38:10+00:00",
   "active": true,
   "duplicate_of": null
@@ -1564,7 +1564,7 @@
   "parking": "Kein Parkplatz",
   "ai_review": null,
   "first_seen": "2026-11-18T18:50:45+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-19T13:04:36+00:00",
   "active": true,
   "duplicate_of": null
@@ -1635,7 +1635,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1693,7 +1693,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T18:36:28+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1751,7 +1751,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T18:36:28+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1999,7 +1999,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-14T20:45:43+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-15T11:57:06+00:00",
   "active": true,
   "duplicate_of": null
@@ -2110,7 +2110,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-23T14:37:16+00:00",
-  "last_seen": "2026-11-23T22:02:05+00:00",
+  "last_seen": "2026-11-24T02:55:28+00:00",
   "notified_at": "2026-11-23T14:38:10+00:00",
   "active": true,
   "duplicate_of": null
