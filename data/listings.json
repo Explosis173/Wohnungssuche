@@ -1,5 +1,67 @@
 [
  {
+  "id": "ka:3581116547",
+  "source": "kleinanzeigen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/helle-freundliche-dachgeschosswohnung-mit-ebk-und-tg-stellplatz/3581116547-203-7656",
+  "title": "Helle, freundliche Dachgeschosswohnung mit EBK und TG-Stellplatz",
+  "kind": "1-Zimmer-Wohnung",
+  "rent_warm": 510.0,
+  "rent_cold": 380.0,
+  "utilities": 80.0,
+  "rent_estimated": false,
+  "deposit": 1520.0,
+  "area_m2": 26.0,
+  "rooms": 1.0,
+  "address": "Prinz-Rupprecht-Straße 8, 93053 Regensburg",
+  "zip_code": "93053",
+  "district": "Galgenberg / Kasernenviertel / Uni",
+  "lat": 49.0043137,
+  "lon": 12.1171959,
+  "available_from": "Dezember 2026",
+  "available_until": null,
+  "is_swap": false,
+  "description": "Geräumiges 1-Zimmer-Apartment in einem gepflegten Mehrfamilienhaus, Einbauküche ohne Ablöse mit Ceranfeld, Kühlschrank und Herd. Teppichboden, schöner Ausblick ins Grüne, sehr gute Anbindung (Einkaufsmöglichkeiten, Ärzte, Bus, Uni). Tiefgaragenstellplatz (+50 €) , Kellerabteil, Waschmaschinennutzung gg Gebühr im Keller vorhanden.\n\nKaltmiete: 380,- €\nNebenkosten: 130,- €\nTiefgarage: 50,- €\n\nGESAMTMIETE: 560,- €\n\nIdeal für Studenten - die Wohnung wird aufgrund Ihrer Größe nur an Einzelpersonen vermietet.",
+  "features": [
+   "Einbauküche",
+   "Garage/Stellplatz"
+  ],
+  "images": [
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed4643ae-c409-4b28-8c10-891a7d0dbbc7?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3e7b23d-fe73-4960-87fe-e04687bfbe53?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e37f993e-e593-4823-8a94-8c9cebf92b77?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f60b9621-47b0-4181-a1d9-f21543d2e6c9?rule=$_59.JPG",
+   "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/8395e240-53a5-411b-8a93-449ac5deb97a?rule=$_59.JPG"
+  ],
+  "score": 72,
+  "rating": "Gut",
+  "breakdown": {
+   "location": 22.8,
+   "size": 13.8,
+   "price": 9.4,
+   "parking": 17.0,
+   "extras": 10,
+   "penalty": -1.0
+  },
+  "pros": [
+   "Stellplatz (gegen Aufpreis)",
+   "Einbauküche",
+   "Keller/Abstellraum",
+   "Waschmaschine möglich"
+  ],
+  "cons": [
+   "Ablöse verlangt"
+  ],
+  "distance_km": 2.2,
+  "bike_minutes": 11,
+  "parking": "Stellplatz (gegen Aufpreis)",
+  "ai_review": null,
+  "first_seen": "2026-11-24T14:51:36+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
+  "notified_at": "2026-11-24T14:52:29+00:00",
+  "active": true,
+  "duplicate_of": null
+ },
+ {
   "id": "wg:14398017",
   "source": "wg-gesucht",
   "url": "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Regensburg-Ostenviertel.14398017.html",
@@ -131,7 +193,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-23T14:37:16+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-23T14:38:10+00:00",
   "active": true,
   "duplicate_of": null
@@ -201,7 +263,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-22T12:34:43+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-22T12:35:23+00:00",
   "active": true,
   "duplicate_of": null
@@ -265,7 +327,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-09T12:51:47+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-09T12:52:15+00:00",
   "active": true,
   "duplicate_of": null
@@ -648,7 +710,7 @@
   "parking": "Stellplatz (gegen Aufpreis)",
   "ai_review": null,
   "first_seen": "2026-11-22T17:48:56+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-23T14:38:10+00:00",
   "active": true,
   "duplicate_of": null
@@ -712,7 +774,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-04T12:07:22+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-04T12:07:49+00:00",
   "active": true,
   "duplicate_of": null
@@ -855,7 +917,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-17T23:31:59+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-18T13:02:13+00:00",
   "active": true,
   "duplicate_of": null
@@ -926,7 +988,7 @@
   "parking": "Eigener Stellplatz",
   "ai_review": null,
   "first_seen": "2026-11-16T20:27:55+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-17T13:25:06+00:00",
   "active": true,
   "duplicate_of": null
@@ -1002,7 +1064,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-20T22:41:24+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1116,7 +1178,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-21T12:38:41+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": null,
   "active": true,
   "duplicate_of": "wg:12935096"
@@ -1189,7 +1251,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-11-18T22:57:42+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-19T13:04:36+00:00",
   "active": true,
   "duplicate_of": null
@@ -1242,7 +1304,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T22:41:24+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1307,7 +1369,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-23T14:37:16+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-23T14:38:10+00:00",
   "active": true,
   "duplicate_of": null
@@ -1487,7 +1549,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-22T17:48:56+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-23T14:38:10+00:00",
   "active": true,
   "duplicate_of": null
@@ -1564,7 +1626,7 @@
   "parking": "Kein Parkplatz",
   "ai_review": null,
   "first_seen": "2026-11-18T18:50:45+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-19T13:04:36+00:00",
   "active": true,
   "duplicate_of": null
@@ -1635,7 +1697,7 @@
   "parking": "Parken auf der Straße / Bewohnerparken",
   "ai_review": null,
   "first_seen": "2026-10-19T21:07:17+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-10-20T09:25:46+00:00",
   "active": true,
   "duplicate_of": null
@@ -1693,7 +1755,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T18:36:28+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1751,7 +1813,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-20T18:36:28+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-21T12:39:17+00:00",
   "active": true,
   "duplicate_of": null
@@ -1999,7 +2061,7 @@
   "parking": "Kein Parkplatz erwähnt",
   "ai_review": null,
   "first_seen": "2026-11-14T20:45:43+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
+  "last_seen": "2026-11-24T14:51:36+00:00",
   "notified_at": "2026-11-15T11:57:06+00:00",
   "active": true,
   "duplicate_of": null
@@ -2061,57 +2123,6 @@
   "first_seen": "2026-10-28T10:34:36+00:00",
   "last_seen": "2026-11-21T21:41:39+00:00",
   "notified_at": "2026-10-28T10:34:52+00:00",
-  "active": true,
-  "duplicate_of": null
- },
- {
-  "id": "ka:3580419330",
-  "source": "kleinanzeigen",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/einzelzimmer/3580419330-203-7654",
-  "title": "Einzelzimmer",
-  "kind": "1-Zimmer-Wohnung",
-  "rent_warm": 434.0,
-  "rent_cold": 434.0,
-  "utilities": null,
-  "rent_estimated": false,
-  "deposit": null,
-  "area_m2": 20.0,
-  "rooms": 1.0,
-  "address": "Dr.-Gessler-Straße 15, 93051 Regensburg",
-  "zip_code": "93051",
-  "district": "Kumpfmühl / Ziegetsdorf / Neuprüll",
-  "lat": 49.0038085,
-  "lon": 12.069678,
-  "available_from": "Januar 2027",
-  "available_until": null,
-  "is_swap": false,
-  "description": "Nur an Studenten ab 1 January 2027",
-  "features": [],
-  "images": [],
-  "score": 36,
-  "rating": "Mäßig",
-  "breakdown": {
-   "location": 20.6,
-   "size": 0.0,
-   "price": 14.1,
-   "parking": 0.0,
-   "extras": 5.0,
-   "penalty": -4.0
-  },
-  "pros": [],
-  "cons": [
-   "Eng – deine Möbel passen nur knapp",
-   "Kein Parkplatz erwähnt",
-   "Nur für Studierende/Azubis",
-   "Keine Fotos"
-  ],
-  "distance_km": 2.6,
-  "bike_minutes": 13,
-  "parking": "Kein Parkplatz erwähnt",
-  "ai_review": null,
-  "first_seen": "2026-11-23T14:37:16+00:00",
-  "last_seen": "2026-11-24T02:55:28+00:00",
-  "notified_at": "2026-11-23T14:38:10+00:00",
   "active": true,
   "duplicate_of": null
  }
