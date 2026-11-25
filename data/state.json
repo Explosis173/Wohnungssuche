@@ -3,13 +3,13 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-11-25T14:20:55+00:00",
+   "last_success": "2026-11-25T19:56:18+00:00",
    "last_error": "2026-11-16T12:44:31+00:00: 403 for https://www.kleinanzeigen.de/s-wohnung-mieten/regensburg/anzeige:angebote/preis::600/c203l7636",
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-11-25T14:20:55+00:00",
+   "last_success": "2026-11-25T19:56:18+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 20
@@ -96,10 +96,6 @@
    "reason": "Nicht mehr online",
    "seen": "2026-11-05T12:19:24+00:00"
   },
-  "ka:3540349803": {
-   "reason": "13 m²",
-   "seen": "2026-11-04T17:59:00+00:00"
-  },
   "ka:3543064091": {
    "reason": "Warmmiete 747 € > 600 €",
    "seen": "2026-11-07T16:25:11+00:00"
@@ -131,6 +127,10 @@
   "ka:3552148855": {
    "reason": "Nicht mehr online",
    "seen": "2026-11-14T20:45:43+00:00"
+  },
+  "ka:3552650138": {
+   "reason": "Warmmiete 610 € > 600 €",
+   "seen": "2026-11-25T19:56:18+00:00"
   },
   "ka:3554495752": {
    "reason": "WG-Zimmer",
@@ -187,6 +187,10 @@
   "ka:3560680893": {
    "reason": "Nicht mehr online",
    "seen": "2026-11-21T21:41:39+00:00"
+  },
+  "ka:3561242704": {
+   "reason": "Warmmiete 640 € > 600 €",
+   "seen": "2026-11-25T19:56:18+00:00"
   },
   "ka:3561603110": {
    "reason": "Nicht mehr online",
@@ -344,6 +348,10 @@
    "reason": "Warmmiete 830 € > 600 €",
    "seen": "2026-11-23T14:37:16+00:00"
   },
+  "ka:3580368984": {
+   "reason": "Nicht mehr online",
+   "seen": "2026-11-25T19:56:18+00:00"
+  },
   "ka:3580419330": {
    "reason": "Nicht mehr online",
    "seen": "2026-11-24T14:51:36+00:00"
@@ -363,6 +371,10 @@
   "ka:3581825390": {
    "reason": "Warmmiete 675 € > 600 €",
    "seen": "2026-11-25T00:49:37+00:00"
+  },
+  "ka:3582522870": {
+   "reason": "WG-Zimmer",
+   "seen": "2026-11-25T19:56:18+00:00"
   },
   "wg:10838218": {
    "reason": "18 m² < 20 m²",
@@ -423,10 +435,6 @@
   "wg:14315104": {
    "reason": "Nicht mehr online",
    "seen": "2026-11-18T18:50:45+00:00"
-  },
-  "wg:14315875": {
-   "reason": "19 m²",
-   "seen": "2026-11-04T17:59:00+00:00"
   },
   "wg:14320530": {
    "reason": "Gesuch, kein Angebot",
