@@ -3,13 +3,13 @@
  "alerted_on": null,
  "health": {
   "kleinanzeigen": {
-   "last_success": "2026-11-25T19:56:18+00:00",
+   "last_success": "2026-11-26T00:27:27+00:00",
    "last_error": "2026-11-16T12:44:31+00:00: 403 for https://www.kleinanzeigen.de/s-wohnung-mieten/regensburg/anzeige:angebote/preis::600/c203l7636",
    "consecutive_failures": 0,
    "last_count": 50
   },
   "wg-gesucht": {
-   "last_success": "2026-11-25T19:56:18+00:00",
+   "last_success": "2026-11-26T00:27:27+00:00",
    "last_error": null,
    "consecutive_failures": 0,
    "last_count": 20
@@ -87,10 +87,6 @@
   "ka:3529849602": {
    "reason": "WG-Zimmer",
    "seen": "2026-11-19T23:05:11+00:00"
-  },
-  "ka:3533152156": {
-   "reason": "Nicht mehr online",
-   "seen": "2026-11-04T21:55:28+00:00"
   },
   "ka:3540147685": {
    "reason": "Nicht mehr online",
@@ -479,6 +475,10 @@
   "wg:14415715": {
    "reason": "Zwischenmiete bis 01.03.2027",
    "seen": "2026-11-25T14:20:55+00:00"
+  },
+  "wg:14416977": {
+   "reason": "12 m² < 20 m²",
+   "seen": "2026-11-26T00:27:27+00:00"
   },
   "wg:8158177": {
    "reason": "Zwischenmiete bis 01.01.2027",
